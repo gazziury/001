@@ -1,89 +1,71 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico 
-http://conexaoonline.top:80/0516768562/1814541802/291553
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico 
-http://conexaoonline.top:80/0516768562/1814541802/291540
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico HD
-http://conexaoonline.top:80/0516768562/1814541802/291556
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Mosaico FHD
-http://conexaoonline.top:80/0516768562/1814541802/291542
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa SD
-http://conexaoonline.top:80/0516768562/1814541802/287635
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa HD
-http://conexaoonline.top:80/0516768562/1814541802/287636
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa 
-http://conexaoonline.top:80/0516768562/1814541802/291555
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa 
-http://conexaoonline.top:80/0516768562/1814541802/291557
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Acompanhe a casa 2
-http://conexaoonline.top:80/0516768562/1814541802/291558
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291529
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291530
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291541
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Deserto 
-http://conexaoonline.top:80/0516768562/1814541802/291554
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Fundo do Mar 
-http://conexaoonline.top:80/0516768562/1814541802/291535
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Quarto Fundo do Mar 
-http://conexaoonline.top:80/0516768562/1814541802/291537
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 
-http://conexaoonline.top:80/0516768562/1814541802/291531
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 
-http://conexaoonline.top:80/0516768562/1814541802/291533
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 
-http://conexaoonline.top:80/0516768562/1814541802/291552
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Cozinha 2
-http://conexaoonline.top:80/0516768562/1814541802/291534
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Sala 
-http://conexaoonline.top:80/0516768562/1814541802/291532
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 1 BBB",Sala 2
-http://conexaoonline.top:80/0516768562/1814541802/291538
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Acompanhe a casa
+http://gameplay.p2sweb.me:80/denipaula/x657554/271262
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 01
+http://gameplay.p2sweb.me:80/denipaula/x657554/271263
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 02
+http://gameplay.p2sweb.me:80/denipaula/x657554/271264
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 03
+http://gameplay.p2sweb.me:80/denipaula/x657554/271265
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 04
+http://gameplay.p2sweb.me:80/denipaula/x657554/271266
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 05
+http://gameplay.p2sweb.me:80/denipaula/x657554/271267
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 06
+http://gameplay.p2sweb.me:80/denipaula/x657554/271268
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 07
+http://gameplay.p2sweb.me:80/denipaula/x657554/271269
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 08
+http://gameplay.p2sweb.me:80/denipaula/x657554/271270
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 09
+http://gameplay.p2sweb.me:80/denipaula/x657554/271271
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 10
+http://gameplay.p2sweb.me:80/denipaula/x657554/271272
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Mosaico
+http://gameplay.p2sweb.me:80/denipaula/x657554/271273
 
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Mosaico 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Mosaico 
 http://conexaoonline.top:80/0646577379/5675861259/291553
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Mosaico 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Mosaico 
 http://conexaoonline.top:80/0646577379/5675861259/291540
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Mosaico HD
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Mosaico HD
 http://conexaoonline.top:80/0646577379/5675861259/291556
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Mosaico FHD
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Mosaico FHD
 http://conexaoonline.top:80/0646577379/5675861259/291542
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Acompanhe a casa SD
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Acompanhe a casa SD
 http://conexaoonline.top:80/0646577379/5675861259/287635
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Acompanhe a casa HD
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Acompanhe a casa HD
 http://conexaoonline.top:80/0646577379/5675861259/287636
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Acompanhe a casa 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Acompanhe a casa 
 http://conexaoonline.top:80/0646577379/5675861259/291555
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Acompanhe a casa 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Acompanhe a casa 
 http://conexaoonline.top:80/0646577379/5675861259/291557
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Acompanhe a casa 2
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Acompanhe a casa 2
 http://conexaoonline.top:80/0646577379/5675861259/291558
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Quarto Deserto 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Quarto Deserto 
 http://conexaoonline.top:80/0646577379/5675861259/291529
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Quarto Deserto 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Quarto Deserto 
 http://conexaoonline.top:80/0646577379/5675861259/291530
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Quarto Deserto 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Quarto Deserto 
 http://conexaoonline.top:80/0646577379/5675861259/291541
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Quarto Deserto 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Quarto Deserto 
 http://conexaoonline.top:80/0646577379/5675861259/291554
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Quarto Fundo do Mar 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Quarto Fundo do Mar 
 http://conexaoonline.top:80/0646577379/5675861259/291535
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Quarto Fundo do Mar 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Quarto Fundo do Mar 
 http://conexaoonline.top:80/0646577379/5675861259/291537
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Cozinha 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Cozinha 
 http://conexaoonline.top:80/0646577379/5675861259/291531
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Cozinha 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Cozinha 
 http://conexaoonline.top:80/0646577379/5675861259/291533
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Cozinha 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Cozinha 
 http://conexaoonline.top:80/0646577379/5675861259/291552
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Cozinha 2
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Cozinha 2
 http://conexaoonline.top:80/0646577379/5675861259/291534
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Sala 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Sala 
 http://conexaoonline.top:80/0646577379/5675861259/291532
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO 2 BBB",Sala 2
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Sala 2
 http://conexaoonline.top:80/0646577379/5675861259/291538
 
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 10" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Mosaico
