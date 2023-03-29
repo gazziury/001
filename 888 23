@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="SINTONIA BBB",Acompanhe a casa
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/331100.ts
+
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Acompanhe a casa
 http://gameplay.p2sweb.me:80/denipaula/x657554/271262
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GAMEPLAY BBB",Cam 01
