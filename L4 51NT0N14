@@ -3246,6 +3246,560 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102389
 #EXTINF:-1 tvg-logo="https://www.canalcaribe.icrt.cu/wp-content/uploads/2019/02/Canal-Caribe-Identidad.png" group-title="LAT - Cuba", CU: Canal Caribe
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102392
 
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo brasilia SD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Globo_Brasil.png" group-title="PORT - Brasil Globo",BR: Globo brasilia SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24190.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo Brasilia FHD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Globo_Brasil.png" group-title="PORT - Brasil Globo",BR: Globo Brasilia FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24209.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Campinas HD" tvg-logo="http://swedtv.vip/logos/brasil_globo/EPTV.png" group-title="PORT - Brasil Globo",BR: Globo EPTV Campinas HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24191.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Ribeirao Preto SD" tvg-logo="http://swedtv.vip/logos/brasil_globo/EPTV.png" group-title="PORT - Brasil Globo",BR: Globo EPTV Ribeirao Preto SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24192.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo HD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Globo.png" group-title="PORT - Brasil Globo",BR: Globo HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24194.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo FHD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Globo.png" group-title="PORT - Brasil Globo",BR: Globo FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24189.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas HD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo Minas HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3285.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas FHD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo Minas FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24188.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="BR: Globo News SD" tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="PORT - Brasil Globo",BR: Globo News SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3465.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="BR: Globo News HD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Globo_News.png" group-title="PORT - Brasil Globo",BR: Globo News HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3308.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="BR: Globo News FHD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Globo_News.png" group-title="PORT - Brasil Globo",BR: Globo News FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24196.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste HD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo Nordeste HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24197.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste FHD" tvg-logo="http://swedtv.vip/logos/brasil_globo/GLOBO_%20NORDES.png" group-title="PORT - Brasil Globo",BR: Globo Nordeste FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3286.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo NSC Florianopolis HD" tvg-logo="http://viperos.net:8080/images/30b2cb83bc72f303273a95db195733cf.png" group-title="PORT - Brasil Globo",BR: Globo NSC Florianopolis HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24216.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo RBS HD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo RBS HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24219.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo RBS FHD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo RBS FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24218.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo RBS TV Pelotas" tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="PORT - Brasil Globo",BR: Globo RBS TV Pelotas
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24217.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica Manaus " tvg-logo="http://swedtv.vip/logos/brasil_globo/Amaz%c3%b4nica_manaus.png" group-title="PORT - Brasil Globo",BR: Globo Rede Amazonica Manaus 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24198.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo RJ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png" group-title="PORT - Brasil Globo",BR: Globo RJ SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24199.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo RJ HD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo RJ HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3288.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo SP HD" tvg-logo="http://titanicos.net:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="PORT - Brasil Globo",BR: Globo SP HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3289.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Anhanguera Goiania" tvg-logo="http://swedtv.vip/logos/brasil_globo/TV_Anhanguera.png" group-title="PORT - Brasil Globo",BR: Globo TV Anhanguera Goiania
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24201.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Bahia" tvg-logo="http://swedtv.vip/logos/brasil_globo/TV_Bahia.png" group-title="PORT - Brasil Globo",BR: Globo TV Bahia
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24202.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Centro America SD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Centro_Am%c3%a9rica.png" group-title="PORT - Brasil Globo",BR: Globo TV Centro America SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24203.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Centro America HD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Centro_Am%c3%a9rica.png" group-title="PORT - Brasil Globo",BR: Globo TV Centro America HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/101897.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Centro TRIBUNA SANTOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png" group-title="PORT - Brasil Globo",BR: Globo TV Centro TRIBUNA SANTOS FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/101898.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo TV Gazeta Sul ES  HD" tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="PORT - Brasil Globo",BR: Globo TV Gazeta Sul ES  HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24205.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo TV Integracao Juiz de Fora " tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="PORT - Brasil Globo",BR: Globo TV Integracao Juiz de Fora 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24204.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo TV TEM Sorocaba SD" tvg-logo="http://swedtv.vip/logos/brasil_globo/TEM_sorocaba.png" group-title="PORT - Brasil Globo",BR: Globo TV TEM Sorocaba SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24206.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo TV Tribuna Santos " tvg-logo="http://swedtv.vip/logos/brasil_globo/Tribuna_Santos.png" group-title="PORT - Brasil Globo",BR: Globo TV Tribuna Santos 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24207.ts
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: Globo TV Verdes Mares " tvg-logo="http://viperos.net:8080/images/30b2cb83bc72f303273a95db195733cf.png" group-title="PORT - Brasil Globo",BR: Globo TV Verdes Mares 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24210.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Verdes Mares HD" tvg-logo="http://swedtv.vip/logos/brasil_globo/Verdes_Mares.png" group-title="PORT - Brasil Globo",BR: Globo Verdes Mares HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24187.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Band SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/299px-Rede_Bandeirantes_logo_2011.svg.png" group-title="PORT - Brasil Nacionais",BR: Band SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/101869.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Band HD" tvg-logo="http://titanicos.net:8080/images/708e192992500343fad38a4736d4c02b.png" group-title="PORT - Brasil Nacionais",BR: Band HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3499.ts
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BR: Band FHD" tvg-logo="http://titanicos.net:8080/images/708e192992500343fad38a4736d4c02b.png" group-title="PORT - Brasil Nacionais",BR: Band FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24179.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Band Campinas HD" tvg-logo="http://titanicos.net:8080/images/708e192992500343fad38a4736d4c02b.png" group-title="PORT - Brasil Nacionais",BR: Band Campinas HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3498.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Ba HD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/Record_TV.png" group-title="PORT - Brasil Nacionais",BR: Record Ba HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3504.ts
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR: Record HD" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="PORT - Brasil Nacionais",BR: Record HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24222.ts
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR: Record FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/Record_TV.png" group-title="PORT - Brasil Nacionais",BR: Record FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24181.ts
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR: Record RJ SD" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="PORT - Brasil Nacionais",BR: Record RJ SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3398.ts
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR: Record RJ HD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/Record_TV.png" group-title="PORT - Brasil Nacionais",BR: Record RJ HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3507.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS " tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="PORT - Brasil Nacionais",BR: Record RS 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3399.ts
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR: Record SD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/Record_TV.png" group-title="PORT - Brasil Nacionais",BR: Record SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3505.ts
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR: Record TV SD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/Record_TV.png" group-title="PORT - Brasil Nacionais",BR: Record TV SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3400.ts
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="BR: Rede Brasil SD" tvg-logo="http://viperos.net:8080/images/ac7ef18dd9bc4d0ed616e94391d4ee5b.png" group-title="PORT - Brasil Filmes e Series",BR: Rede Brasil SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3344.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Sbt SD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/sbt.png" group-title="PORT - Brasil Nacionais",BR: Sbt SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24224.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Sbt HD" tvg-logo="http://swedtv.vip/logos/Brasil_Nacionais/sbt.png" group-title="PORT - Brasil Nacionais",BR: Sbt HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24223.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Animal Planet SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="PORT - Brasil Entretenimiento",BR: Animal Planet SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3485.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Animal Planet HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="PORT - Brasil Entretenimiento",BR: Animal Planet HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3321.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Animal Planet FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="PORT - Brasil Entretenimiento",BR: Animal Planet FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24290.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Comedy Central SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="PORT - Brasil Entretenimiento",BR: Comedy Central SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3450.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Comedy Central HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="PORT - Brasil Entretenimiento",BR: Comedy Central HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3294.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Comedy Central FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="PORT - Brasil Entretenimiento",BR: Comedy Central FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24157.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="BR: Discovery Channel SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Channel SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3486.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="BR: Discovery Channel HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Channel HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3322.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Channel FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Channel FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24297.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="BR: Discovery H&H SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery H&H SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3487.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="BR: Discovery H&H HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery H&H HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3324.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Science HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Science.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Science HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3325.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Science FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Science.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Science FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24303.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Theater FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Theater FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24292.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Turbo SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Turbo SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3488.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="BR: Discovery Turbo HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Turbo HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3327.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery Turbo FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24291.ts
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="BR: Discovery World HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_World.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery World HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3328.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery World FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_World.png" group-title="PORT - Brasil Entretenimiento",BR: Discovery World FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24294.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: E! Entertainment SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/E!_Entertainment.png" group-title="PORT - Brasil Entretenimiento",BR: E! Entertainment SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3484.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: E! Entertainment HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/E!_Entertainment.png" group-title="PORT - Brasil Entretenimiento",BR: E! Entertainment HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3510.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Food Network SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" group-title="PORT - Brasil Entretenimiento",BR: Food Network SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24273.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Food Network HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" group-title="PORT - Brasil Entretenimiento",BR: Food Network HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3311.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Food Network FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" group-title="PORT - Brasil Entretenimiento",BR: Food Network FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24296.ts
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="BR: History SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/History.png" group-title="PORT - Brasil Entretenimiento",BR: History SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3490.ts
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="BR: History HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" group-title="PORT - Brasil Entretenimiento",BR: History HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3330.ts
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="BR: History FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="PORT - Brasil Entretenimiento",BR: History FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24332.ts
+#EXTINF:-1 tvg-id="History2.br" tvg-name="BR: H2 SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/H2.png" group-title="PORT - Brasil Entretenimiento",BR: H2 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3489.ts
+#EXTINF:-1 tvg-id="History2.br" tvg-name="BR: H2 HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/H2.png" group-title="PORT - Brasil Entretenimiento",BR: H2 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3329.ts
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="BR: ID Discovery SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/ID_Discovery.png" group-title="PORT - Brasil Entretenimiento",BR: ID Discovery SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3491.ts
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="BR: ID Discovery HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/ID_Discovery.png" group-title="PORT - Brasil Entretenimiento",BR: ID Discovery HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3331.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR: Lifetime SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Lifetime.png" group-title="PORT - Brasil Entretenimiento",BR: Lifetime SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3474.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR: Lifetime HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Lifetime.png" group-title="PORT - Brasil Entretenimiento",BR: Lifetime HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3315.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR: Lifetime FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Lifetime.png" group-title="PORT - Brasil Entretenimiento",BR: Lifetime FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24333.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Off SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Canal_OFF.png" group-title="PORT - Brasil Entretenimiento",BR: Off SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3412.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Off FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Canal_OFF.png" group-title="PORT - Brasil Entretenimiento",BR: Off FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3527.ts
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="BR: NatGeo SD" tvg-logo="http://vaktar.vip:8080/images/4515f9546ea2a62400fc8fcfc73a8820.png" group-title="PORT - Brasil Entretenimiento",BR: NatGeo SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3492.ts
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="BR: Natgeo HD" tvg-logo="http://viperos.net:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="PORT - Brasil Entretenimiento",BR: Natgeo HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3332.ts
+#EXTINF:-1 tvg-id="NatGeoWild.br" tvg-name="BR: NatGeo Wild SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="PORT - Brasil Entretenimiento",BR: NatGeo Wild SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24301.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TLC SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="PORT - Brasil Entretenimiento",BR: TLC SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3480.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TLC HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="PORT - Brasil Entretenimiento",BR: TLC HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3319.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TBS SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/TBS.png" group-title="PORT - Brasil Entretenimiento",BR: TBS SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3436.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TBS HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/TBS.png" group-title="PORT - Brasil Entretenimiento",BR: TBS HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3270.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TBS FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/TBS.png" group-title="PORT - Brasil Entretenimiento",BR: TBS FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24337.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR: GNT SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/GNT.png" group-title="PORT - Brasil Entretenimiento",BR: GNT SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3473.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR: GNT HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/GNT.png" group-title="PORT - Brasil Entretenimiento",BR: GNT HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3314.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="BR: GNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="PORT - Brasil Entretenimiento",BR: GNT FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24340.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR: Multishow SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Multishow.png" group-title="PORT - Brasil Entretenimiento",BR: Multishow SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3477.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR: Multishow HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Multishow.png" group-title="PORT - Brasil Entretenimiento",BR: Multishow HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3318.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR: Multishow FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Multishow.png" group-title="PORT - Brasil Entretenimiento",BR: Multishow FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24335.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Viva SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Viva.png" group-title="PORT - Brasil Entretenimiento",BR: Viva SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3483.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Viva HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Viva.png" group-title="PORT - Brasil Entretenimiento",BR: Viva HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3320.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Viva FHD" tvg-logo="http://assets.stickpng.com/images/6012a35f45200400048cf20b.png" group-title="PORT - Brasil Entretenimiento",BR: Viva FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24343.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Woohoo SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/Woohoo.png" group-title="PORT - Brasil Entretenimiento",BR: Woohoo SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3413.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Arte 1 SD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/ARTE_1.png" group-title="PORT - Brasil Entretenimiento",BR: Arte 1 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3415.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="BR: Arte 1 HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/ARTE_1.png" group-title="PORT - Brasil Entretenimiento",BR: Arte 1 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/22534.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Fish TV HD" tvg-logo="http://swedtv.vip/logos/Brasil_Entretenimiento/fish_tv.png" group-title="PORT - Brasil Entretenimiento",BR: Fish TV HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3406.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: A&E SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3414.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1024px-SBT_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: A&E FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24225.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="PORT - Brasil Filmes e Series",BR: AMC SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24257.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="PORT - Brasil Filmes e Series",BR: AMC HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24283.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="PORT - Brasil Filmes e Series",BR: AMC FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/101899.ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="BR: AXN SD" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="PORT - Brasil Filmes e Series",BR: AXN SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3416.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: AXN HD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/AXN.png" group-title="PORT - Brasil Filmes e Series",BR: AXN HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/22535.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="PORT - Brasil Filmes e Series",BR: AXN FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24226.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: Canal Brasil 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24331.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Cinemax SD" tvg-logo="http://titanicos.net:8080/images/a15cbfc7c4af32c16b6fc62c76d134da.png" group-title="PORT - Brasil Filmes e Series",BR: Cinemax SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3420.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="BR: Cinemax HD" tvg-logo="http://titanicos.net:8080/images/a15cbfc7c4af32c16b6fc62c76d134da.png" group-title="PORT - Brasil Filmes e Series",BR: Cinemax HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/22536.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Cinemax FHD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/Cinemax.png" group-title="PORT - Brasil Filmes e Series",BR: Cinemax FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24245.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Fox Life SD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/Fox_life.png" group-title="PORT - Brasil Filmes e Series",BR: Fox Life SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24229.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Fox Life " tvg-logo="http://viperos.net:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="PORT - Brasil Filmes e Series",BR: Fox Life 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3471.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Fx HD" tvg-logo="http://viperos.net:8080/images/8d6352882b0c9a3310f8d9dfb145de9e.png" group-title="PORT - Brasil Filmes e Series",BR: Fx HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3422.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Fx FHD" tvg-logo="https://www.pngfind.com/pngs/m/487-4874910_fx-fx-hd-channel-logo-hd-png-download.png" group-title="PORT - Brasil Filmes e Series",BR: Fx FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3255.ts
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="BR: HBO HD" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-png-transparent.png" group-title="PORT - Brasil Filmes e Series",BR: HBO HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24274.ts
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="BR: HBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: HBO FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24233.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 SD" tvg-logo="http://viperos.net:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="PORT - Brasil Filmes e Series",BR: HBO 2 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3423.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="http://viperos.net:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="PORT - Brasil Filmes e Series",BR: HBO 2 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3258.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: HBO 2 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24232.ts
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="BR: HBO Family SD" tvg-logo="http://viperos.net:8080/images/567902b022119f8abef5b7c5eec55f38.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Family SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3424.ts
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="BR: HBO Family HD" tvg-logo="http://viperos.net:8080/images/caa37c82ccf195b1d36ffa21a49d2975.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Family HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3257.ts
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="BR: HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Family FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24251.ts
+#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="BR: HBO Plus FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Plus FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24234.ts
+#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="BR: Hbo Plus SD" tvg-logo="http://viperos.net:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="PORT - Brasil Filmes e Series",BR: Hbo Plus SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3425.ts
+#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="BR: HBO Plus HD" tvg-logo="http://viperos.net:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Plus HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3259.ts
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="BR: Hbo Signature SD" tvg-logo="http://viperos.net:8080/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="PORT - Brasil Filmes e Series",BR: Hbo Signature SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3426.ts
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="BR: Hbo Signature HD" tvg-logo="http://viperos.net:8080/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="PORT - Brasil Filmes e Series",BR: Hbo Signature HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3260.ts
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="BR: HBO Signature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Signature FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24247.ts
+#EXTINF:-1 tvg-id="MaxPrimeBrasil.br" tvg-name="BR: HBO Xtreme HD" tvg-logo="http://titanicos.net:8080/images/9ea14534c249fe19e2bec15c963b8412.png" group-title="PORT - Brasil Filmes e Series",BR: HBO Xtreme HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3428.ts
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="BR: Paramount SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Paramount_Pics_logo.png/1200px-Paramount_Pics_logo.png" group-title="PORT - Brasil Filmes e Series",BR: Paramount SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24268.ts
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="BR: Paramount HD" tvg-logo="http://viperos.net:8080/images/8cf28d05cf220920b2cec2c1da247955.png" group-title="PORT - Brasil Filmes e Series",BR: Paramount HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3265.ts
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="BR: Paramount FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Paramount_Pics_logo.png/1200px-Paramount_Pics_logo.png" group-title="PORT - Brasil Filmes e Series",BR: Paramount FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24313.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Sony SD" tvg-logo="http://titanicos.net:8080/images/2aeb434aacbe2a352b700376ae5dc9f9.png" group-title="PORT - Brasil Filmes e Series",BR: Sony SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3432.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1200px-Sony_Channel_logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: Sony HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3266.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR: Sony FHD" tvg-logo="http://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="PORT - Brasil Filmes e Series",BR: Sony FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24284.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Space SD" tvg-logo="http://titanicos.net:8080/images/0cef6205e5f94f767fe6308c2ae81628.png" group-title="PORT - Brasil Filmes e Series",BR: Space SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3433.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Space HD" tvg-logo="http://titanicos.net:8080/images/0cef6205e5f94f767fe6308c2ae81628.png" group-title="PORT - Brasil Filmes e Series",BR: Space HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3267.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Space FHD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/space.png" group-title="PORT - Brasil Filmes e Series",BR: Space FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/101900.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="PORT - Brasil Filmes e Series",BR: Star Channel
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3421.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="PORT - Brasil Filmes e Series",BR: Star Channel HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3252.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Star Channel FHD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/Star_Channel.png" group-title="PORT - Brasil Filmes e Series",BR: Star Channel FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24228.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Studio Universal SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="PORT - Brasil Filmes e Series",BR: Studio Universal SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24261.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Studio Universal HD" tvg-logo="http://viperos.net:8080/images/041077044a5dd9588f7e193cc825871a.png" group-title="PORT - Brasil Filmes e Series",BR: Studio Universal HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3268.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Studio Universal FHD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/Studio_Universal.png" group-title="PORT - Brasil Filmes e Series",BR: Studio Universal FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24237.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Syfy SD" tvg-logo="http://viperos.net:8080/images/057512604d6c11ca386dc2e6afe45c73.png" group-title="PORT - Brasil Filmes e Series",BR: Syfy SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3435.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Syfy HD" tvg-logo="http://tvgo.re:8080/images/cfa31f301a1b8a445eab6f1d2a0bafe8.png" group-title="PORT - Brasil Filmes e Series",BR: Syfy HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3269.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: SyFy FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="PORT - Brasil Filmes e Series",BR: SyFy FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24336.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Tcm SD" tvg-logo="http://viperos.net:8080/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="PORT - Brasil Filmes e Series",BR: Tcm SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3437.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Tcm HD" tvg-logo="http://viperos.net:8080/images/ab22d6a801ba0d63ff0e603c43db7e76.png" group-title="PORT - Brasil Filmes e Series",BR: Tcm HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3271.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Action SD" tvg-logo="http://titanicos.net:8080/images/f10799e5b42c97c504ffc4dabce9da79.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Action SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3438.ts
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="BR: Telecine Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Action HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24276.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Action FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24243.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Cult SD" tvg-logo="http://viperos.net:8080/images/2a5772e22bae139099497886be6b1fb9.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Cult SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3439.ts
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="BR: Telecine Cult HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Cult HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24288.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Cult FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Cult FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24255.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Fun SD" tvg-logo="http://viperos.net:8080/images/b01c2260c2330044f5cec093ca3415dc.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Fun SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3440.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Fun HD" tvg-logo="http://viperos.net:8080/images/c25242f6b84993f3c477ea01d32d6f4b.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Fun HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3274.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Fun FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Fun FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24242.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Pipoca SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Pipoca SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24278.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Pipoca HD" tvg-logo="http://viperos.net:8080/images/1cba65c6c4982a15b8c5a6d26870d0ce.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Pipoca HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3275.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Pipoca  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Pipoca  FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24241.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Premium SD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/Telecine_Premium.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Premium SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3441.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Premium FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24240.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Touch SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Telecine_Touch_2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Touch SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3442.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Telecine Touch FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="PORT - Brasil Filmes e Series",BR: Telecine Touch FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24239.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TNT SD" tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/TNT.png" group-title="PORT - Brasil Filmes e Series",BR: TNT SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3443.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/1280px-TNT_Logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: TNT FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24252.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TNT Series SD" tvg-logo="http://titanicos.net:8080/images/b48e76a84d08a98aed43fef38cb14016.png" group-title="PORT - Brasil Filmes e Series",BR: TNT Series SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3444.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TNT Series HD" tvg-logo="http://viperos.net:8080/images/2ef2e1ecdb638722654e5abb384dfb3e.png" group-title="PORT - Brasil Filmes e Series",BR: TNT Series HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3279.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: TNT Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/1280px-TNT_Logo.svg.png" group-title="PORT - Brasil Filmes e Series",BR: TNT Series FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24238.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal Channel SD" tvg-logo="http://titanicos.net:8080/images/0d74a38ac3d8629d9ace5bd04067380d.png" group-title="PORT - Brasil Filmes e Series",BR: Universal Channel SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3445.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal Channel HD" tvg-logo="http://titanicos.net:8080/images/0d74a38ac3d8629d9ace5bd04067380d.png" group-title="PORT - Brasil Filmes e Series",BR: Universal Channel HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3280.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Warner Channel HD" tvg-logo="http://viperos.net:8080/images/7701cfecfb2a25fd41a64d0a3f5978d5.png" group-title="PORT - Brasil Filmes e Series",BR: Warner Channel HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3281.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Warner Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="PORT - Brasil Filmes e Series",BR: Warner Channel FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24236.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR: MegaPix SD" tvg-logo="http://titanicos.net:8080/images/b060e1f32dc6edd537d0b189f164e064.png" group-title="PORT - Brasil Filmes e Series",BR: MegaPix SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3430.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR: MegaPix FHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mega-icon-logo-png-transparent.png" group-title="PORT - Brasil Filmes e Series",BR: MegaPix FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24287.ts
+#EXTINF:-1 tvg-id="PrimeBoxBrasil.br" tvg-name="BR: Prime Box Brasil " tvg-logo="http://swedtv.vip/logos/brasil_filmes%20series/Prime_Box_Brazil.png" group-title="PORT - Brasil Filmes e Series",BR: Prime Box Brasil 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3479.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Baby TV SD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Baby_tv.png" group-title="PORT - Brasil Crianças",BR: Baby TV SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3447.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Baby TV HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Baby_tv.png" group-title="PORT - Brasil Crianças",BR: Baby TV HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3291.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Boomerang SD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Boomerang.png" group-title="PORT - Brasil Crianças",BR: Boomerang SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3448.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Boomerang HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Boomerang.png" group-title="PORT - Brasil Crianças",BR: Boomerang HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3292.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Cartoon Network SD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/CARTOON_NETWORK.png" group-title="PORT - Brasil Crianças",BR: Cartoon Network SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3449.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Cartoon Network HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/CARTOON_NETWORK.png" group-title="PORT - Brasil Crianças",BR: Cartoon Network HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3293.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PORT - Brasil Crianças",BR: Cartoon Network FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24306.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Kids " tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Discovery_kids.png" group-title="PORT - Brasil Crianças",BR: Discovery Kids 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3451.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Kids HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Discovery_kids.png" group-title="PORT - Brasil Crianças",BR: Discovery Kids HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3295.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Discovery_kids.png" group-title="PORT - Brasil Crianças",BR: Discovery Kids FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24293.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel SD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Disney_channel.png" group-title="PORT - Brasil Crianças",BR: Disney Channel SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3452.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Disney_channel.png" group-title="PORT - Brasil Crianças",BR: Disney Channel HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3296.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="PORT - Brasil Crianças",BR: Disney Channel FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24295.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR: Gloobinho" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Gloobinho.png" group-title="PORT - Brasil Crianças",BR: Gloobinho
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3456.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Gloobinho.png" group-title="PORT - Brasil Crianças",BR: Gloobinho HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3300.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR: Nick Jr SD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Nick_Jr.png" group-title="PORT - Brasil Crianças",BR: Nick Jr SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3458.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR: Nick Jr HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Nick_Jr.png" group-title="PORT - Brasil Crianças",BR: Nick Jr HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3303.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR: Nick JR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="PORT - Brasil Crianças",BR: Nick JR FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24312.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR: Nickelodeon SD" tvg-logo="https://static.epg.best/br/Nickelodeon.br.png" group-title="PORT - Brasil Crianças",BR: Nickelodeon SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3459.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR: Nickelodeon HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Nickelodeon.png" group-title="PORT - Brasil Crianças",BR: Nickelodeon HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3302.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR: Tooncast SD" tvg-logo="https://static.epg.best/br/Tooncast.br.png" group-title="PORT - Brasil Crianças",BR: Tooncast SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24319.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Tooncast HD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Tooncast.png" group-title="PORT - Brasil Crianças",BR: Tooncast HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24325.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="BR: Tooncast FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/Tooncast.png" group-title="PORT - Brasil Crianças",BR: Tooncast FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3305.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum SD" tvg-logo="http://swedtv.vip/logos/Brasil_Criacas/TV_R%c3%a1-Tim-Bum.png" group-title="PORT - Brasil Crianças",BR: TV Ra Tim Bum SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3460.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/2560px-CNN-International-Logo.svg.png" group-title="PORT - Brasil Noticiero",BR: CNN Brasil HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3463.ts
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BR: Band News SD" tvg-logo="http://swedtv.vip/logos/Brasil_Noticia/Band_News.png" group-title="PORT - Brasil Noticiero",BR: Band News SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3462.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Band News HD" tvg-logo="http://swedtv.vip/logos/Brasil_Noticia/Band_News.png" group-title="PORT - Brasil Noticiero",BR: Band News HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3307.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Band News FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Noticia/Band_News.png" group-title="PORT - Brasil Noticiero",BR: Band News FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24180.ts
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="BR: Record News SD" tvg-logo="http://swedtv.vip/logos/Brasil_Noticia/Record_News.png" group-title="PORT - Brasil Noticiero",BR: Record News SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3466.ts
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="BR: Record News HD" tvg-logo="http://swedtv.vip/logos/Brasil_Noticia/Record_News.png" group-title="PORT - Brasil Noticiero",BR: Record News HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3309.ts
+#EXTINF:-1 tvg-id="MTV.br" tvg-name="BR: MTV SD" tvg-logo="http://swedtv.vip/logos/Brsil_Musicais/MTV.png" group-title="PORT - Brasil Musicais",BR: MTV SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3476.ts
+#EXTINF:-1 tvg-id="MTV.br" tvg-name="BR: MTV HD" tvg-logo="http://swedtv.vip/logos/Brsil_Musicais/MTV.png" group-title="PORT - Brasil Musicais",BR: MTV HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3317.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Bis SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1024px-Logo_of_Bis.svg.png" group-title="PORT - Brasil Musicais",BR: Bis SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3469.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="BR: Bis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png" group-title="PORT - Brasil Musicais",BR: Bis HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3310.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Brasil 24H --★●•" tvg-logo="https://e7.pngegg.com/pngimages/452/30/png-clipart-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-thumbnail.png" group-title="PORT - Brasil 24H",•●★-- Brasil 24H --★●•
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/30882.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Galinha Pintadinha 24H" tvg-logo="https://w7.pngwing.com/pngs/205/495/png-transparent-dog-logo-paw-patrol-paw-patrol-paw-patrol-logo-emblem-animals-paw.png" group-title="PORT - Brasil 24H",BR: Galinha Pintadinha 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/93700.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Os Simpsons 24H" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="PORT - Brasil 24H",BR: Os Simpsons 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/77823.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Patrulha Canina SD 24H" tvg-logo="https://w7.pngwing.com/pngs/205/495/png-transparent-dog-logo-paw-patrol-paw-patrol-paw-patrol-logo-emblem-animals-paw.png" group-title="PORT - Brasil 24H",BR: Patrulha Canina SD 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/93701.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Patrulha Canina HD 24H" tvg-logo="https://w7.pngwing.com/pngs/205/495/png-transparent-dog-logo-paw-patrol-paw-patrol-paw-patrol-logo-emblem-animals-paw.png" group-title="PORT - Brasil 24H",BR: Patrulha Canina HD 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/93702.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Um Maluco No Pedaço 24H" tvg-logo="https://im.ezgif.com/tmp/ezgif-1-3632bc250f.png" group-title="PORT - Brasil 24H",BR: Um Maluco No Pedaço 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/77822.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Chapolin 24H" tvg-logo="https://e7.pngegg.com/pngimages/725/464/png-clipart-logo-document-text-chapolin-angle-text-thumbnail.png" group-title="PORT - Brasil 24H",BR: Chapolin 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/76520.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Chaves 24H" tvg-logo="https://w7.pngwing.com/pngs/225/330/png-transparent-el-chavo-del-ocho-logo-quico-chaves-text-signage-graphic-design.png" group-title="PORT - Brasil 24H",BR: Chaves 24H
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/76519.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB 1" tvg-logo="" group-title="PORT - Brasil Nacionais",BR: BBB 1
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/331100.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB 2" tvg-logo="" group-title="PORT - Brasil Nacionais",BR: BBB 2
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/331101.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB Mosaico" tvg-logo="" group-title="PORT - Brasil Nacionais",BR: BBB Mosaico
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/331102.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Brasil Esportes --★●•" tvg-logo="https://w7.pngwing.com/pngs/138/382/png-transparent-brazil-soccer-ball-brazil-national-football-team-2014-fifa-world-cup-brasil-sport-sports-equipment-sports.png" group-title="PORT - Brasil Esportes ⚽",•●★-- Brasil Esportes --★●•
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/233830.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: BR: All Sports HD" tvg-logo="https://www.freepnglogos.com/uploads/sport-png/sport-png-photo-png-mart-22.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: All Sports HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24177.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: Band SPorts SD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Band_Sports.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Band SPorts SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3401.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: Band Sports HD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Band_Sports.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Band Sports HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3508.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: Band Sports FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Band_Sports.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Band Sports FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24155.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: ESPN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1024px-Logo_espnbrasil.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN Brasil HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3512.ts
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="SP: BR: ESPN SD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/ESPN.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3405.ts
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="SP: BR: ESPN HD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/ESPN.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3514.ts
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="SP: BR: ESPN FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/ESPN.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24171.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: BR: ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN 2 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/103096.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2560px-Espn2.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN 2 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3511.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: BR: Espn 3 FHD" tvg-logo="http://viperos.net:8080/images/621cb9461f704136754332f8ea9bcaa2.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Espn 3 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/103094.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: ESPN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN 4 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3408.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN 4 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3516.ts
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="SP: BR: ESPN 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN 4 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24158.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: ESPN Extra SD" tvg-logo="http://tvgo.re:8080/images/3510937a524f0c8ce030953484c145e6.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN Extra SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3404.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: ESPN Extra HD" tvg-logo="http://viperos.net:8080/images/bec742126a61dae6a259633a3678596a.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: ESPN Extra HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3513.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: Fox Sports 2 SD" tvg-logo="http://titanicos.net:8080/images/7550c8e5312fc99a8a166a9daac14627.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Fox Sports 2 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3407.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: Fox Sports 2 HD" tvg-logo="http://titanicos.net:8080/images/7550c8e5312fc99a8a166a9daac14627.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Fox Sports 2 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3515.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="SP: BR: Fox Sports 2 FHD" tvg-logo="http://titanicos.net:8080/images/7550c8e5312fc99a8a166a9daac14627.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Fox Sports 2 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24159.ts
+#EXTINF:-1 tvg-id="PremiereFC.br" tvg-name="SP: BR: Premiere 1 SD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 1 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24174.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="SP: BR: Premiere 1 HD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 1 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24176.ts
+#EXTINF:-1 tvg-id="PremiereFC.br" tvg-name="SP: BR: Premiere 1 FHD" tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 1 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24163.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="SP: BR: Premiere 2 HD" tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 2 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3517.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="SP: BR: Premiere 2 FHD" tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 2 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24164.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="SP: BR: Premiere 3 HD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 3 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3518.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="SP: BR: Premiere 3 FHD" tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 3 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24165.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="SP: BR: Premiere 4 SD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 4 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24172.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="SP: BR: Premiere 4 HD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 4 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3519.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="SP: BR: Premiere 4 FHD" tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 4 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24166.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="SP: BR: Premiere 5 " tvg-logo="http://tvgo.ddns.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 5 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24168.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="SP: BR: Premiere 5 HD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 5 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3520.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="SP: BR: Premiere 6 " tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 6 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24169.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="SP: BR: Premiere 6 HD" tvg-logo="http://viperos.net:8080/images/88a3b6b42133a8d271fd29e690686986.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 6 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3521.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="SP: BR: Premiere 7 " tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 7 
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24173.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="SP: BR: Premiere 7 HD" tvg-logo="http://titanicos.net:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere 7 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3522.ts
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="SP: BR: Premiere Clubes HD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Club_premier.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Premiere Clubes HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3523.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="SP: BR: Sport TV 1 SD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_1.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 1 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3411.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="SP: BR: Sport TV 1 HD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_1.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 1 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3526.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="SP: BR: Sport TV 1 FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_1.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 1 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24160.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="SP: BR: Sport TV 2 SD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_2.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 2 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3409.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="SP: BR: Sport TV 2 HD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_2.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 2 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3524.ts
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="SP: BR: Sport TV 2 FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_2.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 2 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24161.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SP: BR: Sport TV 3 SD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_3.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 3 SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3410.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SP: BR: Sport TV 3 HD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_3.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 3 HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3525.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SP: BR: Sport TV 3 FHD" tvg-logo="http://swedtv.vip/logos/Brasil_Esportes/Sport_3.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Sport TV 3 FHD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/24162.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="SP: BR: Combate SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/2560px-Combate_logo.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Combate SD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3402.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="SP: BR: Combate HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/2560px-Combate_logo.svg.png" group-title="PORT - Brasil Esportes ⚽",SP: BR: Combate HD
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/3509.ts
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title="EU - España TDT", ES: TVE Internacional SD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/27229
 
