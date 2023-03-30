@@ -168,7 +168,7 @@ http://vod.tuxchannel.mx/peliculas/720/dzisiaj%20spisz%20ze%20mna%202023.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/oKovzRJWz4brwxogYH8vaIoMOeU.jpg" group-title="2023",Fiesta en casa (2023)
 http://vod.tuxchannel.mx/peliculas/720/house%20party%202023.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEzOWFmNmUtYWQ3NC00YTUzLTlhM2QtMmEyYmMzZWMzZDEwXkEyXkFqcGdeQXVyMzQxMzk5NjY@._V1_.jpg" group-title="2023",Furies (2023)
-https://archive.org/download/01_20230329_20230329_1903/01.mp4
+http://74.208.251.230/Contenido/Peliculas/Estrenos/Furies%20(2023).mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg" group-title="2023",Hay algo mal con los niños (2023)
 http://vod.tuxchannel.mx/peliculas/720/theres%20something%20wrong%20with%20the%20children%202023.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg" group-title="2023",Huesera (2023)
@@ -769,6 +769,8 @@ https://archive.org/download/01_20220718_20220718_2113/01.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/4cVPq4uCrHlCvICzhsEzkHt14jm.jpg" group-title="2022",El test (2022)
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUwOTAxMjMtZmRjYS00MjkwLThhMDAtMWMzZThiMDIxNjEyXkEyXkFqcGdeQXVyMTE5NTUzMzQz._V1_QL75_UY266_CR3,0,180,266_.jpg" group-title="2022",El tirabeque (2022)
+http://74.208.251.230/Contenido/Peliculas/Estrenos/El%20Tirabique%20(2022).mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/u9qnyrife64GGFXu6ZHMegshPeV.jpg" group-title="2022",El tren del terror (2022) SUB
 http://144.217.180.205/Peliculas/Terror/6315.Terror.Train.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/fgy78BLl0gk8OzTWHZyGrSlIEON.jpg" group-title="2022",El triángulo de la tristeza (2022)
