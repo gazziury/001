@@ -86,48 +86,69 @@ http://45.179.164.59:8181/Series/30%20Monedas/30%20monedas%20S01E08%20Hackstore.
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Absentia T1",TRAILER
 https://archive.org/download/absentia-trailer-oficia-1/Absentia%20%20%20Tr%C3%A1iler%20oficia%5B1%5D.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 01
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_01.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 02
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_02.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E02.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 03
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_03.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E03.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 04
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_04.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E04.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 05
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_05.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 06
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_06.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E06.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 07
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_07.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 08
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_08.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E08.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 09
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_09.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E09.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 10
-http://vods.tuxchannel.tv:80/series/absentia/s_01_e_10.mkv
+http://45.179.164.59:8181/Series/Absentia/S01E10.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Absentia T2",TRAILER
 https://archive.org/download/trailer-4bs-3ntia-2/trailer%204bs3ntia%202.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 01
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_01.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 02
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_02.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E02.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 03
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_03.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E03.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 04
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_04.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E04.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 05
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_05.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 06
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_06.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E06.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 07
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_07.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 08
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_08.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E08.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 09
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_09.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 10
-http://vods.tuxchannel.tv:80/series/absentia/s_02_e_10.mkv
+http://45.179.164.59:8181/Series/Absentia/Absentia%20S2E10.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 01
+http://45.179.164.59:8181/Series/Absentia/S03E01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 02
+http://45.179.164.59:8181/Series/Absentia/S03E02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 03
+http://45.179.164.59:8181/Series/Absentia/S03E03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 04
+http://45.179.164.59:8181/Series/Absentia/S03E04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 05
+http://45.179.164.59:8181/Series/Absentia/S03E05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 06
+http://45.179.164.59:8181/Series/Absentia/S03E06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 07
+http://45.179.164.59:8181/Series/Absentia/S03E07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 08
+http://45.179.164.59:8181/Series/Absentia/S03E08.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 09
+http://45.179.164.59:8181/Series/Absentia/S03E09.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiNDI5ODUtODQ2ZC00ZjUwLWFhYjQtMjk3MmMzZjY1ZWU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Absentia T3",Cap. 10
+http://45.179.164.59:8181/Series/Absentia/S03E10.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Acapulco T1",TRAILER
 https://archive.org/download/trailer-4c-4pulc-0/trailer%204c4pulc0.mp4
