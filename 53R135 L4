@@ -1518,22 +1518,33 @@ https://archive.org/download/05_20220219_20220219/10.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 11
 https://archive.org/download/05_20220219_20220219/11.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Ciudad invisible",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Ciudad invisible T1",TRAILER
 https://archive.org/download/trailer-c-1ud-4d-1nv-151bl-3/trailer%20C1ud4d%201nv151bl3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 01
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 02
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 03
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 04
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 05
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 06
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 07
-http://vods.tuxchannel.tv:80/series/cidade_invisivel/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 01
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.1.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 02
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.2.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 03
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.3.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 04
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.4.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 05
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.5.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 06
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.6.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible T1",Cap. 07
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinvi1.7.mkv
+
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/u9bQPxILScuQCZPV1clEYxqFTL8.jpg" group-title="Ciudad invisible T2",Cap. 01
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinv2.1.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/u9bQPxILScuQCZPV1clEYxqFTL8.jpg" group-title="Ciudad invisible T2",Cap. 02
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinv2.2.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/u9bQPxILScuQCZPV1clEYxqFTL8.jpg" group-title="Ciudad invisible T2",Cap. 03
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinv2.3.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/u9bQPxILScuQCZPV1clEYxqFTL8.jpg" group-title="Ciudad invisible T2",Cap. 04
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinv2.4.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/u9bQPxILScuQCZPV1clEYxqFTL8.jpg" group-title="Ciudad invisible T2",Cap. 05
+http://45.179.164.59:8181/Series/Ciudad%20invisible/g4t0ncinv2.5.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Cobra Kai T1",TRAILER
 https://archive.org/download/trailer-c-0br-4-k-41-1/trailer%20C0br4%20K41%201.mp4
