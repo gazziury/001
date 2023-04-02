@@ -626,6 +626,22 @@ https://archive.org/download/trailer-b-4rb-4r-05/trailer%20B4rb4r05.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 06
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 01
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(01).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 02
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(02).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 03
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(03).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 04
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(04).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 05
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(05).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 06
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(06).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 07
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(07).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 08
+http://51.81.208.167/serie/Barry/1/Barry_S01E_(08).mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Baymax",TRAILER
 https://archive.org/download/trailer-b-4ym-4x/trailer%20B4ym4x.mp4
