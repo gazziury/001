@@ -634,6 +634,38 @@ https://archive.org/download/03_20220630_20220630/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/10/29/3226014.jpg" group-title="Baymax",Cap. 06
 https://archive.org/download/03_20220630_20220630/06.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (Sub)",Cap. 01
+http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (Sub)",Cap. 02
+http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (Sub)",Cap. 03
+http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (Sub)",Cap. 04
+http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (Sub)",Cap. 05
+http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E05.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 01
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.1.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 02
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.2.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 03
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.3.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 04
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.4.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 05
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.5.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 06
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.6.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 07
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.7.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 08
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.8.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 09
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.9.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI5YTcyZDAtNDk1OC00YzFmLTk4ODctZmQyMDk1OGNmNDdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Bel-Air T1",Cap. 10
+http://45.179.164.59:8181/Series/Bel-Air/g4t0nblr1.10.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Better Things: Mejores cosas T1 (SUB)",TRAILER
 https://archive.org/download/trailer-b-3773-r-th-1-ng-5-1/trailer%20B3773R%20TH1NG5%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/08/05/17/20/074019.jpg" group-title="Better Things: Mejores cosas T1 (SUB)",Cap. 01
