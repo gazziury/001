@@ -11409,6 +11409,23 @@ https://archive.org/download/05_20220205_20220205_2351/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/11/01/23/3138013.jpg" group-title="Venir del frio",Cap. 08
 https://archive.org/download/05_20220205_20220205_2351/08.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 01
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.1.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 02
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.2.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 03
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.3.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 04
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.4.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 05
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.5.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 06
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.6.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 07
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.7.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFiMjQ3MjUtNTljNS00MzlkLTk1ZDYtMThhNGIxYjBjZmM0XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="Viaje al centro de la Tierra",Cap. 08
+http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.8.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla T1",Cap. 01
 https://archive.org/download/05_20220415_20220415_1852/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla T1",Cap. 02
