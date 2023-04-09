@@ -6433,6 +6433,17 @@ http://series.tuxchannel.mx/series/october_faction/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/09/12/17/2490453.jpg" group-title="La facción Octubre",Cap. 10
 http://series.tuxchannel.mx/series/october_faction/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1NTEwZmMtOTU5Yi00MjczLTlkYWEtNzMyZjY0ZjA0NmQ1XkEyXkFqcGdeQXVyMTMxMDMxMDI2._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="La firma",Cap. 01
+http://45.179.164.59:8181/Series/La%20Firma/the.signing.s01e01.lat.web-dl.720p.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1NTEwZmMtOTU5Yi00MjczLTlkYWEtNzMyZjY0ZjA0NmQ1XkEyXkFqcGdeQXVyMTMxMDMxMDI2._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="La firma",Cap. 02
+http://45.179.164.59:8181/Series/La%20Firma/the.signing.s01e02.lat.web-dl.720p.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1NTEwZmMtOTU5Yi00MjczLTlkYWEtNzMyZjY0ZjA0NmQ1XkEyXkFqcGdeQXVyMTMxMDMxMDI2._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="La firma",Cap. 03
+http://45.179.164.59:8181/Series/La%20Firma/the.signing.s01e03.lat.web-dl.720p.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1NTEwZmMtOTU5Yi00MjczLTlkYWEtNzMyZjY0ZjA0NmQ1XkEyXkFqcGdeQXVyMTMxMDMxMDI2._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="La firma",Cap. 04
+http://45.179.164.59:8181/Series/La%20Firma/the.signing.s01e04.lat.web-dl.720p.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1NTEwZmMtOTU5Yi00MjczLTlkYWEtNzMyZjY0ZjA0NmQ1XkEyXkFqcGdeQXVyMTMxMDMxMDI2._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="La firma",Cap. 05
+http://45.179.164.59:8181/Series/La%20Firma/the.signing.s01e05.lat.web-dl.720p.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La Forense T1",TRAILER
 https://archive.org/download/trailer-l-4-f-0r-3ns-3/trailer%20L4%20F0r3ns3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/03/12/35/5809463.jpg" group-title="La Forense T1",Cap. 01
