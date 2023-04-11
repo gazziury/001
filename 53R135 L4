@@ -9668,6 +9668,23 @@ http://144.217.180.205/Series/LAT%20,%20ESP/Sky_Rojo_CAST(117023)/2/S02E07.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/article_gallery_microformat/uploads/2021/03/02/603e81e738a73.jpeg" group-title="Sky Rojo T2",Cap. 08
 http://144.217.180.205/Series/LAT%20,%20ESP/Sky_Rojo_CAST(117023)/2/S02E08.mkv
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 01
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.1.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 02
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.2.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 03
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.3.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 04
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.4.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 05
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.5.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 06
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.6.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 07
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.7.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 08
+http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.8.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/14/04/01/13/28/222030.jpg" group-title="Snowpiercer: Rompenieves T1",Cap. 01
 http://series.tuxchannel.mx/series/snowpiercer/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/14/04/01/13/28/222030.jpg" group-title="Snowpiercer: Rompenieves T1",Cap. 02
