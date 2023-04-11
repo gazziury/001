@@ -9079,6 +9079,15 @@ https://archive.org/download/08_20220106_20220106_1758/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/20/17/21/5283542.jpg" group-title="Rebelde T1",Cap. 08
 https://archive.org/download/08_20220106_20220106_1758/08.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 01
+http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E01.2023.720P-Dual-Lat/reinas.de.africa.S01E01.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 02
+http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E02.2023.720P-Dual-Lat/reinas.de.africa.S01E02.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 03
+http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E03.2023.720P-Dual-Lat/reinas.de.africa.S01E03.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 04
+http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E04.2023.720P-Dual-Lat/reinas.de.africa.S01E04.2023.720P-Dual-Lat.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/10/47/1404345.jpg" group-title="Reservation dogs",Cap. 01
 https://archive.org/download/08_20211130_20211130/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/10/47/1404345.jpg" group-title="Reservation dogs",Cap. 02
