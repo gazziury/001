@@ -9281,6 +9281,23 @@ http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.mue
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 07
 http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E07.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E07.2023.1080P-Dual-Lat.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 01
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.1.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 02
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.2.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 03
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.3.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 04
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.4.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 05
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.5.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 06
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.6.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 07
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.7.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 08
+http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.8.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg" group-title="Sangre sexo y realeza",Cap. 01
 https://archive.org/download/03_20221126/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg" group-title="Sangre sexo y realeza",Cap. 02
