@@ -161,31 +161,6 @@ http://fastuhd.tech:80/119163824875/625886340158/2732089
 #EXTINF:-1 tvg-id="" tvg-name="BBB 23 - Mosaico" tvg-logo="http://xx.tigeruhd.fun:80/images/6dbaf1fe33ed67b419c23b43bc805739.png" group-title="FAST BBB",Mosaico
 http://fastuhd.tech:80/119163824875/625886340158/2729948
 
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 01
-http://axr.life:80/096154/686531/1262950
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 02
-http://axr.life:80/096154/686531/1262951
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 03
-http://axr.life:80/096154/686531/1262952
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 04
-http://axr.life:80/096154/686531/1262953
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 05
-http://axr.life:80/096154/686531/1262954
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 06
-http://axr.life:80/096154/686531/1262955
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 07
-http://axr.life:80/096154/686531/1262956
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 08
-http://axr.life:80/096154/686531/1262957
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 09
-http://axr.life:80/096154/686531/1262958
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 10
-http://axr.life:80/096154/686531/1262959
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 11
-http://axr.life:80/096154/686531/1262960
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",Mosaico
-http://axr.life:80/096154/686531/1262961
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Principal 1 FHD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179431
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Principal 1 HD
