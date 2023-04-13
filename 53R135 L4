@@ -1107,20 +1107,33 @@ https://archive.org/download/01_20220714_20220714_1649/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/21/12/44/4755474.jpg" group-title="Boo bitch",Cap. 08
 https://archive.org/download/01_20220714_20220714_1649/08.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Braqueurs: Atracadores",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Braqueurs: Atracadores T1",TRAILER
 https://archive.org/download/trailer-br-4qu-3ur-5/trailer%20br4qu3ur5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores T1",Cap. 01
 http://series.tuxchannel.mx/series/braqueurs/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores T1",Cap. 02
 http://series.tuxchannel.mx/series/braqueurs/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores T1",Cap. 03
 http://series.tuxchannel.mx/series/braqueurs/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores T1",Cap. 04
 http://series.tuxchannel.mx/series/braqueurs/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores T1",Cap. 05
 http://series.tuxchannel.mx/series/braqueurs/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores T1",Cap. 06
 http://series.tuxchannel.mx/series/braqueurs/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://img.rgstatic.com/content/show/cc38efc0-2af5-4799-80bc-339fd3d5178f/poster-342.jpg" group-title="Braqueurs: Atracadores T2",Cap. 01
+http://45.179.164.59:8181/Series/Atracadores/g4t0natc2.1.mkv
+#EXTINF:-1 tvg-logo="https://img.rgstatic.com/content/show/cc38efc0-2af5-4799-80bc-339fd3d5178f/poster-342.jpg" group-title="Braqueurs: Atracadores T2",Cap. 02
+http://45.179.164.59:8181/Series/Atracadores/g4t0natc2.2.mkv
+#EXTINF:-1 tvg-logo="https://img.rgstatic.com/content/show/cc38efc0-2af5-4799-80bc-339fd3d5178f/poster-342.jpg" group-title="Braqueurs: Atracadores T2",Cap. 03
+http://45.179.164.59:8181/Series/Atracadores/g4t0natc2.3.mkv
+#EXTINF:-1 tvg-logo="https://img.rgstatic.com/content/show/cc38efc0-2af5-4799-80bc-339fd3d5178f/poster-342.jpg" group-title="Braqueurs: Atracadores T2",Cap. 04
+http://45.179.164.59:8181/Series/Atracadores/g4t0natc2.4.mkv
+#EXTINF:-1 tvg-logo="https://img.rgstatic.com/content/show/cc38efc0-2af5-4799-80bc-339fd3d5178f/poster-342.jpg" group-title="Braqueurs: Atracadores T2",Cap. 05
+http://45.179.164.59:8181/Series/Atracadores/g4t0natc2.5.mkv
+#EXTINF:-1 tvg-logo="https://img.rgstatic.com/content/show/cc38efc0-2af5-4799-80bc-339fd3d5178f/poster-342.jpg" group-title="Braqueurs: Atracadores T2",Cap. 06
+http://45.179.164.59:8181/Series/Atracadores/g4t0natc2.6.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 01
 http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E01%20Pilot.mkv
