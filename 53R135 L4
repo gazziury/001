@@ -9780,22 +9780,39 @@ http://series.tuxchannel.mx/series/solos/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/21/12/15/3134809.jpg" group-title="Solos",Cap. 07
 http://series.tuxchannel.mx/series/solos/s_01_e_07.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 01
 https://archive.org/download/05_20210511/01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 02
 https://archive.org/download/05_20210511/02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 03
 https://archive.org/download/05_20210511/03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 04
 https://archive.org/download/05_20210511/04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 05
 https://archive.org/download/05_20210511/05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 06
 https://archive.org/download/05_20210511/06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 07
 https://archive.org/download/05_20210511/07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 08
 https://archive.org/download/05_20210511/08.mp4
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 01
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E001-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 02
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E002-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 03
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E003-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 04
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E004-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 05
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E005-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 06
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E006-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 07
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E007-LAT%5d-_Shadow_and_Bone.mkv.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 08
+http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E008-LAT%5d-_Shadow_and_Bone.mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/01/14/31/2984974.jpg" group-title="Somos",Cap. 01
 http://series.tuxchannel.mx/series/somos/s_01_e_01.mkv
