@@ -2693,6 +2693,27 @@ https://archive.org/download/04_20211128_20211128_2351/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/09/13/05/29/1034230.jpg" group-title="El arbol familiar de los Croods",Cap. 06
 https://archive.org/download/04_20211128_20211128_2351/06.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 01
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E001-LAT%5d-_Copycat_Killer-1.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 02
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E002-LAT%5d-_Copycat_Killer-2.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 03
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E003-LAT%5d-_Copycat_Killer-3.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 04
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E004-LAT%5d-_Copycat_Killer-4.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 05
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E005-LAT%5d-_Copycat_Killer-5.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 06
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E006-LAT%5d-_Copycat_Killer-6.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 07
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E007-LAT%5d-_Copycat_Killer-7.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 08
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E008-LAT%5d-_Copycat_Killer-8.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 09
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E009-LAT%5d-_Copycat_Killer-9.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 10
+http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E010-LAT%5d-_Copycat_Killer-10.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El baile de las luciernagas",TRAILER
 https://archive.org/download/trailer-3l-b-41l-3-d-3-l-45-luc-13rn-4g-45/trailer%203l%20b41l3%20d3%20l45%20luc13rn4g45.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/07/10/43/5566051.jpg" group-title="El baile de las luciernagas",Cap. 01
