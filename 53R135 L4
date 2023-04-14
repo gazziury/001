@@ -6633,6 +6633,19 @@ http://144.217.180.205/Series/LAT%20,%20ESP/The.Cook.of.Castamar.CAST/1/S01E11.m
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/pf7u8l0NQnECwG06dC94s0ZJLpC.jpg" group-title="La cocinera de Castamar",Cap. 12
 http://144.217.180.205/Series/LAT%20,%20ESP/The.Cook.of.Castamar.CAST/1/S01E12.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg" group-title="La dama de los muertos",Cap. 01
+http://45.179.164.59:8181/Series/la%20dama%20de%20los%20muertos/g4t0ndm1.1.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg" group-title="La dama de los muertos",Cap. 02
+http://45.179.164.59:8181/Series/la%20dama%20de%20los%20muertos/g4t0ndm1.2.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg" group-title="La dama de los muertos",Cap. 03
+http://45.179.164.59:8181/Series/la%20dama%20de%20los%20muertos/g4t0ndm1.3.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg" group-title="La dama de los muertos",Cap. 04
+http://45.179.164.59:8181/Series/la%20dama%20de%20los%20muertos/Totenfrau_1x4.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg" group-title="La dama de los muertos",Cap. 05
+http://45.179.164.59:8181/Series/la%20dama%20de%20los%20muertos/g4t0ndm1.5.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/rxJ2pnxTiyUf4om0Z4bGx8pyBXY.jpg" group-title="La dama de los muertos",Cap. 06
+http://45.179.164.59:8181/Series/la%20dama%20de%20los%20muertos/g4t0ndm1.6.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La elegida",TRAILER
 https://archive.org/download/trailer-l-4-3l-3g-1d-4/trailer%20L4%203l3g1d4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/19/15/02/0063908.jpg" group-title="La elegida",Cap. 01
