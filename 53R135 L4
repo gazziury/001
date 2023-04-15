@@ -4312,6 +4312,27 @@ https://archive.org/download/10_20220408/09.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/01/00/29/3326945.jpg" group-title="El ultimo autobus",Cap. 10
 https://archive.org/download/10_20220408/10.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 01
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.1.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 02
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.2.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 03
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.3.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 04
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.4.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 05
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.5.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 06
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.6.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 07
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.7.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 08
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.8.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 09
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.9.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5YjVjMWYtYWY3NC00MjMzLTg4YjQtODdlOTRhNGMxNjBmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="El valle olvidado",Cap. 10
+http://45.179.164.59:8181/Series/el%20valle%20olvidado/g4t0nvo1.10.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El vecino T1",TRAILER
 https://archive.org/download/trailer-3l-v-3c-1n-0-1/trailer%203l%20v3c1n0%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/18/09/18/3405843.jpg" group-title="El vecino T1",Cap. 01
