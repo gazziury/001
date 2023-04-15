@@ -199,6 +199,8 @@ http://vod.tuxchannel.mx/peliculas/720/unlocked%202023.mkv
 http://45.179.164.59:8181/Peliculas/2023/Infelices.para.siempre.2022.720p/Infelices.para.siempre.2022.720p.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/rpuV6GRIBD2v8A2FZM53ebNFcJx.jpg" group-title="2023",Infiesto (2023)
 http://vod.tuxchannel.mx/peliculas/720/infiesto%202023.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU0MjdiMmQtMTQ2OC00YzY4LWEzN2ItOTE4NjIwNmJjMWZmXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="2023",Inside: Adentro (2023)
+http://45.179.164.59:8181/Peliculas/Inside.2023.720p-dual-lat.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ4M2JiMTEtNDhiMi00OWM1LTkwMWEtODdjYTQxNWQyOTFiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="2023",Jesus revolution (2023) SUB
 http://45.179.164.59:8181/Peliculas/Jesus.Revolution.2023.720p.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2023/01/29/63d60baf13d85.jpeg" group-title="2023",John Wick 4 (2023) Cine
