@@ -2718,6 +2718,32 @@ https://archive.org/download/04_20211128_20211128_2351/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/09/13/05/29/1034230.jpg" group-title="El arbol familiar de los Croods",Cap. 06
 https://archive.org/download/04_20211128_20211128_2351/06.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/05/00/01/1545869.jpg" group-title="El ascenso del Imperio Otomano T1",Cap. 01
+http://series.tuxchannel.mx/series/rise_of_empires_ottoman/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/05/00/01/1545869.jpg" group-title="El ascenso del Imperio Otomano T1",Cap. 02
+http://series.tuxchannel.mx/series/rise_of_empires_ottoman/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/05/00/01/1545869.jpg" group-title="El ascenso del Imperio Otomano T1",Cap. 03
+http://series.tuxchannel.mx/series/rise_of_empires_ottoman/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/05/00/01/1545869.jpg" group-title="El ascenso del Imperio Otomano T1",Cap. 04
+http://series.tuxchannel.mx/series/rise_of_empires_ottoman/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/05/00/01/1545869.jpg" group-title="El ascenso del Imperio Otomano T1",Cap. 05
+http://series.tuxchannel.mx/series/rise_of_empires_ottoman/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/05/00/01/1545869.jpg" group-title="El ascenso del Imperio Otomano T1",Cap. 06
+http://series.tuxchannel.mx/series/rise_of_empires_ottoman/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fZkDRLRpBEBvnqHa3YFP9MjpUX.jpg" group-title="El ascenso del Imperio Otomano T2",Cap. 01
+http://45.179.164.59:8181/Series/Rise%20of%20Empires%20Ottoman/g4t0nottm2.1.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fZkDRLRpBEBvnqHa3YFP9MjpUX.jpg" group-title="El ascenso del Imperio Otomano T2",Cap. 02
+http://45.179.164.59:8181/Series/Rise%20of%20Empires%20Ottoman/g4t0nottm2.2.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fZkDRLRpBEBvnqHa3YFP9MjpUX.jpg" group-title="El ascenso del Imperio Otomano T2",Cap. 03
+http://45.179.164.59:8181/Series/Rise%20of%20Empires%20Ottoman/g4t0nottm2.3.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fZkDRLRpBEBvnqHa3YFP9MjpUX.jpg" group-title="El ascenso del Imperio Otomano T2",Cap. 04
+http://45.179.164.59:8181/Series/Rise%20of%20Empires%20Ottoman/g4t0nottm2.4.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fZkDRLRpBEBvnqHa3YFP9MjpUX.jpg" group-title="El ascenso del Imperio Otomano T2",Cap. 05
+http://45.179.164.59:8181/Series/Rise%20of%20Empires%20Ottoman/g4t0nottm2.5.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1fZkDRLRpBEBvnqHa3YFP9MjpUX.jpg" group-title="El ascenso del Imperio Otomano T2",Cap. 06
+http://45.179.164.59:8181/Series/Rise%20of%20Empires%20Ottoman/g4t0nottm2.6.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 01
 http://45.179.164.59:8181/Series/Copycat%20Killer/%5bS1-E001-LAT%5d-_Copycat_Killer-1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNjE2YjktZDM3NS00MzI1LWExYzItNDg1OTUzYjliNDczXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="El asesino mediatico",Cap. 02
