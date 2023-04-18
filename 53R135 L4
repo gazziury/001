@@ -7161,22 +7161,60 @@ https://archive.org/download/03_20220208_202202/08.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La mujer del Diablo",TRAILER
 https://archive.org/download/trailer-l-4-muj-3r-d-3l-d-14bl-0/Trailer%20L4%20Muj3r%20d3l%20D14bl0.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 01
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 01
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 02
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 02
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 03
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 03
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 04
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 04
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 05
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 05
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 06
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 06
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 07
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 07
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo",Cap. 08
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/7/w1280/jsQfGzW7JGGTFw3VmXREuAUtbsw.jpg" group-title="La mujer del Diablo T1",Cap. 08
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 01
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 02
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 03
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 04
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 05
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 06
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 07
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5xKXK3hfKatlY17qlyhuMVFT1.jpg" group-title="La mujer del Diablo T2",Cap. 08
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_02_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 01
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_01.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 02
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_02.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 03
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_03.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 04
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 05
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 06
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 07
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 08
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_08.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 09
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_09.mkv
+#EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 10
+http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La Negociadora",TRAILER
 https://archive.org/download/trailer-l-4-n-3g-0c-14d-0r-4/trailer%20L4%20N3g0c14d0r4.mp4
