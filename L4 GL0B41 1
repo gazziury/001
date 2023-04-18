@@ -1,5 +1,5 @@
- #EXTM3U
-
+ 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="SP: Copa Libertadores: Fox Sports 1 Sur" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/mlo2451549460358.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Fox Sports 1 Sur
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232227.ts
 #EXTINF:-1 tvg-id="" tvg-name="SP: Copa Libertadores: Fox Sports 2 Sur" tvg-logo="http://vaktar.vip:8080/images/ad28161e269c0fd59826bdc005baaaab.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Fox Sports 2 Sur
