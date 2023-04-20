@@ -7,9 +7,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_28.mkv
+http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_30.mkv
 
-http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_25.mkv
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_28.mkv
 
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_40.mkv
 
@@ -7900,6 +7900,12 @@ http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_23.mkv
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_24.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 25
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 26
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 27
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 28
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_28.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 01
 http://series.tuxchannel.mx/series/preso_no_1/s_01_e_01.mkv
