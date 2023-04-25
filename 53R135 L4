@@ -622,20 +622,33 @@ https://archive.org/download/bajosospechatemporada1episodio1/Bajo%20sospecha%20T
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 08
 https://archive.org/download/bajosospechatemporada1episodio1/Bajo%20sospecha%20Temporada%201%20Episodio%208.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Barbaros",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Barbaros T1",TRAILER
 https://archive.org/download/trailer-b-4rb-4r-05/trailer%20B4rb4r05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros T1",Cap. 01
 http://series.tuxchannel.mx/series/barbaren/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros T1",Cap. 02
 http://series.tuxchannel.mx/series/barbaren/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros T1",Cap. 03
 http://series.tuxchannel.mx/series/barbaren/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros T1",Cap. 04
 http://series.tuxchannel.mx/series/barbaren/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros T1",Cap. 05
 http://series.tuxchannel.mx/series/barbaren/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros T1",Cap. 06
 http://series.tuxchannel.mx/series/barbaren/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 01
+http://series.tuxchannel.mx/series/barbaren/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 02
+http://series.tuxchannel.mx/series/barbaren/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 03
+http://series.tuxchannel.mx/series/barbaren/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 04
+http://series.tuxchannel.mx/series/barbaren/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 05
+http://series.tuxchannel.mx/series/barbaren/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 06
+http://series.tuxchannel.mx/series/barbaren/s_02_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 01
 http://51.81.208.167/serie/Barry/1/Barry_S01E_(01).mkv
