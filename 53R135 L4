@@ -2370,6 +2370,23 @@ https://archive.org/download/05_20220415_20220415/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/17/18/41/0494698.jpg" group-title="De vuelta a los 15",Cap. 06
 https://archive.org/download/05_20220415_20220415/06.mp4
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 01
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E01.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 02
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E02.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 03
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E03.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 04
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E04.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 05
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E05.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 06
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E06.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 07
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E07.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/dr8BsZpkMsw7YFqVCM6aLEog3It.jpg" group-title="Diamantes turbios",Cap. 08
+http://45.179.164.59:8181/Series/Diamantes%20turbios/Diamantes.turbios.S01E08.2023.720P-Dual-Lat.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Diario de un gigoló",TRAILER
 https://archive.org/download/trailer-d-14r-10-d-3-un-g-1g-0l-0/trailer%20D14r10%20d3%20un%20g1g0l0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/29/03/35/3198400.jpg" group-title="Diario de un gigoló",Cap. 01
