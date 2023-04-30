@@ -10,7 +10,6 @@ incompletas
 
 http://series.tuxchannel.mx/series/1923/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/poker_face/s_01_e_04.mkv
-http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_05.mkv
 http://series.tuxchannel.mx/series/yellowstone/s_05_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNhNGI1MGUtNTRlMy00ZGI2LWI2NTYtMjE1Nzc1ZDk5MjM1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="7 seeds",Cap. 01
@@ -3848,6 +3847,12 @@ http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_03.mkv
 http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_04.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/The_Mandalorian_season_3_poster.jpg/220px-The_Mandalorian_season_3_poster.jpg" group-title="El mandaloriano T3",Cap. 05
 http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_05.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/The_Mandalorian_season_3_poster.jpg/220px-The_Mandalorian_season_3_poster.jpg" group-title="El mandaloriano T3",Cap. 06
+http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_06.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/The_Mandalorian_season_3_poster.jpg/220px-The_Mandalorian_season_3_poster.jpg" group-title="El mandaloriano T3",Cap. 07
+http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_07.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/The_Mandalorian_season_3_poster.jpg/220px-The_Mandalorian_season_3_poster.jpg" group-title="El mandaloriano T3",Cap. 08
+http://series.tuxchannel.mx/series/the_mandalorian/s_03_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El marginal T1",TRAILER
 https://archive.org/download/trailer-3l-m-4rg-1n-4l-1/trailer%203l%20M4rg1n4l%201.mp4
