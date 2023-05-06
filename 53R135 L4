@@ -8802,15 +8802,6 @@ https://archive.org/download/08_20220106_20220106_1758/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/20/17/21/5283542.jpg" group-title="Rebelde T1",Cap. 08
 https://archive.org/download/08_20220106_20220106_1758/08.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 01
-http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E01.2023.720P-Dual-Lat/reinas.de.africa.S01E01.2023.720P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 02
-http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E02.2023.720P-Dual-Lat/reinas.de.africa.S01E02.2023.720P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 03
-http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E03.2023.720P-Dual-Lat/reinas.de.africa.S01E03.2023.720P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYzNDliOGQtNDU3My00NTFmLThkYWUtNGNmNjQxMWM5MGJmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="Reinas de África: Njinga",Cap. 04
-http://45.179.164.59:8181/Series/Reinas%20de%20%c3%81frica%20Njinga/reinas.de.africa.S01E04.2023.720P-Dual-Lat/reinas.de.africa.S01E04.2023.720P-Dual-Lat.mkv
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/10/47/1404345.jpg" group-title="Reservation dogs",Cap. 01
 https://archive.org/download/08_20211130_20211130/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/10/47/1404345.jpg" group-title="Reservation dogs",Cap. 02
@@ -8827,60 +8818,6 @@ https://archive.org/download/08_20211130_20211130/06.mp4
 https://archive.org/download/08_20211130_20211130/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/10/47/1404345.jpg" group-title="Reservation dogs",Cap. 08
 https://archive.org/download/08_20211130_20211130/08.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 01
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.1.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 02
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.2.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 03
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 04
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.4.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 05
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.5.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 06
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.6.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 07
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.7.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 08
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.8.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 09
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.9.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MmJlZDAtMDg2Ny00ZWExLTgxMzItYjhjOTczNTc4MjIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="Resident alien T1",Cap. 10
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nresialie1.10.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 01
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.1.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 02
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.2.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 03
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 04
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.4.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 05
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.5.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 06
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.6.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 07
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.7.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 08
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.8.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 09
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.9.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 10
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.10.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 11
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.11.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 12
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.12.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 13
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.13.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 14
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.14.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 15
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.15.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODE1MzYtMTM5Mi00YWM1LTgwZTctNTEzMWI2ZGQ3NWM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Resident alien T2",Cap. 16
-http://45.179.164.59:8181/Series/Resident%20Alien/g4t0nrsa2.16.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/17/16/54/5353425.jpg" group-title="Resident evil",Cap. 01
 https://archive.org/download/08_20220715_202207/01.mp4
@@ -8928,38 +8865,6 @@ http://series.tuxchannel.mx/series/dare_me/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/dare_me/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8f/d1/78/8fd178d87947a9a6c5fe79c144c9b099.jpg" group-title="Retame",Cap. 10
 http://series.tuxchannel.mx/series/dare_me/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 01
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E01.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E01.2023.1080P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 02
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E02.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E02.2023.1080P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 03
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E03.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E03.2023.1080P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 04
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E04.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E04.2023.1080P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 05
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E05.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E05.2023.1080P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 06
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E06.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E06.2023.1080P-Dual-Lat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/yBVbwNp27znIpG4Q0Fhh9AUm0Y0.jpg" group-title="Ringo: Gloria y muerte",Cap. 07
-http://45.179.164.59:8181/Series/Ringo,%20gloria%20y%20muerte/Ringo.gloria.y.muerte.S01E07.2023.1080P-Dual-Lat/Ringo.gloria.y.muerte.S01E07.2023.1080P-Dual-Lat.mkv
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 01
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.1.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 02
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.2.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 03
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.3.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 04
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.4.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 05
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.5.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 06
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.6.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 07
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.7.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/xStdxj8dayxNHAz15Dd8d9TLTcm.jpg" group-title="Sahmaran",Cap. 08
-http://45.179.164.59:8181/Series/Sahmaran/g4t0nshm1.8.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg" group-title="Sangre sexo y realeza",Cap. 01
 https://archive.org/download/03_20221126/01.mp4
@@ -9347,23 +9252,6 @@ http://144.217.180.205/Series/LAT%20,%20ESP/Sky_Rojo_CAST(117023)/2/S02E06.mkv
 http://144.217.180.205/Series/LAT%20,%20ESP/Sky_Rojo_CAST(117023)/2/S02E07.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/article_gallery_microformat/uploads/2021/03/02/603e81e738a73.jpeg" group-title="Sky Rojo T2",Cap. 08
 http://144.217.180.205/Series/LAT%20,%20ESP/Sky_Rojo_CAST(117023)/2/S02E08.mkv
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 01
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.1.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 02
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.2.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 03
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.3.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 04
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.4.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 05
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.5.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 06
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.6.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 07
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.7.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/f4ee7b/sky-rojo-temporada-3/450_1000.jpeg" group-title="Sky Rojo T3",Cap. 08
-http://45.179.164.59:8181/Series/Sky%20Rojo/G4T0NR0J0%203.8.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/14/04/01/13/28/222030.jpg" group-title="Snowpiercer: Rompenieves T1",Cap. 01
 http://series.tuxchannel.mx/series/snowpiercer/s_01_e_01.mkv
