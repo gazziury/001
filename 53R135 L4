@@ -73,9 +73,9 @@ http://series.tuxchannel.mx/series/1923/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/a4atePFSisyQrEIYuPRrVgJbVd8.jpg" group-title="1923",Cap. 06
 http://series.tuxchannel.mx/series/1923/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/a4atePFSisyQrEIYuPRrVgJbVd8.jpg" group-title="1923",Cap. 07
-http://45.179.164.59:8181/Series/1923/g4t0n1923-1.7.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/a4atePFSisyQrEIYuPRrVgJbVd8.jpg" group-title="1923",Cap. 08
-http://45.179.164.59:8181/Series/1923/g4t0n1923-1.8.mkv
+
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 01
 http://series.tuxchannel.mx/series/28_days_haunted/s_01_e_01.mkv
@@ -11398,23 +11398,6 @@ https://archive.org/download/07_20230107_20230107_1756/07.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg" group-title="Willow",Cap. 08
 https://archive.org/download/08_20230118_202301/08.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 01
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1,1.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 02
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1,2.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 03
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1.3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 04
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1.4.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 05
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1.5.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 06
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1.6.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 07
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1.7.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMzFhZjctZjcxOC00ZmY3LTg0MmYtODg4YWU3ZDhmMmUxXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Wolf pack",Cap. 08
-http://45.179.164.59:8181/Series/Wolf%20Pack/g4t0nwp1.8.mkv
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/19/07/25/10/50/0860353.jpg" group-title="Wu Assassins",Cap. 01
 http://series.tuxchannel.mx/series/wu_assassins/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/19/07/25/10/50/0860353.jpg" group-title="Wu Assassins",Cap. 02
@@ -11435,63 +11418,6 @@ http://series.tuxchannel.mx/series/wu_assassins/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/wu_assassins/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/19/07/25/10/50/0860353.jpg" group-title="Wu Assassins",Cap. 10
 http://series.tuxchannel.mx/series/wu_assassins/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 01
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.1.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 02
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.2.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 03
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 04
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.4.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 05
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.5.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 06
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.6.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 07
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.7.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 08
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.8.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 09
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.9.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZTlmOTAtYjA0OC00ZTU4LThiMGYtYTFiNDdlNWIwNzI0XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Wu Tang: Una saga americana T1",Cap. 10
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa1.10.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 01
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.1.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 02
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/Wu_Tang_An_American_Saga_T2_E002_SUB.mp4
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 03
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.3.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 04
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.4.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 05
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.5.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 06
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.6.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 07
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.7.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 08
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.8.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 09
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.9.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/86a2d97da94bcaa6a01ae9fe4ba4dbf8f5faede2-500x750.png" group-title="Wu Tang: Una saga americana T2",Cap. 10
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa2.10.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 01
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa3.1.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 02
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa3.2.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 03
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa3.3.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 04
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/WTLAS.S03E04.720p.Vose.mp4
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 05
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa3.5sub.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 06
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa3.6sub.mkv
-#EXTINF:-1 tvg-logo="https://cdn.epicstream.com/images/ncavvykf/epicstream/5ada0ce6e5f6f7463ce03e948877c1f235322da5-500x750.png" group-title="Wu Tang: Una saga americana T3",Cap. 07
-http://45.179.164.59:8181/Series/Wu-Tang%20Una%20saga%20americana/g4t0nwtaa3.7sub.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/19/17/07/3599638.jpg" group-title="Yakamoz S-245",Cap. 01
 https://archive.org/download/04_20220421/01.mp4
@@ -11669,29 +11595,6 @@ https://archive.org/download/01_20220818_20220818_1753/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/07/29/15/46/3512027.jpg" group-title="Yo soy Groot",Cap. 05
 https://archive.org/download/01_20220818_20220818_1758/01.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="You T1",TRAILER
-https://archive.org/download/y-0u_20230304/Y0u.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 01
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E1.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 02
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E2.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 03
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E3.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 04
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E4.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 05
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E5.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 06
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E6.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 07
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E7.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 08
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E8.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 09
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E9.mp4
-#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 10
-http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E10.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/You_Season_2.jpg" group-title="You T2",Cap. 01
 http://series.tuxchannel.mx/series/you/s_02_e_01.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/You_Season_2.jpg" group-title="You T2",Cap. 02
@@ -11735,23 +11638,13 @@ https://archive.org/download/10_20211017_20211017_1738/09.mp4
 https://archive.org/download/10_20211017_20211017_1738/10.mp4
 
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1080x1350/0c0/0d0/none/12204/YBKD/you2_7976356_20230209135725.jpg" group-title="You T4 (parte 1)",Cap. 01
-https://archive.org/download/01_20230212_20230212_2345/01.mp4
+http://series.tuxchannel.mx/series/you/s_04_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1080x1350/0c0/0d0/none/12204/YBKD/you2_7976356_20230209135725.jpg" group-title="You T4 (parte 1)",Cap. 02
-https://archive.org/download/02_20230212_20230212_2355/02.mp4
+http://series.tuxchannel.mx/series/you/s_04_e_02.mkv
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1080x1350/0c0/0d0/none/12204/YBKD/you2_7976356_20230209135725.jpg" group-title="You T4 (parte 1)",Cap. 03
-https://archive.org/download/03_20230213/03.mp4
+http://series.tuxchannel.mx/series/you/s_04_e_03.mkv
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1080x1350/0c0/0d0/none/12204/YBKD/you2_7976356_20230209135725.jpg" group-title="You T4 (parte 1)",Cap. 04
-https://archive.org/download/04_20230213/04.mp4
+http://series.tuxchannel.mx/series/you/s_04_e_04.mkv
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1080x1350/0c0/0d0/none/12204/YBKD/you2_7976356_20230209135725.jpg" group-title="You T4 (parte 1)",Cap. 05
-https://archive.org/download/05_20230213/05.mp4
+http://series.tuxchannel.mx/series/you/s_04_e_05.mkv
 
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/penn-badgley-you-season-4-1669305833.jpg" group-title="You T4 (parte 2)",Cap. 06
-http://45.179.164.59:8181/Series/you%20temp%203%20y%204/%5bS4-E006-LAT%5d-_YOU.mkv.mp4
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/penn-badgley-you-season-4-1669305833.jpg" group-title="You T4 (parte 2)",Cap. 07
-http://45.179.164.59:8181/Series/you%20temp%203%20y%204/%5bS4-E007-LAT%5d-_YOU.mkv.mp4
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/penn-badgley-you-season-4-1669305833.jpg" group-title="You T4 (parte 2)",Cap. 08
-http://45.179.164.59:8181/Series/you%20temp%203%20y%204/%5bS4-E008-LAT%5d-_YOU.mkv.mp4
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/penn-badgley-you-season-4-1669305833.jpg" group-title="You T4 (parte 2)",Cap. 09
-http://45.179.164.59:8181/Series/you%20temp%203%20y%204/%5bS4-E009-LAT%5d-_YOU.mkv.mp4
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/penn-badgley-you-season-4-1669305833.jpg" group-title="You T4 (parte 2)",Cap. 10
-http://45.179.164.59:8181/Series/you%20temp%203%20y%204/%5bS4-E010-LAT%5d-_YOU.mkv.mp4
