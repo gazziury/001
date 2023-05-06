@@ -9348,23 +9348,6 @@ https://archive.org/download/05_20210511/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/27/4956992.jpg" group-title="Sombra y hueso T1",Cap. 08
 https://archive.org/download/05_20210511/08.mp4
 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 01
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E001-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 02
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E002-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 03
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E003-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 04
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E004-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 05
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E005-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 06
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E006-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 07
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E007-LAT%5d-_Shadow_and_Bone.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2400/2421/dest_1.jpg" group-title="Sombra y hueso T2",Cap. 08
-http://45.179.164.59:8181/Series/Sombra%20y%20Hueso/%5bS2-E008-LAT%5d-_Shadow_and_Bone.mkv.mp4
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/01/14/31/2984974.jpg" group-title="Somos",Cap. 01
 http://series.tuxchannel.mx/series/somos/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/01/14/31/2984974.jpg" group-title="Somos",Cap. 02
@@ -9407,19 +9390,6 @@ http://144.217.180.205/Series/Sonic%20Prime/Sonic.Prime.S01E06.1080p.dual-lat.ci
 http://144.217.180.205/Series/Sonic%20Prime/Sonic.Prime.S01E07.1080p.dual-lat.cinecalidad.run.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/lMqruIEov5PSA7eu8mF0I4IiKda.jpg" group-title="Sonic Prime",Cap. 08
 http://144.217.180.205/Series/Sonic%20Prime/Sonic.Prime.S01E08.1080p.dual-lat.cinecalidad.run.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmNjhkZTItODQ0My00ZDFiLWI4MWYtOGU2MjMyZGU1ODMxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="Soy Georgina T1",Cap. 01
-http://45.179.164.59:8181/Series/Soy%20Georgina/Temporada%201/S01E01.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmNjhkZTItODQ0My00ZDFiLWI4MWYtOGU2MjMyZGU1ODMxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="Soy Georgina T1",Cap. 02
-http://45.179.164.59:8181/Series/Soy%20Georgina/Temporada%201/S01E02.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmNjhkZTItODQ0My00ZDFiLWI4MWYtOGU2MjMyZGU1ODMxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="Soy Georgina T1",Cap. 03
-http://45.179.164.59:8181/Series/Soy%20Georgina/Temporada%201/S01E03.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmNjhkZTItODQ0My00ZDFiLWI4MWYtOGU2MjMyZGU1ODMxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="Soy Georgina T1",Cap. 04
-http://45.179.164.59:8181/Series/Soy%20Georgina/Temporada%201/S01E04.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmNjhkZTItODQ0My00ZDFiLWI4MWYtOGU2MjMyZGU1ODMxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="Soy Georgina T1",Cap. 05
-http://45.179.164.59:8181/Series/Soy%20Georgina/Temporada%201/S01E05.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmNjhkZTItODQ0My00ZDFiLWI4MWYtOGU2MjMyZGU1ODMxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg" group-title="Soy Georgina T1",Cap. 06
-http://45.179.164.59:8181/Series/Soy%20Georgina/Temporada%201/S01E06.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 01
 http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E01.mkv
@@ -10162,206 +10132,6 @@ http://series.tuxchannel.mx/series/the_gifted/s_02_e_14.mkv
 http://series.tuxchannel.mx/series/the_gifted/s_02_e_15.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/07/24/14/17/329123.jpg" group-title="The Gifted: Los elegidos T2",Cap. 16
 http://series.tuxchannel.mx/series/the_gifted/s_02_e_16.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 01
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2001.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 02
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2002.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 03
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2003.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 04
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2004.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 05
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2005.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 06
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2006.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 07
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2007.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 08
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-%20Temporada%201%20-%20Capitulo%2008.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 09
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2009.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 10
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2010.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 11
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2011.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 12
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2012.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 13
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2013.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 14
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2014.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 15
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2015.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 16
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2016.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 17
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2017.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BJ2N8F-ZL.jpg" group-title="The good doctor T1",Cap. 18
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%201/The%20Good%20Doctor%20-Temporada%201%20-%20Capitulo%2018.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 01
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2001.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 02
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2002.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 03
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-Temporada%202%20-%20Capitulo%2003.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 04
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2004.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 05
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2005.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 06
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2006.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 07
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2007.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 08
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2008.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 09
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2009.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 10
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2010.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 11
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2011.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 12
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2012.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 13
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2013.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 14
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2014.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 15
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2015.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 16
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2016.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 17
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2017.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61TLlY9RRfL._SL1440_.jpg" group-title="The good doctor T2",Cap. 18
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%202/The%20Good%20Doctor%20-%20Temporada%202%20-%20Capitulo%2018.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 01
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The.Good.Doctor.3x01.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 02
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%202.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 03
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%203.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 04
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%204.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 05
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%205.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 06
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%206.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 07
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%207.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 08
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The.Good.Doctor.3x08.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 09
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%209.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 10
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2010.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 11
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2011.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 12
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2012.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 13
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2013.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 14
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2014.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 15
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2015.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 16
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2016.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 17
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2017.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 18
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2018.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 19
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2019.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/01/16/16/1486150.jpg" group-title="The good doctor T3",Cap. 20
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%203/The%20Good%20Doctor%20-%20Temporada%203%20-%20Capitulo%2020.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 01
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E01.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 02
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E02.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 03
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E03.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 04
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E04.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 05
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E05.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 06
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E06.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 07
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E07.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 08
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E08.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 09
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E09.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 10
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E10.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 11
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E11.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 12
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E12.720p.Hackstore.Net.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61f5uQXQbcL._SY445_.jpg" group-title="The good doctor T4",Cap. 13
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The.Good.Doctor.S04E13.720p.Hackstore.Net.mkv
-
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 01
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x01.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 02
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x02.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 03
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x03.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 04
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x04.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 05
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x05.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 06
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x06.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 07
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x07.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 08
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x08.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 09
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x09.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 10
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x10.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 11
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x11.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 12
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x12.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 13
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x13.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 14
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x14.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 15
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x15.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 16
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x16.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 17
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x17.HD720p-lat.mkv
-#EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 18
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x18.HD720p-lat.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 01
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.1sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 02
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.2sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 03
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.3sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 04
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.4sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 05
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.5sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 06
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.6sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 07
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.7sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 08
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.8sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 09
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.9sub.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 10
-http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.10sub.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 01
 https://archive.org/download/02_20211128_20211128_2234/01.mp4
@@ -11326,50 +11096,6 @@ https://archive.org/download/05_20220205_20220205_2351/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/11/01/23/3138013.jpg" group-title="Venir del frio",Cap. 08
 https://archive.org/download/05_20220205_20220205_2351/08.mp4
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 01
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.1.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 02
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.2.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 03
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.3.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 04
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.4.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 05
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.5.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 06
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.6.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 07
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.7.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/96hSFf60s51EX0tLgsiGzdKW9pg.jpg" group-title="Viaje al centro de la Tierra",Cap. 08
-http://45.179.164.59:8181/Series/Viaje%20al%20centro%20de%20la%20Tierra/g4t0nvct1.8.mkv
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 01
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.1.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 02
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.2.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 03
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.3.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 04
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.4.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 05
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.5.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 06
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.6.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 07
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.7.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 08
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.8.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 09
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.9.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 10
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.10.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 11
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.11.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 12
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.12.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/rWKnjdHixKig7PHxpt524DMUTQl.jpg" group-title="Viajeros en el tiempo",Cap. 13
-http://45.179.164.59:8181/Series/Quantum%20Leap/g4t0nql1.13.mkv
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla T1",Cap. 01
 https://archive.org/download/05_20220415_20220415_1852/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla T1",Cap. 02
@@ -11386,23 +11112,6 @@ https://archive.org/download/05_20220415_20220415_1852/06.mp4
 https://archive.org/download/05_20220415_20220415_1852/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla T1",Cap. 08
 https://archive.org/download/05_20220415_20220415_1852/08.mp4
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 01
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.1.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 02
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.2.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 03
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.3.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 04
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.4.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 05
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.5.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 06
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.6.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 07
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.7.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg" group-title="Vikings: Valhalla T2",Cap. 08
-http://45.179.164.59:8181/Series/Vikingos%20Valhalla%20temp%202/g4t0nvkv2.8.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/10/09/39/100264.jpg" group-title="Vis a vis T1",Cap. 01
 https://archive.org/download/vvt-2-13/vvt1%20%281%29.mp4
@@ -11671,84 +11380,6 @@ http://series.tuxchannel.mx/series/warrior_nun/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/warrior_nun/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/16/22/3443676.jpg" group-title="Warrior Nun: La monja guerrera",Cap. 10
 http://series.tuxchannel.mx/series/warrior_nun/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Westworld T1",TRAILER
-https://archive.org/download/w-35tw-0r-1d/W35tw0r1d.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 01
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 02
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 03
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 04
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 05
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 06
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 07
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 08
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E08.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 09
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E09.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 10
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E10.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 01
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 02
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 03
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 04
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 05
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 06
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 07
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 08
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E08.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 09
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E09.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/24/12/56/1311988.jpg" group-title="Westworld T2",Cap. 10
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%202/Westworld%20S02E10.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 01
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E01.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 02
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E02.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 03
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E03.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 04
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E04.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 05
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E05.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 06
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E06.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 07
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E07.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81jnYk6OW6L._AC_SL1500_.jpg" group-title="Westworld T3",Cap. 08
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%203/Westworld%20S03E08.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 01
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.1.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 02
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.2.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 03
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 04
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.4.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 05
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.5.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 06
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.6.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 07
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.7.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="Westworld T4",Cap. 08
-http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%204/g4t0nww4.8.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg" group-title="Willow",Cap. 01
 https://archive.org/download/01_20221201_202212/01.mp4
