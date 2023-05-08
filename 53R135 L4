@@ -7758,6 +7758,23 @@ https://archive.org/download/08_20211017/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/07/10/13/2218289.jpg" group-title="Mi nombre",Cap. 08
 https://archive.org/download/08_20211017/08.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 01
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 02
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 03
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 04
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 05
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 06
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 07
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY2MmMyZWUtN2UyZC00NDZiLWE4NWItN2YwMjc4Njg4OGM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="Mi otra yo",Cap. 08
+http://series.tuxchannel.mx/series/mi_otra_yo/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 01
 http://series.tuxchannel.mx/series/midnight_mass/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 02
