@@ -2345,6 +2345,13 @@ http://51.81.208.167/serie/Dope/3/S03E03.mkv
 #EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-8876455421.jpg" group-title="Dope T3",Cap. 04
 http://51.81.208.167/serie/Dope/3/S03E04.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/1/w1280/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg" group-title="Dracula",Cap. 01
+http://series.tuxchannel.mx/series/dracula/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/1/w1280/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg" group-title="Dracula",Cap. 02
+http://series.tuxchannel.mx/series/dracula/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/1/w1280/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg" group-title="Dracula",Cap. 03
+http://series.tuxchannel.mx/series/dracula/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Dublin Murders",TRAILER
 https://archive.org/download/trailer-dubl-1n-murd-3r-5/trailer%20Dubl1n%20Murd3r5.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 01
