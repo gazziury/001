@@ -7,9 +7,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_41.mkv
+http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_42.mkv
 
-http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_39.mkv
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_42.mkv
 
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_55.mkv
 
@@ -5429,6 +5429,8 @@ http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_39.mkv
 http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_40.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 41
 http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_41.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 42
+http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_42.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 01
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_01.mkv
@@ -8048,6 +8050,12 @@ http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_37.mkv
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_38.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 39
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_39.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 40
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_40.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 41
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_41.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 42
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_42.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 01
 http://series.tuxchannel.mx/series/preso_no_1/s_01_e_01.mkv
