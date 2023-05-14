@@ -27,10 +27,10 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/52518.ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_621c2fc7842e40ad965a70cddbe90936~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_621c2fc7842e40ad965a70cddbe90936~mv2.png" group-title="ARGENTINA", ARG : TV PUBLICA
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/52522.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", BR : BAND NEWS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/BandNewsTV2021.png/revision/latest/scale-to-width-down/250?cb=20210530131416" group-title="BRASIL", BR : BAND NEWS
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/155267.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/2c0e36f93eecab2466871b53b2efb2fc.png" group-title="BRASIL", BR : BAND SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="BRASIL", BR : BAND SPORTS
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101557.ts
 
 #EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/513e2d885bc4ad7b3ef4e1b5c27736e6.png" group-title="BRASIL", BR : CANAL BRASIL
