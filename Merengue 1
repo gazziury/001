@@ -78,17 +78,14 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66646.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="CHILE", CH : CANAL 13
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66647.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/9f0fbb55c51c122c04e7bfc4fd11af1f.png" group-title="CHILE", CH : CDO BASICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE", CH : CDO PREMIUM
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66639.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/9f0fbb55c51c122c04e7bfc4fd11af1f.png" group-title="CHILE", CH : CDO PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE", CH : CDO PREMIUM
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66648.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/0f10e01839fdf6f4324ca67c9b88a325.png" group-title="CHILE", CH : CHILEVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CH : CHILEVISION
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66633.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CH : CHILEVISION SD
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/106438.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gLiqPKJLiC8/YHf_p6qCwVI/AAAAAAAA9NA/fD30-3VSBV8GGYbcEawtaiEwDrZz3eVgQCLcBGAsYHQ/s1080/cnnnnn.png" group-title="CHILE", CH : CNN CHILE
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66634.ts
