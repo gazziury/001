@@ -51,7 +51,7 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="BRASIL", BR : GLOBO
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/103272.ts
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_tv-globo-internacional-disponible-en-ott-europeas.jpg" group-title="BRASIL", BR : GLOBO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="BRASIL", BR : GLOBO INTERNACIONAL
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101567.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASIL", BR : GLOBO NEWS
