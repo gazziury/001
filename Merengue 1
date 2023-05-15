@@ -36,52 +36,40 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101557.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="BRASIL", BR : CANAL BAND
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101560.ts
 
-#EXTINF:-1 tvg-logo="https://logospng.org/download/canal-combate/logo-canal-combate-2048.png" group-title="BRASIL", BR : COMBATE TV HD
+#EXTINF:-1 tvg-logo="https://logospng.org/download/canal-combate/logo-canal-combate-2048.png" group-title="BRASIL", BR : COMBATE
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101559.ts
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qo-XkvrqhRw/X-p6nJtg2rI/AAAAAAAA69k/viPL8K1KC3MlLN5h-q9HqH2QgC8lCKTSQCLcBGAsYHQ/s1080/dtu.png" group-title="BRASIL", BR : DISCOVERY TURBO  HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qo-XkvrqhRw/X-p6nJtg2rI/AAAAAAAA69k/viPL8K1KC3MlLN5h-q9HqH2QgC8lCKTSQCLcBGAsYHQ/s1080/dtu.png" group-title="BRASIL", BR : DISCOVERY TURBO
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101562.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-44ccLOifo-0/X_d0Hf_qB6I/AAAAAAAA8Ys/pRDclZkdsXEbYquPN0aCRmNxAxt4KQJFwCLcBGAsYHQ/s1080/espn.png" group-title="BRASIL", BR : ESPN
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101563.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/500px-Telecine_Touch_%282019%29.svg.png" group-title="BRASIL", BR : TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/b4/Tctouchb.jpg/revision/latest?cb=20200817023844&path-prefix=pt-br" group-title="BRASIL", BR : TC TOUCH
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101566.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gLdx2MN14hw/X-nmo8tbBXI/AAAAAAAA65s/bh96GrvmYlENvcGeJClpwa1gt8xqGfm1gCLcBGAsYHQ/s1080/fox%2Bsport%2B2.png" group-title="BRASIL", BR : FOX SPORTS 2
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101565.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/a3952fd53affb9fc784ce1cb715bb4d4.png" group-title="BRASIL", BR : GLOBO HD
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/64689.ts
-
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/ea7a3fee346e47de2f263174d179f36e.png" group-title="BRASIL", BR : GLOBO HD
+#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/ea7a3fee346e47de2f263174d179f36e.png" group-title="BRASIL", BR : GLOBO Internacional
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101567.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/a3952fd53affb9fc784ce1cb715bb4d4.png" group-title="BRASIL", BR : GLOBO MINAS
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/64690.ts
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/959/723/png-clipart-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television.png" group-title="BRASIL", BR : GLOBO NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASIL", BR : GLOBO NEWS
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/156900.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", BR : GLOOB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="BRASIL", BR : GLOBO
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/103272.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/93df5b43e6408f7640fa5ca3a10bf32a.png" group-title="BRASIL", BR : PREMIERE CLUBES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL", BR : PREMIERE CLUBES
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101589.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/80e12d886ef6e7b06af518ef4844d185.png" group-title="BRASIL", BR : REDE PREMIUM TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Igreja_Internacional_da_Gra%C3%A7a_de_Deus.jpg" group-title="BRASIL", BR : Igreja internacional
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101570.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/a41526f25b078d87cc1ccf7b1cfad90b.png" group-title="BRASIL", BR : SPORTV 1 HD
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101571.ts
-
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/69e0d7e4867639e4d04f15f6273decbf.png" group-title="BRASIL", BR : SPORTV 2 HD
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101572.ts
-
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/03841261e7ba28444a8be536ee945c0f.png" group-title="BRASIL", BR : SPORTV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="BRASIL", BR : SPORTV 3
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101573.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/6fc9156f363a11240a2227bf6fb5fd33.png" group-title="BRASIL", BR : TELECINE ACTION HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9f/Tcactionb.jpg/revision/latest?cb=20200817022159&path-prefix=pt-br" group-title="BRASIL", BR : TC ACTION
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101582.ts
 
 #EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/743bb3eabbef0633922a824ab909f166.png" group-title="CHILE", CH : 24 HORAS
