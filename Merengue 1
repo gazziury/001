@@ -72,10 +72,10 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101582.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/b4/Tctouchb.jpg/revision/latest?cb=20200817023844&path-prefix=pt-br" group-title="BRASIL", BR : TC TOUCH
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/101566.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/743bb3eabbef0633922a824ab909f166.png" group-title="CHILE", CH : 24 HORAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE", CH : 24 HORAS
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66646.ts
 
-#EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/08ac239e2dc10962de4ddb298b03e0ac.png" group-title="CHILE", CH : CANAL 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="CHILE", CH : CANAL 13
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66647.ts
 
 #EXTINF:-1 tvg-logo="http://tv.dominiotv.xyz:25461/images/9f0fbb55c51c122c04e7bfc4fd11af1f.png" group-title="CHILE", CH : CDO BASICO
