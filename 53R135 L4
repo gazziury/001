@@ -880,24 +880,41 @@ http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(09).mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 10
 http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(10).mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Bienvenidos a Edén",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Bienvenidos a Edén T1",TRAILER
 https://archive.org/download/trailer-b-13nv-3n-1d-0s-4-3d-3n/trailer%20B13nv3n1d0s%204%203d3n.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 01
 https://archive.org/download/04_20220605_20220605/01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 02
 https://archive.org/download/04_20220605_20220605/02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 03
 https://archive.org/download/04_20220605_20220605/03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 04
 https://archive.org/download/04_20220605_20220605/04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 05
 https://archive.org/download/08_20220605_202206/05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 06
 https://archive.org/download/08_20220605_202206/06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 07
 https://archive.org/download/08_20220605_202206/07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén T1",Cap. 08
 https://archive.org/download/08_20220605_202206/08.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 01
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 02
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 03
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 04
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 05
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 06
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 07
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Edaen_Serie_de_TV-653387259-large.jpg" group-title="Bienvenidos a Edén T2",Cap. 08
+http://series.tuxchannel.mx/series/bienvenidos_a_eden/s_02_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 01
 http://series.tuxchannel.mx/series/billy_the_kid/s_01_e_01.mkv
