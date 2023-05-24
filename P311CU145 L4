@@ -5801,6 +5801,9 @@ http://vod.tuxchannel.mx/peliculas/720/captain%20america%20the%20first%20avenger
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/nCdaPtrMsJvy639Puw9LH0lKSwh.jpg" group-title="Peliculas Viejas",Capitán Phillips (2013)
 http://vod.tuxchannel.mx/peliculas/720/captain%20phillips.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczMzU0MjM1MV5BMl5BanBnXkFtZTcwMjczNzgyNA@@._V1_.jpg" group-title="Peliculas Viejas",Capote (2005)
+http://vod.tuxchannel.mx/peliculas/720/capote.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxZmRhNmYtMjNmMy00OGU1LWFmMzktYjAyYzFhNWJjYmFmXkEyXkFqcGdeQXVyMTUwNjg3NTUw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Carandirú (2003)
 http://vod.tuxchannel.mx/peliculas/720/carandiru.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/mJX62lKNQAzowhAsHLGqp9yzuNN.jpg" group-title="Peliculas Viejas",Carrie (2013)
