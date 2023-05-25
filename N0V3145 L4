@@ -7,13 +7,13 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_50.mkv
+http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_52.mkv
 
-http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_50.mkv
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_52.mkv
 
-http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_65.mkv
+http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_67.mkv
 
-http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_80.mkv
+http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_82.mkv
 
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_33.mkv ...seran 50 capitulos
 
@@ -2672,6 +2672,10 @@ http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_63.mkv
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_64.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 65
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_65.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 66
+http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_66.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 67
+http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_67.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 01
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_01.mkv
@@ -4411,6 +4415,10 @@ http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_48.mkv
 http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_49.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 50
 http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 51
+http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Juego_de_mentiras_poster.jpg/250px-Juego_de_mentiras_poster.jpg" group-title="Juego de mentiras",Cap. 52
+http://series.tuxchannel.mx/series/juego_de_mentiras/s_01_e_52.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 01
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_01.mkv
@@ -6971,6 +6979,10 @@ http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_78.mkv
 http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 80
 http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_80.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 81
+http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_81.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 82
+http://series.tuxchannel.mx/series/perdona_nuestros_pecados/s_01_e_82.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 01
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_01.mkv
@@ -7072,6 +7084,10 @@ http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_48.mkv
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_49.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 50
 http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 51
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVmODEyMmMtZGQ1NC00YmU1LTkyYTktYjBmYTM2YWU3YjgzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Pienso en ti",Cap. 52
+http://series.tuxchannel.mx/series/pienso_en_ti/s_01_e_52.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 01
 http://series.tuxchannel.mx/series/preso_no_1/s_01_e_01.mkv
