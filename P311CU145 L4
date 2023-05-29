@@ -1824,8 +1824,6 @@ http://vod.tuxchannel.mx/peliculas/720/royalteen%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/rrr%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/2XDc3X71GrF2VQnEglnY1qqkrHR.jpg" group-title="2022",Rubia (2022)
 http://vod.tuxchannel.mx/peliculas/720/blonde%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/n5Ynx568yHn1hKG2ND7ctoL9jEl.jpg" group-title="2022",Rubikon (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/rVpYUUPVBpGuuJnXjNfM5EKPD1c.jpg" group-title="2022",Ruido (2022)
 https://archive.org/download/01_20230112_20230112_2041/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/on8F4rvWAswDzQUNtkJIaPr1OJM.jpg" group-title="2022",Ruido de fondo (2022)
@@ -1834,66 +1832,40 @@ https://archive.org/download/01_20230107_20230107_1731/01.mp4
 http://vod.tuxchannel.mx/peliculas/720/rumble%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/tPmr7R2Zq66SXhFcXZiFSJ0Afx8.jpg" group-title="2022",Rumspringa (2022)
 https://archive.org/download/01_20220503_20220503_1834/01.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg" group-title="2022",Ruptura (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/6PnucbcMRLL50DBTig9KUtmAtJ0.jpg" group-title="2022",Sala de comunicaciones (2022)
 http://vod.tuxchannel.mx/peliculas/720/wire%20room%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/2Apj7y1buX0fA7KLv4GyaI83sPV.jpg" group-title="2022",Salvaje es el viento (2022)
 http://vod.tuxchannel.mx/peliculas/720/wild%20is%20the%20wind%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/5OQcaJQAGCLwhispKJpnlc2hBsT.jpg" group-title="2022",Salvajes: El cuento del lobo (2022)
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg" group-title="2022",Salva el teatro (2022)
 http://vod.tuxchannel.mx/peliculas/720/save%20the%20cinema%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/4GVIfQVABjKuAWy3fvidPJZE52t.jpg" group-title="2022",Samaritan (Nemesis) (2022)
 http://vod.tuxchannel.mx/peliculas/720/samaritan%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/fzQN7YcIgboMavMMwrOTaqz8agm.jpg" group-title="2022",Sam & Kate (2022)
 http://vod.tuxchannel.mx/peliculas/720/sam%20and%20kate%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/axOHoyirGMJ2rjhPK5w5mJTIx8Y.jpg" group-title="2022",Santa camp (2022) SUB
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/gCKbXdJbCAahu0LfNxIFnGytWIK.jpg" group-title="2022",Santaman (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/t3vpNLlzmNtiK4XnwGNIQVeYIKj.jpg" group-title="2022",Scooby-Doo: Dulce o travesura (2022)
 http://vod.tuxchannel.mx/peliculas/720/trick%20or%20treat%20scooby%20doo%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg" group-title="2022",Scream 5 (2022)
 http://vod.tuxchannel.mx/peliculas/720/scream%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg" group-title="2022",Scrooge: Cuento de navidad (2022)
 http://vod.tuxchannel.mx/peliculas/720/scrooge%20a%20christmas%20carol%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/3G1wHQNITyfiABp2fgytpiFMHf9.jpg" group-title="2022",Sección 8 (2022) SUB
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/17KUBVVPyjXYqn1P6vouLBe8laB.jpg" group-title="2022",Secuestro en directo (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/3asWgnY5FQ2JnRYPlRvz05IykXk.jpg" group-title="2022",Sed de venganza: Venganza brutal (2022)
 http://vod.tuxchannel.mx/peliculas/720/vendetta%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/hfOLC6XJ0zd6MIRiXFCfatqKy5h.jpg" group-title="2022",Seguidor (2022) SUB
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/kOmjk26BIG54wveOq920JAeaFdG.jpg" group-title="2022",Selena Gomez: Mi mente y yo (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/suASijYyJ3jwwEfPki1V3R8vuO9.jpg" group-title="2022",Se terminó el tiempo 2 (2022)
 http://vod.tuxchannel.mx/peliculas/720/time%20is%20up%202%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/t22p3S4eViY3DE5269kUzOPrAlg.jpg" group-title="2022",Seúl efervescente (2022)
-
+http://vod.tuxchannel.mx/peliculas/720/seoul%20daejakjeon%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg" group-title="2022",Sex appeal (2022)
 http://vod.tuxchannel.mx/peliculas/720/sex%20appeal%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/tgCA3cO2pM8UTPU3P81ZRbyp0VW.jpg" group-title="2022",Sexo pudor y lágrimas 2 (2022)
 http://vod.tuxchannel.mx/peliculas/720/sexo%20pudor%20y%20lagrimas%202%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/ao0YYCjW2FjmKUvvaLVg6JwNdRY.jpg" group-title="2022",Shamshera (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/bVUgMgVozyFScDM3quP412kXrT.jpg" group-title="2022",Shark bait: Mar de sangre (2022)
 https://archive.org/download/01_20230130_20230130_2029/01.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/hqPILOj6IAcoCYPE6vqGDQJtlUf.jpg" group-title="2022",Sharp stick: Los caminos del sexo (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/yisnA4KdZOfJeDve3DekgUpeCe9.jpg" group-title="2022",Sick: Enfermo (2022)
 http://vod.tuxchannel.mx/peliculas/720/sick%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/g5cEKhHn2NSH18FxASF8UT0LfsC.jpg" group-title="2022",Sicosexual (2022)
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/2kuaatCq0F8d5Z1pNGCkbpYGbLJ.jpg" group-title="2022",Si éstas paredes cantaran (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/AqnFoTOKLAtVIf3HtfM5GUd1ivW.jpg" group-title="2022",Sin aliento (2022)
 http://vod.tuxchannel.mx/peliculas/720/sous%20emprise%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/3XtbJmd9vMDieuHVDBwwGtWZlmR.jpg" group-title="2022",Sin culpa (2022)
 http://vod.tuxchannel.mx/peliculas/720/indemnity%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/zR4lMwIBkMF4OuoNmAEvQPPIzJ2.jpg" group-title="2022",Sinfonía (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/z6ob1qev0C3ncX6k9Aq2NCtfifn.jpg" group-title="2022",Sin miedo a las estrellas (2022)
 http://vod.tuxchannel.mx/peliculas/720/jumping%20from%20high%20places%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/jPYPRS7LVmLDXGJ7VfBjXaV9eZr.jpg" group-title="2022",Sin novedad en el frente (2022)
@@ -1906,16 +1878,8 @@ http://vod.tuxchannel.mx/peliculas/720/sans%20repit%202022.mkv
 https://archive.org/download/01_20220605_20220605_1942/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/bFRxPAiyA7dhTLrEcitAjLL02BJ.jpg" group-title="2022",Si saben como me pongo pa que me invitan 2 (2022)
 https://archive.org/download/si-saben-como-me-pongo-pa-que-me-invitan-2-2022-hd/si%20saben%20como%20me%20pongo%20pa%20que%20me%20invitan%202%202022%20hd.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/kv9dt3PJs7WN7rPs5IR21R0wMBU.jpg" group-title="2022",Sissy (2022) SUB
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/vkxKo08e8PhIKz6itm2b83scYQ7.jpg" group-title="2022",Sneakerella (2022)
 http://vod.tuxchannel.mx/peliculas/720/sneakerella%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/bsHqULcPgIUroCHLfTIXWJ24sdd.jpg" group-title="2022",Sniper: El francotirador de Donbás (2022) SUB
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/sChfCU3PDV3N6nYessVPWeWkUBc.jpg" group-title="2022",Snoopy presenta: A mamá (y papá) con amor (2022)
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/uSWcX4ULAfijBbXAVIiEFLwokv0.jpg" group-title="2022",Snoopy presenta: Las acciones pequeñas cuentan (2022)
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/1Mxb68Eg5jCvZwfFG3QjMS5ysGJ.jpg" group-title="2022",Sobredosis (2022)
 http://vod.tuxchannel.mx/peliculas/720/overdose%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg" group-title="2022",Sociedad de honor (2022)
