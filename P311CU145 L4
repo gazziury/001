@@ -4839,6 +4839,8 @@ http://vod.tuxchannel.mx/peliculas/720/minions.mkv
 http://vod.tuxchannel.mx/peliculas/720/los%20ultimos%20caballeros.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/4/w1280/1t5qXa3Xzj2IQLvvbIhldJvRQGT.jpg" group-title="2015",Lugares oscuros (2015)
 http://vod.tuxchannel.mx/peliculas/720/dark%20places.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1ODk4ODM0OF5BMl5BanBnXkFtZTgwODIyNTI4NjE@._V1_FMjpg_UX1000_.jpg" group-title="2015",Macbeth (2015)
+http://vod.tuxchannel.mx/peliculas/720/macbeth.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/5/w1280/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg" group-title="2015",Mad Max: Furia en la carretera (2015)
 http://vod.tuxchannel.mx/peliculas/720/mad%20max%20fury%20road.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/5/w1280/twa9gXjocLM629sJrQYVtmF306R.jpg" group-title="2015",Maggie (2015)
@@ -4847,8 +4849,6 @@ http://vod.tuxchannel.mx/peliculas/720/maggie.mkv
 http://vod.tuxchannel.mx/peliculas/720/magic%20mike%20xxl.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/9/w1280/jPvNTtQMtLJrEqPZF1FbMGmiHwu.jpg" group-title="2015",Marte (2015)
 http://vod.tuxchannel.mx/peliculas/720/the%20martian.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/7/w1280/ww0IX7Xla6tHgrwYSupfXcksV3n.jpg" group-title="2015",Misión imposible 5: Nación secreta (2015)
-http://vod.tuxchannel.mx/peliculas/720/mission%20impossible%20rogue%20nation.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/11/w1280/6P1MMfzyKLYQK82W0T1zdzu5AnS.jpg" group-title="2015",Mata a tus amigos (2015)
 http://vod.tuxchannel.mx/peliculas/720/kill%20your%20friends.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/6/w1280/d3ACos3t4YwXML8keTA0wKN8e36.jpg" group-title="2015",Max (2015)
@@ -4857,6 +4857,8 @@ http://vod.tuxchannel.mx/peliculas/720/max.mkv
 http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/71bNxM4kKh2tSBwTgV4V8C0Bcaj.jpg" group-title="2015",McFarland: Sin límites (2015)
 http://vod.tuxchannel.mx/peliculas/720/mcfarland%20usa.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/7/w1280/ww0IX7Xla6tHgrwYSupfXcksV3n.jpg" group-title="2015",Misión imposible 5: Nación secreta (2015)
+http://vod.tuxchannel.mx/peliculas/720/mission%20impossible%20rogue%20nation.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/3/w1280/vKuYDKLMR2sk5X9ssDbJu2DvycY.jpg" group-title="2015",Negocios con resaca (2015)
 http://vod.tuxchannel.mx/peliculas/720/unfinished%20business.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/512BNjCAC1L.jpg" group-title="2015",Nunca es tarde (2015)
