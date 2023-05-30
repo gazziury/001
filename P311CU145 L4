@@ -4947,6 +4947,8 @@ http://vod.tuxchannel.mx/peliculas/720/ted%202.mkv
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg" group-title="2015",Terremoto: La falla de San Andrés (2015)
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzI2MzcxOV5BMl5BanBnXkFtZTgwNTE2Mjk4NTE@._V1_FMjpg_UX1000_.jpg" group-title="2015",Tierra de carteles (2015)
+http://vod.tuxchannel.mx/peliculas/720/cartel%20land.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/5/w1280/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg" group-title="2015",Tomorrowland: El mundo del mañana (2015)
 http://vod.tuxchannel.mx/peliculas/720/tomorrowland.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/3BTgYxluoT3ILr7YiLHjlWhkDC4.jpg" group-title="2015",Trumbo: La lista negra (2015)
