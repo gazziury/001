@@ -3922,6 +3922,8 @@ http://vod.tuxchannel.mx/peliculas/720/defying%20chase%202018.mkv
 http://vod.tuxchannel.mx/peliculas/720/unsane.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/2/w1280/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg" group-title="2018",Peter Rabbit (2018)
 http://vod.tuxchannel.mx/peliculas/720/peter%20rabbit.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIxNDYxYWUtYmEzYi00NWQzLWI0MTUtZjhhNTAyNTI4NDM1XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="2018",Plan de escape 2: Hades (2018)
+http://vod.tuxchannel.mx/peliculas/720/plan%20de%20escape%202.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc5MjkzZWEtMjBmZS00NDJlLWI3N2UtNzgwYmI4ZGM5ODM5XkEyXkFqcGdeQXVyOTMwNjQ3Nzg@._V1_.jpg" group-title="2018",Prospecto (2018)
 http://vod.tuxchannel.mx/peliculas/720/prospect%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/nrVA9oBSKA9HmY93jdk7nIQjTPG.jpg" group-title="2018",Proud Mary: Escape a la libertad (2018)
@@ -7057,7 +7059,7 @@ http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20at%20wor
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/4/w1280/jzkVuvVsyoNfIcu4MEFalZCj2fy.jpg" group-title="Peliculas Viejas",Pisando fuerte (2004)
 http://vod.tuxchannel.mx/peliculas/720/walking%20tall.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/s57oup4Cig0DgQMu7p4R2m4ZDUl.jpg" group-title="Peliculas Viejas",Plan de escape (2013)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/s57oup4Cig0DgQMu7p4R2m4ZDUl.jpg" group-title="Peliculas Viejas",Plan de escape 1 (2013)
 http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJkYTNiZjUtOTBhMi00NjY5LTkwZWEtNjBkNmE1YTZlMDc4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Plan de vuelo (2005)
 http://vod.tuxchannel.mx/peliculas/720/flightplan%202005.mkv
