@@ -3444,6 +3444,12 @@ http://vod.tuxchannel.mx/peliculas/720/the%20wandering%20earth%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/true%20history%20of%20the%20kelly%20gang%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFjYmUzNWUtMTY1Yy00MjIxLTliODItMmVhMjc2NjUzODBjXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="2019",Lobos de las sombras (2019)
 http://vod.tuxchannel.mx/peliculas/720/shadow%20wolves%202019.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/11/23/18/17/3712099.jpg" group-title="2019",Lo que ellos quieren (2019)
+http://vod.tuxchannel.mx/peliculas/720/what%20men%20want%202019.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/x4pN1IVuK0o5Y0nkKWtJQhwJqo8.jpg" group-title="2019",Lo que esconde Silver Lake (2019)
+http://vod.tuxchannel.mx/peliculas/720/under%20the%20silver%20lake%202019.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI5Zjc1ODAtNTY4Yi00ZmMxLWFiYTYtNjdjZTczYWEwOWEyXkEyXkFqcGdeQXVyMzEwMDIxNQ@@._V1_.jpg" group-title="2019",Lo que hacemos por dinero (2019)
+http://vod.tuxchannel.mx/peliculas/720/things%20i%20do%20for%20money%202019.mkv
 #EXTINF:-1 tvg-logo="https://nowplayingpodcast.com/wp-content/uploads/2021/10/AfOIOlX64iEH7FsngPUM4BCUdJt-683x1024.jpg" group-title="2019",Los 3 del infierno (2019)
 http://vod.tuxchannel.mx/peliculas/720/3%20from%20hell%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/7vreJ8BKz4ZN5VBHO8ghSqlr07j.jpg" group-title="2019",Los Aeronautas (2019)
@@ -3452,10 +3458,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20aeronauts%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/charlies%20angels%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/4/w1280/cCH9LDrQbf7VXDB6MFaFJc1ftaF.jpg" group-title="2019",Los mejores amigos (2019)
 http://vod.tuxchannel.mx/peliculas/720/the%20best%20of%20enemies%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/x4pN1IVuK0o5Y0nkKWtJQhwJqo8.jpg" group-title="2019",Lo que esconde Silver Lake (2019)
-http://vod.tuxchannel.mx/peliculas/720/under%20the%20silver%20lake%202019.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/11/23/18/17/3712099.jpg" group-title="2019",Lo que ellos quieren (2019)
-http://vod.tuxchannel.mx/peliculas/720/what%20men%20want%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/5/w1280/9TI2hkMQ2pmzoVKNNko2CSuvJfH.jpg" group-title="2019",Maestras del engaño (2019)
 http://vod.tuxchannel.mx/peliculas/720/the%20hustle%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/qeEptluyFULHQLRFnVPKgp8ecLb.jpg" group-title="2019",Maldicion en el tercer piso (2019)
