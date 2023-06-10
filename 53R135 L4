@@ -9,7 +9,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 incompletas
 
 amor y muerte
-citadel
 http://series.tuxchannel.mx/series/1923/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/poker_face/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/yellowstone/s_05_e_08.mkv
@@ -8313,6 +8312,27 @@ http://series.tuxchannel.mx/series/little_fires_everywhere/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/little_fires_everywhere/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/07/11/06/5692965.jpg" group-title="Pequeños fuegos por todas partes",Cap. 08
 http://series.tuxchannel.mx/series/little_fires_everywhere/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 01
+https://archive.org/download/01_20230609_20230609_2245/01.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 02
+https://archive.org/download/02_20230609_20230609_2252/02.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 03
+https://archive.org/download/03_20230609_202306/03.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 04
+https://archive.org/download/04_20230609_20230609/04.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 05
+https://archive.org/download/05_20230609_20230609_2312/05.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 06
+https://archive.org/download/06_20230609_202306/06.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 07
+https://archive.org/download/07_20230609_20230609/07.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 08
+https://archive.org/download/08_20230609_202306/08.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 09
+https://archive.org/download/09_20230609_20230609/09.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5MWE1MTktMzM0Yy00NTE1LTk4NGYtZjVlZjVhNDFkNTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_FMjpg_UX1000_.jpg" group-title="Perfil falso",Cap. 10
+https://archive.org/download/10_20230610/10.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/06/05/19/31/4017073.jpg" group-title="Perry Mason",Cap. 01
 http://series.tuxchannel.mx/series/perry_mason/s_01_e_01.mkv
