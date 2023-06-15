@@ -2493,8 +2493,6 @@ https://archive.org/download/01_20211130_20211130_1645/01.mp4
 http://vod.tuxchannel.mx/peliculas/720/seance%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/5/w1280/bZACZg9CKTIgjP7NdpvQJQBPUV5.jpg" group-title="2021",Oslo (2021)
 http://vod.tuxchannel.mx/peliculas/720/oslo%202021.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/4/w1280/osut731qKshSV7wc4VQ7VkIlGVW.jpg" group-title="2021",Otra forma de vencer (2021)
-http://vod.tuxchannel.mx/peliculas/720/vanquish%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/8/w1280/hjczt2BA1R5HAOtn6aFTO3Y0iuy.jpg" group-title="2021",Outlaws buckle: Hebilla de forajido (2021)
 http://vod.tuxchannel.mx/peliculas/720/outlaws%20buckle%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/5/w1280/roG7MoLiHMsmeWgRtMSXH9HB57h.jpg" group-title="2021",Oxígeno (2021)
@@ -2769,6 +2767,8 @@ https://archive.org/download/01_20220522_20220522_1446/01.mp4
 http://vod.tuxchannel.mx/peliculas/720/bad%20trip%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/9/w1280/87YGfUYwM4mI2ITWzsHxxBDbOiy.jpg" group-title="2021",Uuups 2 (2021)
 https://i.getspace.us/cloud/s/CH6bx2XJLYdgZzc/download
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/4/w1280/osut731qKshSV7wc4VQ7VkIlGVW.jpg" group-title="2021",Vanquish: Otra forma de vencer (2021)
+http://vod.tuxchannel.mx/peliculas/720/vanquish%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/cNrNzSUIY9wIgPQOb4Sf77qqhQ3.jpg" group-title="2021",Venganza a toda costa (2021)
 http://vod.tuxchannel.mx/peliculas/720/az%20unoka%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/b0j9rHYpRML7dKm5xw9e97HTDJF.jpg" group-title="2021",Venom: Habrá matanza (2021)
