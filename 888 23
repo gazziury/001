@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-wall="https://wallpaper-house.com/data/out/10/wallpaper2you_385582.jpg" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Canal Desligado 
+#EXTINF:-1,#Reality
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-wall="https://wallpaper-house.com/data/out/10/wallpaper2you_385582.jpg" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",#Canal Desligado 
 http://conexaoonline.top:80/0646577379/5675861259/291553
