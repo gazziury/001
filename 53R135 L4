@@ -564,24 +564,7 @@ http://series.tuxchannel.mx/series/barbaren/s_02_e_04.mkv
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 05
 http://series.tuxchannel.mx/series/barbaren/s_02_e_05.mkv
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/10/NTX_Barbarians_S02_KeyArt_Vertical_RGB_PreLaunch.jpg" group-title="Barbaros T2",Cap. 06
-http://series.tuxchannel.mx/series/barbaren/s_02_e_06.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 01
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(01).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 02
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(02).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 03
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(03).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 04
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(04).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 05
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(05).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 06
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(06).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 07
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(07).mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNDk0NTIyMl5BMl5BanBnXkFtZTgwOTQ2Nzg4NDM@._V1_.jpg" group-title="Barry T1",Cap. 08
-http://51.81.208.167/serie/Barry/1/Barry_S01E_(08).mkv
+http://series.tuxchannel.mx/series/barbaren/s_02_e_06.mkv 
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Baymax",TRAILER
 https://archive.org/download/trailer-b-4ym-4x/trailer%20B4ym4x.mp4
@@ -597,80 +580,6 @@ https://archive.org/download/03_20220630_20220630/04.mp4
 https://archive.org/download/03_20220630_20220630/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/10/29/3226014.jpg" group-title="Baymax",Cap. 06
 https://archive.org/download/03_20220630_20220630/06.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (SUB)",Cap. 01
-http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E01.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (SUB)",Cap. 02
-http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E02.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (SUB)",Cap. 03
-http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E03.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (SUB)",Cap. 04
-http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E04.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyMjU4NjctZGM0YS00NGJkLWExMmUtMjUxYzk3NDFlMzEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Beartown (SUB)",Cap. 05
-http://51.81.208.167/serie/%20Beartown/1/Beartown_S01E05.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 01
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(01).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 02
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(02).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 03
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(03).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 04
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(04).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 05
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(05).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 06
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(06).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 07
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(07).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 08
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(08).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 09
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(09).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/12/16/09/54/558493.jpg" group-title="Better call Saul T1",Cap. 10
-http://51.81.208.167/serie/Better_Call_Saul/1/Better_Call_Saul_S01E_(10).mkv
-
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 01
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(01).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 02
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(02).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 03
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(03).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 04
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(04).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 05
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(05).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 06
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(06).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 07
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(07).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 08
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(08).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 09
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(09).mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/01/05/11/51/278230.jpg" group-title="Better call Saul T2",Cap. 10
-http://51.81.208.167/serie/Better_Call_Saul/2/BCS_T02E_(10).mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 01
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(01).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 02
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(02).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 03
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(03).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 04
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(04).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 05
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(05).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 06
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(06).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 07
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(07).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 08
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(08).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 09
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(09).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/02/14/12/5660762.jpg" group-title="Better call Saul T3",Cap. 10
-http://51.81.208.167/serie/Better_Call_Saul/3/BCS_T03E_(10).mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Better Things: Mejores cosas T1 (SUB)",TRAILER
 https://archive.org/download/trailer-b-3773-r-th-1-ng-5-1/trailer%20B3773R%20TH1NG5%201.mp4
@@ -761,27 +670,6 @@ http://series.tuxchannel.mx/series/better_things/s_04_e_08.mkv
 http://series.tuxchannel.mx/series/better_things/s_04_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/21/09/47/0008070.jpg" group-title="Better Things: Mejores cosas T4 (SUB)",Cap. 10
 http://series.tuxchannel.mx/series/better_things/s_04_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 01
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(01).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 02
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(02).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 03
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(03).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 04
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(04).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 05
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(05).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 06
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(06).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 07
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(07).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 08
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(08).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 09
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(09).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/11/18/12/35/357990.jpg" group-title="Beyond: Más allá",Cap. 10
-http://51.81.208.167/serie/Beyond/1/Beyond_S01E_(10).mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Bienvenidos a Edén T1",TRAILER
 https://archive.org/download/trailer-b-13nv-3n-1d-0s-4-3d-3n/trailer%20B13nv3n1d0s%204%203d3n.mp4
@@ -984,25 +872,6 @@ https://archive.org/download/04_20230509/04.mp4
 https://archive.org/download/05_20230509_202305/05.mp4
 #EXTINF:-1 tvg-logo="https://www.fresherwave.com/wp-content/uploads/2023/01/Bridgerton-Season-3-Poster.jpg" group-title="Bridgerton T3",Cap. 06
 https://archive.org/download/06_20230509_20230509_2027/06.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Bunker",TRAILER
-https://archive.org/download/bunk-3r/Bunk3r.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 01
-http://51.81.208.167/series2022/BUNKER/S01E01.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 02
-http://51.81.208.167/series2022/BUNKER/S01E02.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 03
-http://51.81.208.167/series2022/BUNKER/S01E03.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 04
-http://51.81.208.167/series2022/BUNKER/S01E04.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 05
-http://51.81.208.167/series2022/BUNKER/S01E05.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 06
-http://51.81.208.167/series2022/BUNKER/S01E06.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 07
-http://51.81.208.167/series2022/BUNKER/S01E07.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 08
-http://51.81.208.167/series2022/BUNKER/S01E08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Buscando a Alaska",TRAILER
 https://archive.org/download/trailer-busc-4nd-0-4-4l-45k-4/trailer%20Busc4nd0%204%204l45k4.mp4
@@ -1691,33 +1560,6 @@ http://series.tuxchannel.mx/series/living_with_yourself/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/16/18/46/1571588.jpg" group-title="Como vivir contigo mismo",Cap. 08
 http://series.tuxchannel.mx/series/living_with_yourself/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 01
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(01).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 02
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(02).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 03
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(03).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 04
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(04).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 05
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(05).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 06
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(06).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 07
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(07).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 08
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(08).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 09
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(09).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 10
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(10).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 11
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(11).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 12
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(12).mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/14/17/26/498691.jpg" group-title="Constantine",Cap. 13
-http://51.81.208.167/serie/Constantine/1/CT_S01E_(13).mkv
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Control Z T1",TRAILER
 https://archive.org/download/trailer-c-0ntr-0l-z-1/trailer%20C0ntr0l%20Z%20%20%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/05/11/19/49/3566096.jpg" group-title="Control Z T1",Cap. 01
@@ -2185,33 +2027,6 @@ http://series.tuxchannel.mx/series/doom_patrol/s_02_e_07.mkv
 http://series.tuxchannel.mx/series/doom_patrol/s_02_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/29/10/01/0373135.jpg" group-title="Doom Patrol: Patrulla condenada T2",Cap. 09
 http://series.tuxchannel.mx/series/doom_patrol/s_02_e_09.mkv
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2017/12/w1280/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg" group-title="Dope T1",Cap. 01
-http://51.81.208.167/serie/Dope/1/S01E01.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2017/12/w1280/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg" group-title="Dope T1",Cap. 02
-http://51.81.208.167/serie/Dope/1/S01E02.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2017/12/w1280/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg" group-title="Dope T1",Cap. 03
-http://51.81.208.167/serie/Dope/1/S01E03.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2017/12/w1280/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg" group-title="Dope T1",Cap. 04
-http://51.81.208.167/serie/Dope/1/S01E04.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pv0gwhqvczB7v40IZOUKEVaI5al.jpg" group-title="Dope T2",Cap. 01
-http://51.81.208.167/serie/Dope/2/S02E01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pv0gwhqvczB7v40IZOUKEVaI5al.jpg" group-title="Dope T2",Cap. 02
-http://51.81.208.167/serie/Dope/2/S02E02.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pv0gwhqvczB7v40IZOUKEVaI5al.jpg" group-title="Dope T2",Cap. 03
-http://51.81.208.167/serie/Dope/2/S02E03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pv0gwhqvczB7v40IZOUKEVaI5al.jpg" group-title="Dope T2",Cap. 04
-http://51.81.208.167/serie/Dope/2/S02E04.mkv
-
-#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-8876455421.jpg" group-title="Dope T3",Cap. 01
-http://51.81.208.167/serie/Dope/3/S03E01.mkv
-#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-8876455421.jpg" group-title="Dope T3",Cap. 02
-http://51.81.208.167/serie/Dope/3/S03E02.mkv
-#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-8876455421.jpg" group-title="Dope T3",Cap. 03
-http://51.81.208.167/serie/Dope/3/S03E03.mkv
-#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-8876455421.jpg" group-title="Dope T3",Cap. 04
-http://51.81.208.167/serie/Dope/3/S03E04.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/1/w1280/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg" group-title="Dracula",Cap. 01
 http://series.tuxchannel.mx/series/dracula/s_01_e_01.mkv
@@ -4924,25 +4739,6 @@ http://series.tuxchannel.mx/series/gangs_of_london/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1",Cap. 09
 http://series.tuxchannel.mx/series/gangs_of_london/s_01_e_09.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="G.E.O.: Mas allá del límite",TRAILER
-https://archive.org/download/g-30_20230301/G30.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 01
-http://51.81.208.167/series2022/G.E.O/S01/S01E01.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 02
-http://51.81.208.167/series2022/G.E.O/S01/S01E02.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 03
-http://51.81.208.167/series2022/G.E.O/S01/S01E03.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 04
-http://51.81.208.167/series2022/G.E.O/S01/S01E04.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 05
-http://51.81.208.167/series2022/G.E.O/S01/S01E05.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 06
-http://51.81.208.167/series2022/G.E.O/S01/S01E06.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 07
-http://51.81.208.167/series2022/G.E.O/S01/S01E07.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 08
-http://51.81.208.167/series2022/G.E.O/S01/S01E08.mkv
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Ginny y Georgia",TRAILER
 https://archive.org/download/trailer-g-1-nny-y-g-30-rg-14/trailer%20G1NNY%20Y%20G30RG14.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 01
@@ -5063,59 +4859,6 @@ http://series.tuxchannel.mx/series/hache/s_02_e_04.mkv
 http://series.tuxchannel.mx/series/hache/s_02_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/10/29/09/16/0076835.jpg" group-title="Hache T2",Cap. 06
 http://series.tuxchannel.mx/series/hache/s_02_e_06.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 01
-http://51.81.208.167/series2022/The.Protector/S01/S01E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 02
-http://51.81.208.167/series2022/The.Protector/S01/S01E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 03
-http://51.81.208.167/series2022/The.Protector/S01/S01E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 04
-http://51.81.208.167/series2022/The.Protector/S01/S01E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 05
-http://51.81.208.167/series2022/The.Protector/S01/S01E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 06
-http://51.81.208.167/series2022/The.Protector/S01/S01E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 07
-http://51.81.208.167/series2022/The.Protector/S01/S01E07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 08
-http://51.81.208.167/series2022/The.Protector/S01/S01E08.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 09
-http://51.81.208.167/series2022/The.Protector/S01/S01E09.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/04/14/00/1930660.jpg" group-title="Hakan: El protector T1",Cap. 10
-http://51.81.208.167/series2022/The.Protector/S01/S01E10.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 01
-http://51.81.208.167/series2022/The.Protector/S02/S02E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 02
-http://51.81.208.167/series2022/The.Protector/S02/S02E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 03
-http://51.81.208.167/series2022/The.Protector/S02/S02E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 04
-http://51.81.208.167/series2022/The.Protector/S02/S02E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 05
-http://51.81.208.167/series2022/The.Protector/S02/S02E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 06
-http://51.81.208.167/series2022/The.Protector/S02/S02E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 07
-http://51.81.208.167/series2022/The.Protector/S02/S02E07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/03/16/44/0723536.jpg" group-title="Hakan: El protector T2",Cap. 08
-http://51.81.208.167/series2022/The.Protector/S02/S02E08.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 01
-http://51.81.208.167/series2022/The.Protector/S03/S03E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 02
-http://51.81.208.167/series2022/The.Protector/S03/S03E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 03
-http://51.81.208.167/series2022/The.Protector/S03/S03E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 04
-http://51.81.208.167/series2022/The.Protector/S03/S03E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 05
-http://51.81.208.167/series2022/The.Protector/S03/S03E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 06
-http://51.81.208.167/series2022/The.Protector/S03/S03E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/20/15/08/2702223.jpg" group-title="Hakan: El protector T3",Cap. 07
-http://51.81.208.167/series2022/The.Protector/S03/S03E07.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Halo",TRAILER
 https://archive.org/download/trailer-h-4-l-0/trailer%20H4L0.mp4
