@@ -8652,6 +8652,15 @@ https://archive.org/download/08_20211125_20211125_1956/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/15/19/40/0697001.png" group-title="Se lo que hicieron el verano pasado",cap. 08
 https://archive.org/download/08_20211125_20211125_1956/08.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 01
+http://series.tuxchannel.mx/series/shaq/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 02
+http://series.tuxchannel.mx/series/shaq/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 03
+http://series.tuxchannel.mx/series/shaq/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 04
+http://series.tuxchannel.mx/series/shaq/s_01_e_04.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk: Abogada Hulka",Cap. 01
 https://archive.org/download/1_20220818_20220818_2308/1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk: Abogada Hulka",Cap. 02
