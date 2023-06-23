@@ -280,6 +280,27 @@ http://series.tuxchannel.mx/series/alta_mar/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/30/09/35/2360521.jpg" group-title="Alta mar T2",Cap. 08
 http://series.tuxchannel.mx/series/alta_mar/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 01
+http://series.tuxchannel.mx/series/amarres/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 02
+http://series.tuxchannel.mx/series/amarres/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 03
+http://series.tuxchannel.mx/series/amarres/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 04
+http://series.tuxchannel.mx/series/amarres/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 05
+http://series.tuxchannel.mx/series/amarres/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 06
+http://series.tuxchannel.mx/series/amarres/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 07
+http://series.tuxchannel.mx/series/amarres/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 08
+http://series.tuxchannel.mx/series/amarres/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 09
+http://series.tuxchannel.mx/series/amarres/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amarres_TV_Series-453996538-large.jpg" group-title="Amarres",Cap. 10
+http://series.tuxchannel.mx/series/amarres/s_01_e_10.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/xGhCnhnv7FqvumkKUQ1Fqp287u0.jpg" group-title="Amor y muerte",Cap. 01
 https://archive.org/download/01_20230502_20230502_0257/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/xGhCnhnv7FqvumkKUQ1Fqp287u0.jpg" group-title="Amor y muerte",Cap. 02
