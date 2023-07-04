@@ -6250,6 +6250,8 @@ http://vod.tuxchannel.mx/peliculas/720/alien%20resurrection.mkv
 https://archive.org/download/avsprtt-0370263_202204/AVSPrtt0370263.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/12/w1280/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg" group-title="Peliculas Viejas",Alien vs Depredador 2 (2007)
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Edge_of_Darkness_the_Movie_poster.jpg/220px-Edge_of_Darkness_the_Movie_poster.jpg" group-title="Peliculas Viejas",Al filo de la oscuridad (2010)
+http://vod.tuxchannel.mx/peliculas/720/edge%20of%20darkness.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/5/w1280/7Rq8FBUeSoYUWlKIWHHyADZGQiH.jpg" group-title="Peliculas Viejas",Al filo del mañana (2014)
 http://vod.tuxchannel.mx/peliculas/720/edge%20of%20tomorrow.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1985/11/w1280/jHrjJGM3bizZXaiI35aWWN3MTj5.jpg" group-title="Peliculas Viejas",Allan Quatermain: Las minas del Rey Salomón (1985)
