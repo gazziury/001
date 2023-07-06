@@ -1,5 +1,10 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="CONEXAO BBB",Canal Desligado
-http://conexaoonline.top:80/0646577379/5675861259/291553
+#EXTINF:-1 tvg-id="" tvg-name="A grande conquista - 01" tvg-logo="https://midia.market/wp-content/uploads/2023/03/logo-A-GRANDE-CONQUISTA2.png" group-title="A grande conquista",A grande conquista 01
+http://joao-1-us.mainbkonline.shop:80/48739850693pw/98798249962/86759
+#EXTINF:-1 tvg-id="" tvg-name="A grande conquista - 01" tvg-logo="https://midia.market/wp-content/uploads/2023/03/logo-A-GRANDE-CONQUISTA2.png" group-title="A grande conquista",A grande conquista 02
+http://joao-1-us.mainbkonline.shop:80/48739850693pw/98798249962/86760
+#EXTINF:-1 tvg-id="" tvg-name="A grande conquista - 01" tvg-logo="https://midia.market/wp-content/uploads/2023/03/logo-A-GRANDE-CONQUISTA2.png" group-title="A grande conquista",A grande conquista 03
+http://joao-1-us.mainbkonline.shop:80/48739850693pw/98798249962/86761
+#EXTINF:-1 tvg-id="" tvg-name="A grande conquista - 01" tvg-logo="https://midia.market/wp-content/uploads/2023/03/logo-A-GRANDE-CONQUISTA2.png" group-title="A grande conquista",A grande conquista 04
+http://joao-1-us.mainbkonline.shop:80/48739850693pw/98798249962/86762
