@@ -5041,14 +5041,14 @@ http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
 http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/6/w1280/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg" group-title="2017",Gru: Mi villano favorito 3 (2017)
 http://vod.tuxchannel.mx/peliculas/720/despicable%20me%203.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="2017",Guardianes de la galaxia vol. 2 (2017)
-http://vod.tuxchannel.mx/peliculas/720/guardians%20of%20the%20galaxy%20vol%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/xFs3D8sRUgobpwwE46rt2pZHEgi.jpg" group-title="2017",Godzilla: Planeta de monstruos (2017)
 https://archive.org/download/gopla-72p/Godzilla1.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg" group-title="2017",Gracias por tu servicio: Deber cumplido (2017)
 http://vod.tuxchannel.mx/peliculas/720/thank%20you%20for%20your%20service.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRjYTgwMWItNjRmNC00ZGI5LWI5OGEtMjRkNzg2MDM3MjIzXkEyXkFqcGdeQXVyNTYwMDQwMTU@._V1_FMjpg_UX1000_.jpg" group-title="2017",Grey lady (2017)
 http://vod.tuxchannel.mx/peliculas/720/grey%20lady.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="2017",Guardianes de la galaxia vol. 2 (2017)
+http://vod.tuxchannel.mx/peliculas/720/guardians%20of%20the%20galaxy%20vol%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/iBumIwQwfEsogXXUYIadiCeBK07.jpg" group-title="2017",Guerra de papas 2 (2017)
 http://vod.tuxchannel.mx/peliculas/720/daddys%20home%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/8/w1280/sBGKQRwj21s5dT6FjjU4ostqGaa.jpg" group-title="2017",Hazlo como hombre (2017)
@@ -6739,6 +6739,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20bone%20collector.mkv
 https://archive.org/download/el-color-purpura/el%20color%20purpura.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_.jpg" group-title="Peliculas Viejas",El complot (1997)
 http://vod.tuxchannel.mx/peliculas/720/conspiracy%20theory%201997.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_venganza_del_conde_de_Montecristo-689529560-large.jpg" group-title="Peliculas Viejas",El Conde de Montecristo (2002)
+http://vod.tuxchannel.mx/peliculas/720/the%20count%20of%20monte%20cristo.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/7/w1280/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="Peliculas Viejas",El conjuro 1 (2013)
 http://vod.tuxchannel.mx/peliculas/720/the%20conjuring.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1994/5/w1280/926j4wnskRBMtWJuR4bCrlKb1ZF.jpg" group-title="Peliculas Viejas",El cuervo (1994)
