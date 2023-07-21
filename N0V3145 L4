@@ -7,9 +7,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/tierra_de_esperanza/s_01_e_20.mkv
+http://series.tuxchannel.mx/series/tierra_de_esperanza/s_01_e_28.mkv
 
-http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_12.mkv
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_18.mkv
 
 
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_33.mkv ...seran 50 capitulos
@@ -7841,6 +7841,18 @@ http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_11.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 12
 http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 13
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 14
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 15
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 16
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_16.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 17
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_17.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 18
+http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_18.mkv
 
 
 
