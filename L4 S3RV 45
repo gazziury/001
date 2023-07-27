@@ -279,19 +279,19 @@ http://45.5.119.202:54321/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="Without category", Sun Channel
 http://45.5.119.202:54321/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SyFy
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png" group-title="Without category", SyFy
 http://45.5.119.202:54321/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBN Enlace
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/2560px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="Without category", TBN Enlace
 http://45.5.119.202:54321/play/a02z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2023/07/TNT-Novelas.jpg" group-title="Without category", TNT Novelas
 http://45.5.119.202:54321/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Without category", TCM
 http://45.5.119.202:54321/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Without category", TLC
 http://45.5.119.202:54321/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT
