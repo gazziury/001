@@ -186,10 +186,10 @@ http://45.5.119.202:54321/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png" group-title="Without category", FUTV CR
 http://45.5.119.202:54321/play/a05i/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Without category", FX
 http://45.5.119.202:54321/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Without category", Fox Sports 3
 http://45.5.119.202:54321/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden
