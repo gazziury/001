@@ -57,10 +57,10 @@ http://45.5.119.202:54321/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal13GT2022.png" group-title="Without category", Canal 13-GUA
 http://45.5.119.202:54321/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 2 - PAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Without category", Canal 2 - PAN
 http://45.5.119.202:54321/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 3 - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal3GT2022.png" group-title="Without category", Canal 3 - GUA
 http://45.5.119.202:54321/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 3 Telesistemas HND
