@@ -246,13 +246,13 @@ http://45.5.119.202:54321/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lared1061.com/wp-content/uploads/2022/11/Untitled-design-36.png" group-title="Without category", La Red - GUA
 http://45.5.119.202:54321/play/a05l/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RCN Novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="Without category", RCN Novelas
 http://45.5.119.202:54321/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RHEMA TV
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/rhema-tv-9071.jpg" group-title="Without category", Rhema tv
 http://45.5.119.202:54321/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SEMILLITAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/SEMILLITAS_SQUARE_%28JPG%29.jpg" group-title="Without category", SEMILLITAS
 http://45.5.119.202:54321/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SERTV - PAN
