@@ -81,10 +81,10 @@ http://45.5.119.202:54321/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png" group-title="Without category", Canal 8 - NIC
 http://45.5.119.202:54321/play/a067/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Antigua - GUA
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png" group-title="Without category", Canal Antigua - GUA
 http://45.5.119.202:54321/play/a04s/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Azteca - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="Without category", Canal Azteca - GUA
 http://45.5.119.202:54321/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Claro
