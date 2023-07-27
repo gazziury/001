@@ -261,11 +261,8 @@ http://45.5.119.202:54321/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Without category", SONY
 http://45.5.119.202:54321/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/imge/space.png" group-title="Without category", SPACE
 http://45.5.119.202:54321/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE HD
-http://45.5.119.202:54321/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR CHANNEL
 http://45.5.119.202:54321/play/a01m/index.m3u8
