@@ -192,13 +192,13 @@ http://45.5.119.202:54321/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Without category", Fox Sports 3
 http://45.5.119.202:54321/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Without category", Golden
 http://45.5.119.202:54321/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Guatevision - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Guatevision_2003-logo_simplified.png" group-title="Without category", Guatevision - GUA
 http://45.5.119.202:54321/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Without category", H2
 http://45.5.119.202:54321/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HCH- HON
