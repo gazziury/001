@@ -327,21 +327,15 @@ http://45.5.119.202:54321/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg" group-title="Without category", Teleunion - RD
 http://45.5.119.202:54321/play/a06b/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleuniverso - RD
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/TELEU.png" group-title="Without category", Teleuniverso - RD
 http://45.5.119.202:54321/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tooncast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Without category", Tooncast
 http://45.5.119.202:54321/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tru TV
-http://45.5.119.202:54321/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Without category", Universal
 http://45.5.119.202:54321/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WARNER HD
-http://45.5.119.202:54321/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Warner
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Without category", Warner
 http://45.5.119.202:54321/play/a012/index.m3u8
 
