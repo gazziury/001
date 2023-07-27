@@ -63,10 +63,10 @@ http://45.5.119.202:54321/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal3GT2022.png" group-title="Without category", Canal 3 - GUA
 http://45.5.119.202:54321/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 3 Telesistemas HND
+#EXTINF:-1 tvg-logo="https://whatthelogo.com/storage/logos/tsi-honduras-79704.png" group-title="Without category", Canal TSI HND
 http://45.5.119.202:54321/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 4 - NIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/800px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="Without category", Canal 4 - NIC
 http://45.5.119.202:54321/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 4 - PAN
