@@ -30,10 +30,10 @@ http://45.5.119.202:54321/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Without category", CERTV
 http://45.5.119.202:54321/play/a05h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINECANAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Without category", CINECANAL HD
 http://45.5.119.202:54321/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNNE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Without category", CNN en Español
 http://45.5.119.202:54321/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 21 - ESA
