@@ -177,13 +177,13 @@ http://45.5.119.202:54321/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="Without category", El Gourmet
 http://45.5.119.202:54321/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Exa TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="Without category", Exa TV
 http://45.5.119.202:54321/play/a06n/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Without category",Espn Extra
 http://45.5.119.202:54321/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FUTV CR
+#EXTINF:-1 tvg-logo="https://www.futvcr.com/assets/iconos/iconos-02.png" group-title="Without category", FUTV CR
 http://45.5.119.202:54321/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
