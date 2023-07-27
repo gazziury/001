@@ -108,13 +108,13 @@ http://45.5.119.202:54321/play/a06g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Without category", CineCanal
 http://45.5.119.202:54321/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CineMax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Without category", CineMax
 http://45.5.119.202:54321/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Cinema
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/large.gallery_5692_7_22692.png.5073d87c691d5cad922215862df26643.png" group-title="Without category", Claro Cinema
 http://45.5.119.202:54321/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Musica
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_08/large.SINLIMITES.png.0ce76ebb3f5410c19c3373c761d03635.png" group-title="Without category",Sin Limites Musica
 http://45.5.119.202:54321/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Sports 1 SD
