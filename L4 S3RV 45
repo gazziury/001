@@ -36,13 +36,10 @@ http://45.5.119.202:54321/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Without category", CNN en Español
 http://45.5.119.202:54321/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 21 - ESA
-http://45.5.119.202:54321/play/a05p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 11 - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Without category", Canal 11 - GUA
 http://45.5.119.202:54321/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 11 - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Without category", Canal 11 - GUA
 http://45.5.119.202:54321/play/a04z/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 12 - ESA
