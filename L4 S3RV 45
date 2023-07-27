@@ -42,10 +42,10 @@ http://45.5.119.202:54321/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Without category", Canal 11 - GUA
 http://45.5.119.202:54321/play/a04z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 12 - ESA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="Without category", Canal 12 - ESA
 http://45.5.119.202:54321/play/a065/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 12 - NI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/1200px-Canal_12_Nicaragua_logo.webp.png" group-title="Without category", Canal 12 - NI
 http://45.5.119.202:54321/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 13 - PAN
