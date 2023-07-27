@@ -117,10 +117,10 @@ http://45.5.119.202:54321/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_08/large.SINLIMITES.png.0ce76ebb3f5410c19c3373c761d03635.png" group-title="Without category",Sin Limites Musica
 http://45.5.119.202:54321/play/a04k/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Sports 1 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/640px-Claro_Sports_logo.svg.png" group-title="Without category", Claro Sports 1 SD
 http://45.5.119.202:54321/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Sports 2 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/640px-Claro_Sports_logo.svg.png" group-title="Without category", Claro Sports 2 SD
 http://45.5.119.202:54321/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Color Vision 9 - RD
