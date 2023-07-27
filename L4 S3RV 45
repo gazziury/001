@@ -264,26 +264,20 @@ http://45.5.119.202:54321/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/imge/space.png" group-title="Without category", SPACE
 http://45.5.119.202:54321/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Without category", STAR CHANNEL
 http://45.5.119.202:54321/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR CHANNEL HD
-http://45.5.119.202:54321/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUYAPA TV
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/STVE-Telebasica-1-tvtolive.com_.jpg" group-title="Without category", STVE
 http://45.5.119.202:54321/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sembrador
+#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="Without category", Sembrador
 http://45.5.119.202:54321/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Studio Universal
+#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/21566_468.jpg" group-title="Without category", Studio Universal
 http://45.5.119.202:54321/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sun Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="Without category", Sun Channel
 http://45.5.119.202:54321/play/a06c/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sun Channel
-http://45.5.119.202:54321/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SyFy
 http://45.5.119.202:54321/play/a015/index.m3u8
