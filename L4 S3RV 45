@@ -69,10 +69,10 @@ http://45.5.119.202:54321/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/800px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="Without category", Canal 4 - NIC
 http://45.5.119.202:54321/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 4 - PAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rpc.svg/1200px-Rpc.svg.png" group-title="Without category", Canal 4 - PAN
 http://45.5.119.202:54321/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 5 - HON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_5_HN_logo_2019.png" group-title="Without category", Canal 5 - HON
 http://45.5.119.202:54321/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 7 - GUA
