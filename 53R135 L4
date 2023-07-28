@@ -1342,6 +1342,33 @@ https://archive.org/download/capitulo-08_202112/capitulo%2007.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 08
 https://archive.org/download/capitulo-08_202112/capitulo%2008.mp4
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 01
+http://series.tuxchannel.mx/series/chueco/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 02
+http://series.tuxchannel.mx/series/chueco/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 03
+http://series.tuxchannel.mx/series/chueco/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 04
+http://series.tuxchannel.mx/series/chueco/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 05
+http://series.tuxchannel.mx/series/chueco/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 06
+http://series.tuxchannel.mx/series/chueco/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 07
+http://series.tuxchannel.mx/series/chueco/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 08
+http://series.tuxchannel.mx/series/chueco/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 09
+http://series.tuxchannel.mx/series/chueco/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 10
+http://series.tuxchannel.mx/series/chueco/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 11
+http://series.tuxchannel.mx/series/chueco/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 12
+http://series.tuxchannel.mx/series/chueco/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 13
+http://series.tuxchannel.mx/series/chueco/s_01_e_13.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxZWEyYjctZDAxZS00NjI1LWFjNDItNzA5MDY1MzJlMGRmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="Ciclos T1",Cap. 01
 http://series.tuxchannel.mx/series/trying/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjcxZWEyYjctZDAxZS00NjI1LWFjNDItNzA5MDY1MzJlMGRmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="Ciclos T1",Cap. 02
