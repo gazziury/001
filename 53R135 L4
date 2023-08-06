@@ -6966,6 +6966,10 @@ http://series.tuxchannel.mx/series/the_wheel_of_time/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/the_wheel_of_time/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 06
 http://series.tuxchannel.mx/series/the_wheel_of_time/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 07
+https://archive.org/download/07_20230805_202308/07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 08
+https://archive.org/download/08_20230805_202308/08.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/pCaaaWAJblYzZ3odgq1HYP4P49.jpg" group-title="Las brujas de Mayfair",Cap. 01
 https://archive.org/download/01_20230718_20230718_2219/01.mp4
