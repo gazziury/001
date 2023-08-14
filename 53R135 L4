@@ -8,7 +8,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 incompletas
 
-http://series.tuxchannel.mx/series/hijack/s_01_e_05.mkv  TOTAL 07
 amor y muerte
 http://series.tuxchannel.mx/series/1923/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/poker_face/s_01_e_04.mkv
@@ -5567,6 +5566,10 @@ http://series.tuxchannel.mx/series/hijack/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/hijack/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZiODlmYmQtOGRhYS00ZmFlLTk5YzYtMDJmODU5NjUyMTk3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" group-title="Hijack: Secuestro en el aire",Cap. 05
 http://series.tuxchannel.mx/series/hijack/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZiODlmYmQtOGRhYS00ZmFlLTk5YzYtMDJmODU5NjUyMTk3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" group-title="Hijack: Secuestro en el aire",Cap. 06
+http://series.tuxchannel.mx/series/hijack/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZiODlmYmQtOGRhYS00ZmFlLTk5YzYtMDJmODU5NjUyMTk3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" group-title="Hijack: Secuestro en el aire",Cap. 07
+http://series.tuxchannel.mx/series/hijack/s_01_e_07.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hijos de la anarquia: Los indomables T1",TRAILER
 https://archive.org/download/trailer-h-1j-05-d-3-l-4-4n-4rqu-14/trailer%20H1j05%20d3%20l4%204n4rqu14.mp4
