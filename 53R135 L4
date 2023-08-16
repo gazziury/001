@@ -8,6 +8,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 incompletas
 
+http://series.tuxchannel.mx/series/warrior/s_03_e_06.mkv
+
 amor y muerte
 http://series.tuxchannel.mx/series/1923/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/poker_face/s_01_e_04.mkv
@@ -11501,13 +11503,18 @@ http://series.tuxchannel.mx/series/warrior/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2019/4/w1280/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" group-title="Warrior T2",Cap. 10
 http://series.tuxchannel.mx/series/warrior/s_02_e_10.mkv
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.moviemeter.nl/series/images/cover/25000/25443.jpg" group-title="Warrior T3",Cap. 01
+http://series.tuxchannel.mx/series/warrior/s_03_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.moviemeter.nl/series/images/cover/25000/25443.jpg" group-title="Warrior T3",Cap. 02
+http://series.tuxchannel.mx/series/warrior/s_03_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.moviemeter.nl/series/images/cover/25000/25443.jpg" group-title="Warrior T3",Cap. 03
+http://series.tuxchannel.mx/series/warrior/s_03_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.moviemeter.nl/series/images/cover/25000/25443.jpg" group-title="Warrior T3",Cap. 04
+http://series.tuxchannel.mx/series/warrior/s_03_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.moviemeter.nl/series/images/cover/25000/25443.jpg" group-title="Warrior T3",Cap. 05
+http://series.tuxchannel.mx/series/warrior/s_03_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.moviemeter.nl/series/images/cover/25000/25443.jpg" group-title="Warrior T3",Cap. 06
+http://series.tuxchannel.mx/series/warrior/s_03_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/16/22/3443676.jpg" group-title="Warrior Nun: La monja guerrera",Cap. 01
 http://series.tuxchannel.mx/series/warrior_nun/s_01_e_01.mkv
