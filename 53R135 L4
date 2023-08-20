@@ -2010,6 +2010,13 @@ https://archive.org/download/01_20220416_20220416_1808/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 08
 https://archive.org/download/01_20220416_20220416_1808/08.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM1Y2I4NWItNjhlNy00ZWZhLThiYzEtMmRjMTMwMGI4NjBhXkEyXkFqcGdeQXVyNjc1OTk4NjA@._V1_.jpg" group-title="Depp vs Heard",Cap. 01
+http://series.tuxchannel.mx/series/depp_vs_heard/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM1Y2I4NWItNjhlNy00ZWZhLThiYzEtMmRjMTMwMGI4NjBhXkEyXkFqcGdeQXVyNjc1OTk4NjA@._V1_.jpg" group-title="Depp vs Heard",Cap. 02
+http://series.tuxchannel.mx/series/depp_vs_heard/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM1Y2I4NWItNjhlNy00ZWZhLThiYzEtMmRjMTMwMGI4NjBhXkEyXkFqcGdeQXVyNjc1OTk4NjA@._V1_.jpg" group-title="Depp vs Heard",Cap. 03
+http://series.tuxchannel.mx/series/depp_vs_heard/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyMDRmYjItNGI0Mi00MmYwLWJiMjUtNGQxNmNmMTgwZmU5XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="Desde cero",Cap. 01
 http://series.tuxchannel.mx/series/from_scratch/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyMDRmYjItNGI0Mi00MmYwLWJiMjUtNGQxNmNmMTgwZmU5XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="Desde cero",Cap. 02
