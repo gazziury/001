@@ -31,9 +31,9 @@ http://45.228.232.219:16000/play/a0kk/index.m3u8
 http://45.228.232.219:16000/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/137-1373314_publicidad-x-renuncia-de-tres-comunicadores-en-cdn.png" group-title="Noticias",CDN 37
 http://45.228.232.219:16000/play/a0mu/index.m3u8
-#EXTINF:-1,CERTV
+#EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Aire",RTVD 4
 http://45.228.232.219:16000/play/a0nf/index.m3u8
-#EXTINF:-1,CINECANAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium",Cinecanal HD
 http://45.228.232.219:16000/play/a0ne/index.m3u8
 #EXTINF:-1,CNNE
 http://45.228.232.219:16000/play/a0m8/index.m3u8
