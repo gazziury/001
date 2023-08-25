@@ -35,7 +35,7 @@ http://45.228.232.219:16000/play/a0mu/index.m3u8
 http://45.228.232.219:16000/play/a0nf/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium",Cinecanal HD
 http://45.228.232.219:16000/play/a0ne/index.m3u8
-#EXTINF:-1,CNNE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Noticias",CNN en Español 
 http://45.228.232.219:16000/play/a0m8/index.m3u8
 #EXTINF:-1,Canal 21 - ESA
 http://45.228.232.219:16000/play/a0nn/index.m3u8
