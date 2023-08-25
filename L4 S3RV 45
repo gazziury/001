@@ -283,7 +283,5 @@ http://45.228.232.219:16000/play/a0mw/index.m3u8
 http://45.228.232.219:16000/play/a0lu/index.m3u8
 #EXTINF:-1,Universal
 http://45.228.232.219:16000/play/a0o3/index.m3u8
-#EXTINF:-1,VENUS
-http://45.228.232.219:16000/play/a0lc/index.m3u8
 #EXTINF:-1,VTV Canal 35 ESA
 http://45.228.232.219:16000/play/a0ks/index.m3u8
