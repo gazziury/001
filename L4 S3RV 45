@@ -23,15 +23,13 @@ http://45.228.232.219:16000/play/a0li/index.m3u8
 http://45.228.232.219:16000/play/a0lw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="Aire",Azteca
 http://45.228.232.219:16000/play/a0mx/index.m3u8
-#EXTINF:-1,BBC World
-http://45.228.232.219:16000/play/a0m9/index.m3u8
-#EXTINF:-1,Baby First
+#EXTINF:-1 tvg-logo="https://img.remediosdigitales.com/b808d8/baby_first_tv/450_1000.jpg" group-title="Infantil",Baby First
 http://45.228.232.219:16000/play/a0ku/index.m3u8
-#EXTINF:-1,CANAL 13 - NI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Aire",Canal 13 Nicaragua
 http://45.228.232.219:16000/play/a0kk/index.m3u8
-#EXTINF:-1,CDN2- RD
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cdn-sports-max-canal-67.png" group-title="Deportes",CDN Deportes
 http://45.228.232.219:16000/play/a0kh/index.m3u8
-#EXTINF:-1,CDN37 - RD
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/137-1373314_publicidad-x-renuncia-de-tres-comunicadores-en-cdn.png" group-title="Noticias",CDN 37
 http://45.228.232.219:16000/play/a0mu/index.m3u8
 #EXTINF:-1,CERTV
 http://45.228.232.219:16000/play/a0nf/index.m3u8
