@@ -15,9 +15,9 @@ http://45.228.232.219:16000/play/a0m7/index.m3u8
 http://45.228.232.219:16000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" group-title="Premium",AXN HD
 http://45.228.232.219:16000/play/a0od/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Premium",Animal Planet
 http://45.228.232.219:16000/play/a0n4/index.m3u8
-#EXTINF:-1,Antena 7- RD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/antena-7-logo-D598139C57-seeklogo.com.png" group-title="Aire",Antena 7
 http://45.228.232.219:16000/play/a0li/index.m3u8
 #EXTINF:-1,Azcorazon
 http://45.228.232.219:16000/play/a0lw/index.m3u8
