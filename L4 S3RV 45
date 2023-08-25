@@ -37,11 +37,11 @@ http://45.228.232.219:16000/play/a0nf/index.m3u8
 http://45.228.232.219:16000/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Noticias",CNN en Español 
 http://45.228.232.219:16000/play/a0m8/index.m3u8
-#EXTINF:-1,Canal 21 - ESA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="Aire",Canal 21 ESA
 http://45.228.232.219:16000/play/a0nn/index.m3u8
-#EXTINF:-1,Canal 10 - NIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="Aire",Canal 10 NIC
 http://45.228.232.219:16000/play/a0mr/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Aire",Canal 11 GUA
 http://45.228.232.219:16000/play/a0ka/index.m3u8
 #EXTINF:-1,Canal 11 - HON
 http://45.228.232.219:16000/play/a0lg/index.m3u8
