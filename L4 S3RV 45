@@ -43,9 +43,9 @@ http://45.228.232.219:16000/play/a0nn/index.m3u8
 http://45.228.232.219:16000/play/a0mr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Canal11GT2022.png" group-title="Aire",Canal 11 GUA
 http://45.228.232.219:16000/play/a0ka/index.m3u8
-#EXTINF:-1,Canal 11 - HON
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_05/large.Canal11Hon.png.215d0a33c5d0bbd27eb915b34aba0624.png" group-title="Aire",Canal 11 HON
 http://45.228.232.219:16000/play/a0lg/index.m3u8
-#EXTINF:-1,Canal 12 - ESA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="Aire",Canal 12 ESA
 http://45.228.232.219:16000/play/a0kc/index.m3u8
 #EXTINF:-1,Canal 12 - NI
 http://45.228.232.219:16000/play/a0lk/index.m3u8
