@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,-TBN Enlace
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/2560px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="Religion",Enlace
 http://45.228.232.219:16000/play/a0mb/index.m3u8
-#EXTINF:-1,11 - Repretel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png" group-title="Aire",Repretel 11
 http://45.228.232.219:16000/play/a0kq/index.m3u8
-#EXTINF:-1,4 Repretel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="Aire",Repretel 4
 http://45.228.232.219:16000/play/a0mv/index.m3u8
-#EXTINF:-1,6 - Repretel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="Aire",Repretel 6
 http://45.228.232.219:16000/play/a0kp/index.m3u8
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Premium",A&E
 http://45.228.232.219:16000/play/a0n1/index.m3u8
 #EXTINF:-1,AMC
 http://45.228.232.219:16000/play/a0m7/index.m3u8
