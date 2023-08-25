@@ -9,11 +9,11 @@ http://45.228.232.219:16000/play/a0mv/index.m3u8
 http://45.228.232.219:16000/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Premium",A&E
 http://45.228.232.219:16000/play/a0n1/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Premium",AMC
 http://45.228.232.219:16000/play/a0m7/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" group-title="Premium",AXN
 http://45.228.232.219:16000/play/a0m5/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" group-title="Premium",AXN HD
 http://45.228.232.219:16000/play/a0od/index.m3u8
 #EXTINF:-1,Animal Planet
 http://45.228.232.219:16000/play/a0n4/index.m3u8
