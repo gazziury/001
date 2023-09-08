@@ -71,7 +71,7 @@ http://45.228.232.219:16000/play/a0np/index.m3u8
 http://45.228.232.219:16000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/800px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="Aire",Canal 4 - NIC
 http://45.228.232.219:16000/play/a0nk/index.m3u8
-#EXTINF:-1,Canal 4 - PAN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/RPCPanama2021.png" group-title="Aire",Canal 4 - PAN
 http://45.228.232.219:16000/play/a0nm/index.m3u8
 #EXTINF:-1,Canal 5 - HON
 http://45.228.232.219:16000/play/a0mo/index.m3u8
