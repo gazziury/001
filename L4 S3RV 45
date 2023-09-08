@@ -153,7 +153,7 @@ http://45.228.232.219:16000/play/a0n9/index.m3u8
 http://45.228.232.219:16000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes",FUTV CR
 http://45.228.232.219:16000/play/a0ng/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FX_2008_logo.svg/220px-FX_2008_logo.svg.png" group-title="Premium",FX
 http://45.228.232.219:16000/play/a0kv/index.m3u8
 #EXTINF:-1,Fox Sport 3
 http://45.228.232.219:16000/play/a0m2/index.m3u8
