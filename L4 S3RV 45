@@ -149,9 +149,9 @@ http://45.228.232.219:16000/play/a0mc/index.m3u8
 http://45.228.232.219:16000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="Musica",Exa tv
 http://45.228.232.219:16000/play/a0n9/index.m3u8
-#EXTINF:-1,FOX Sports 2
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Deportes",ESPN Extra
 http://45.228.232.219:16000/play/a0l2/index.m3u8
-#EXTINF:-1,FUTV CR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes",FUTV CR
 http://45.228.232.219:16000/play/a0ng/index.m3u8
 #EXTINF:-1,FX
 http://45.228.232.219:16000/play/a0kv/index.m3u8
