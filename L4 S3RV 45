@@ -107,9 +107,9 @@ http://45.228.232.219:16000/play/a0o7/index.m3u8
 http://45.228.232.219:16000/play/a0na/index.m3u8
 #EXTINF:-1 tvg-logo="https://redmas.com.co/export/system/cmsMedios/users/Z20230418_211943182.jpg_2084533765.jpg" group-title="Musica",Sin Límites
 http://45.228.232.219:16000/play/a0l5/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
+#EXTINF:-1 tvg-logo="https://cdn.clarosports.com/clarosports/2023/02/cropped-claro-icon-162422.jpg" group-title="Deportes",Claro Sports
 http://45.228.232.219:16000/play/a0ny/index.m3u8
-#EXTINF:-1,Color Vision 9 - RD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Color_Vision.jpg" group-title="Aire",Color Vision 9 - RD
 http://45.228.232.219:16000/play/a0mt/index.m3u8
 #EXTINF:-1,Concert Channel
 http://45.228.232.219:16000/play/a0o2/index.m3u8
