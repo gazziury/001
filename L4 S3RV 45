@@ -117,7 +117,7 @@ http://45.228.232.219:16000/play/a0o2/index.m3u8
 http://45.228.232.219:16000/play/a0kg/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Premium",Discovery Channel
 http://45.228.232.219:16000/play/a0n3/index.m3u8
-#EXTINF:-1,Discovery Home & Health
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png" group-title="Premium",Discovery Home Health
 http://45.228.232.219:16000/play/a0nw/index.m3u8
 #EXTINF:-1,Discovery Kids
 http://45.228.232.219:16000/play/a0nr/index.m3u8
