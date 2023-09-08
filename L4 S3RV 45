@@ -195,7 +195,7 @@ http://45.228.232.219:16000/play/a0m4/index.m3u8
 http://45.228.232.219:16000/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="Musica",MTV Hits
 http://45.228.232.219:16000/play/a0m3/index.m3u8
-#EXTINF:-1,Multicinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/1200px-MC_logo_2022.png" group-title="Premium",Multicinema
 http://45.228.232.219:16000/play/a0la/index.m3u8
 #EXTINF:-1,Multipremier
 http://45.228.232.219:16000/play/a0o5/index.m3u8
