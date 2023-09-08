@@ -111,7 +111,7 @@ http://45.228.232.219:16000/play/a0l5/index.m3u8
 http://45.228.232.219:16000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Color_Vision.jpg" group-title="Aire",Color Vision 9 - RD
 http://45.228.232.219:16000/play/a0mt/index.m3u8
-#EXTINF:-1,Concert Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest?cb=20150406181433&path-prefix=es" group-title="Musica",Concert Channel
 http://45.228.232.219:16000/play/a0o2/index.m3u8
 #EXTINF:-1,Digital 15 - RD
 http://45.228.232.219:16000/play/a0kg/index.m3u8
