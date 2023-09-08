@@ -127,9 +127,9 @@ http://45.228.232.219:16000/play/a0nv/index.m3u8
 http://45.228.232.219:16000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/cc/150px-Disney_Junior_Logo.png/revision/latest?cb=20220202150137&path-prefix=es" group-title="Infantil",Disney JR
 http://45.228.232.219:16000/play/a0lr/index.m3u8
-#EXTINF:-1,E!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Premium",E!
 http://45.228.232.219:16000/play/a0n0/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-logo="https://www.semana.com/resizer/B19l4hRSJjkWIYbPTw7qpAayi2c=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/HJQVD5QC5NFCJLNB6XKYEINGWQ.jpg" group-title="Deportes",ESPN
 http://45.228.232.219:16000/play/a0n7/index.m3u8
 #EXTINF:-1,ESPN +
 http://45.228.232.219:16000/play/a0me/index.m3u8
