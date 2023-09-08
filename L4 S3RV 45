@@ -163,7 +163,7 @@ http://45.228.232.219:16000/play/a0ma/index.m3u8
 http://45.228.232.219:16000/play/a0l8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/800px-Guatevision_2003-logo_simplified.png" group-title="Aire",Guatevision - GUA
 http://45.228.232.219:16000/play/a0lf/index.m3u8
-#EXTINF:-1,H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="Premium",H2
 http://45.228.232.219:16000/play/a0ky/index.m3u8
 #EXTINF:-1,HCH- HON
 http://45.228.232.219:16000/play/a0ln/index.m3u8
