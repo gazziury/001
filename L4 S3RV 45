@@ -133,9 +133,9 @@ http://45.228.232.219:16000/play/a0n0/index.m3u8
 http://45.228.232.219:16000/play/a0n7/index.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Deportes",ESPN Extra
 http://45.228.232.219:16000/play/a0me/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN 2
 http://45.228.232.219:16000/play/a0n8/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3
 http://45.228.232.219:16000/play/a0l1/index.m3u8
 #EXTINF:-1,ESPN 4
 http://45.228.232.219:16000/play/a0o0/index.m3u8
