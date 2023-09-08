@@ -83,9 +83,9 @@ http://45.228.232.219:16000/play/a0kj/index.m3u8
 http://45.228.232.219:16000/play/a0mk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TN8_Nicaragua.svg/2560px-TN8_Nicaragua.svg.png" group-title="Aire",Canal 8 - NIC
 http://45.228.232.219:16000/play/a0ke/index.m3u8
-#EXTINF:-1,Canal Antigua - GUA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Canal_Antigua_2016.png/revision/latest/scale-to-width-down/200?cb=20210618133521&path-prefix=es" group-title="Aire",Canal Antigua - GUA
 http://45.228.232.219:16000/play/a0mi/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="Aire",Canal Azteca - GUA
 http://45.228.232.219:16000/play/a0mj/index.m3u8
 #EXTINF:-1,Canal Claro
 http://45.228.232.219:16000/play/a0le/index.m3u8
