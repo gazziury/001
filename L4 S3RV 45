@@ -177,7 +177,7 @@ http://45.228.232.219:16000/play/a0md/index.m3u8
 http://45.228.232.219:16000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Premium",I-SAT
 http://45.228.232.219:16000/play/a0o4/index.m3u8
-#EXTINF:-1,LIFE TIME
+#EXTINF:-1 tvg-logo="https://assets.historyplay.tv/lifetimelatam/public/images/2021/11/04/lifetime.png" group-title="Premium",Lifetime
 http://45.228.232.219:16000/play/a0m1/index.m3u8
 #EXTINF:-1,La voz de Maria
 http://45.228.232.219:16000/play/a0nz/index.m3u8
