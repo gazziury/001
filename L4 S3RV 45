@@ -59,9 +59,9 @@ http://45.228.232.219:16000/play/a0kf/index.m3u8
 http://45.228.232.219:16000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/TCS_2_2016.png" group-title="Aire",Canal 2 - ESA
 http://45.228.232.219:16000/play/a0mn/index.m3u8
-#EXTINF:-1,Canal 2 - NIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Canal_2_%28Nicaragua%29_logo.png" group-title="Aire",Canal 2 - NIC
 http://45.228.232.219:16000/play/a0mq/index.m3u8
-#EXTINF:-1,Canal 2 - PAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="Aire",Canal 2 - PAN
 http://45.228.232.219:16000/play/a0lm/index.m3u8
 #EXTINF:-1,Canal 3 - GUA
 http://45.228.232.219:16000/play/a0ml/index.m3u8
