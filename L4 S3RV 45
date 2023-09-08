@@ -137,9 +137,9 @@ http://45.228.232.219:16000/play/a0me/index.m3u8
 http://45.228.232.219:16000/play/a0n8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3
 http://45.228.232.219:16000/play/a0l1/index.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
 http://45.228.232.219:16000/play/a0o0/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD
 http://45.228.232.219:16000/play/a0oc/index.m3u8
 #EXTINF:-1,EURO Channel
 http://45.228.232.219:16000/play/a0kx/index.m3u8
