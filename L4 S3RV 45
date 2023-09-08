@@ -97,9 +97,9 @@ http://45.228.232.219:16000/play/a0ni/index.m3u8
 http://45.228.232.219:16000/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/a/ab/Cartoonito_%282021-presente%29.png/revision/latest?cb=20211126135539&path-prefix=es" group-title="Infantil",Cartoonito
 http://45.228.232.219:16000/play/a0lq/index.m3u8
-#EXTINF:-1,Cine Latino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png" group-title="Premium",Cine Latino
 http://45.228.232.219:16000/play/a0o6/index.m3u8
-#EXTINF:-1,CineCanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium",Cinecanal
 http://45.228.232.219:16000/play/a0o9/index.m3u8
 #EXTINF:-1,CineMax
 http://45.228.232.219:16000/play/a0o7/index.m3u8
