@@ -175,7 +175,7 @@ http://45.228.232.219:16000/play/a0n5/index.m3u8
 http://45.228.232.219:16000/play/a0md/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Premium",ID
 http://45.228.232.219:16000/play/a0nx/index.m3u8
-#EXTINF:-1,ISAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Premium",I-SAT
 http://45.228.232.219:16000/play/a0o4/index.m3u8
 #EXTINF:-1,LIFE TIME
 http://45.228.232.219:16000/play/a0m1/index.m3u8
