@@ -69,7 +69,7 @@ http://45.228.232.219:16000/play/a0ml/index.m3u8
 http://45.228.232.219:16000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="Aire",Canal 4 - ESA
 http://45.228.232.219:16000/play/a0mm/index.m3u8
-#EXTINF:-1,Canal 4 - NIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/800px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="Aire",Canal 4 - NIC
 http://45.228.232.219:16000/play/a0nk/index.m3u8
 #EXTINF:-1,Canal 4 - PAN
 http://45.228.232.219:16000/play/a0nm/index.m3u8
