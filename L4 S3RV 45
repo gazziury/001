@@ -199,7 +199,7 @@ http://45.228.232.219:16000/play/a0m3/index.m3u8
 http://45.228.232.219:16000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/Multipremier_2020.png/revision/latest?cb=20220115005213&path-prefix=es" group-title="Premium",Multipremier
 http://45.228.232.219:16000/play/a0o5/index.m3u8
-#EXTINF:-1,NEXT - PAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="Aire",NEX - PAN
 http://45.228.232.219:16000/play/a0kn/index.m3u8
 #EXTINF:-1,National Geographic
 http://45.228.232.219:16000/play/a0m0/index.m3u8
