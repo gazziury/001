@@ -181,7 +181,7 @@ http://45.228.232.219:16000/play/a0o4/index.m3u8
 http://45.228.232.219:16000/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png/v1/fill/w_212,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religion",La voz de María
 http://45.228.232.219:16000/play/a0nz/index.m3u8
-#EXTINF:-1,Latin America Sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT326jhZE-pou6c-SnsEjGuaP3prZbdzZ67w&usqp=CAU" group-title="Deportes",Latin America Sports
 http://45.228.232.219:16000/play/a0l4/index.m3u8
 #EXTINF:-1,MASTV - PAN
 http://45.228.232.219:16000/play/a0ko/index.m3u8
