@@ -173,7 +173,7 @@ http://45.228.232.219:16000/play/a0l7/index.m3u8
 http://45.228.232.219:16000/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Premium",History Channel HD
 http://45.228.232.219:16000/play/a0md/index.m3u8
-#EXTINF:-1,ID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Premium",ID
 http://45.228.232.219:16000/play/a0nx/index.m3u8
 #EXTINF:-1,ISAT
 http://45.228.232.219:16000/play/a0o4/index.m3u8
