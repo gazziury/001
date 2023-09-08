@@ -123,9 +123,9 @@ http://45.228.232.219:16000/play/a0nw/index.m3u8
 http://45.228.232.219:16000/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Premium",Discovery Turbo
 http://45.228.232.219:16000/play/a0nv/index.m3u8
-#EXTINF:-1,Disney
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney
 http://45.228.232.219:16000/play/a0nt/index.m3u8
-#EXTINF:-1,Disney JR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/cc/150px-Disney_Junior_Logo.png/revision/latest?cb=20220202150137&path-prefix=es" group-title="Infantil",Disney JR
 http://45.228.232.219:16000/play/a0lr/index.m3u8
 #EXTINF:-1,E!
 http://45.228.232.219:16000/play/a0n0/index.m3u8
