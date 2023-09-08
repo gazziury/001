@@ -73,11 +73,11 @@ http://45.228.232.219:16000/play/a0mm/index.m3u8
 http://45.228.232.219:16000/play/a0nk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/RPCPanama2021.png" group-title="Aire",Canal 4 - PAN
 http://45.228.232.219:16000/play/a0nm/index.m3u8
-#EXTINF:-1,Canal 5 - HON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_5_HN_logo_2019.png" group-title="Aire",Canal 5 - HON
 http://45.228.232.219:16000/play/a0mo/index.m3u8
-#EXTINF:-1,Canal 6 - ESA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="Aire",Canal 6 - ESA
 http://45.228.232.219:16000/play/a0kb/index.m3u8
-#EXTINF:-1,Canal 6 - NI
+#EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2023/01/canal_6_2017.png" group-title="Aire",Canal 6 - NIC
 http://45.228.232.219:16000/play/a0kj/index.m3u8
 #EXTINF:-1,Canal 7 - GUA
 http://45.228.232.219:16000/play/a0mk/index.m3u8
