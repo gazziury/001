@@ -49,11 +49,11 @@ http://45.228.232.219:16000/play/a0lg/index.m3u8
 http://45.228.232.219:16000/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/545px-Canal_12_Nicaragua_logo.webp.png" group-title="Aire",Canal 12 NIC
 http://45.228.232.219:16000/play/a0lk/index.m3u8
-#EXTINF:-1,Canal 13 - PAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="Aire",Canal 13 - PAN
 http://45.228.232.219:16000/play/a0ll/index.m3u8
-#EXTINF:-1,Canal 13-GUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal13GT2022.png" group-title="Aire",Canal 13 - GUA
 http://45.228.232.219:16000/play/a0k9/index.m3u8
-#EXTINF:-1,Canal 14 - NIC
+#EXTINF:-1 tvg-logo="https://www.vostv.com.ni/static/images/logo-footer.png" group-title="Aire",Canal 14 - NIC
 http://45.228.232.219:16000/play/a0kf/index.m3u8
 #EXTINF:-1,Canal 19 ESA
 http://45.228.232.219:16000/play/a0kt/index.m3u8
