@@ -67,7 +67,7 @@ http://45.228.232.219:16000/play/a0lm/index.m3u8
 http://45.228.232.219:16000/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/TSi_Honduras_new_logo.png.png" group-title="Aire",Canal 3 - HON
 http://45.228.232.219:16000/play/a0np/index.m3u8
-#EXTINF:-1,Canal 4 - ESA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="Aire",Canal 4 - ESA
 http://45.228.232.219:16000/play/a0mm/index.m3u8
 #EXTINF:-1,Canal 4 - NIC
 http://45.228.232.219:16000/play/a0nk/index.m3u8
