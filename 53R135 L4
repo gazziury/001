@@ -8,6 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 incompletas
 
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_07.mkv
 http://series.tuxchannel.mx/series/warrior/s_03_e_10.mkv
 http://series.tuxchannel.mx/series/lioness/s_01_e_07.mkv
 http://series.tuxchannel.mx/series/1923/s_01_e_06.mkv
@@ -7278,6 +7279,21 @@ http://series.tuxchannel.mx/series/the_serpent/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/the_serpent/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ve+bdko8L._AC_.jpg" group-title="La serpiente",Cap. 08
 http://series.tuxchannel.mx/series/the_serpent/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 01
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 02
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 03
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 04
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 05
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 06
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyMzk3ZjUtOGQ2Mi00NDg2LWFhZTMtODRiMTZjNmJjZDliXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="Las pelotaris 1926",Cap. 07
+http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_07.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La templanza",TRAILER
 https://archive.org/download/trailer-l-4-t-3mpl-4nz-4/trailer%20L4%20T3mpl4nz4.mp4
