@@ -4555,7 +4555,7 @@ http://vod.tuxchannel.mx/peliculas/720/rocketman%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/official%20secrets%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/8/w1280/myUjOa4P3G5QLb5wrHtKbi0piD0.jpg" group-title="2019",Sextillizos (2019)
 http://vod.tuxchannel.mx/peliculas/720/sextuplets%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/6/w1280/pesSqCVneMabei0js9hL9Gby9mz.jpg" group-title="2019",Shaft (2019)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/6/w1280/pesSqCVneMabei0js9hL9Gby9mz.jpg" group-title="2019",Shaft 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/shaft%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/3/w1280/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title="2019",Shazam! (2019)
 http://vod.tuxchannel.mx/peliculas/720/shazam%202019.mkv
@@ -8723,6 +8723,8 @@ http://vod.tuxchannel.mx/peliculas/720/serena.mkv
 http://vod.tuxchannel.mx/peliculas/720/serenity.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1995/9/w1280/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg" group-title="Peliculas Viejas",Seven: Los 7 pecados (1995)
 http://vod.tuxchannel.mx/peliculas/720/seven.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3ZWNjZDYtZGRhOS00ZmE2LThmMTMtOTBkMmE2ZTA0M2MzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Peliculas Viejas",Shaft 1 (2000)
+http://vod.tuxchannel.mx/peliculas/720/shaft.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/5/w1280/aYp2tot8qCRh65aBzH90bptzvGc.jpg" group-title="Peliculas Viejas",Shanghai Kid del este al oeste (2000)
 http://vod.tuxchannel.mx/peliculas/720/shanghai%20noon.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ0MGY4MGEtYjQzOC00ZTFlLTg3ODQtMzhhNGEzZTg1MjIzXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Shanghai Kid en Londres (2003)
