@@ -6638,8 +6638,6 @@ http://vod.tuxchannel.mx/peliculas/720/edge%20of%20tomorrow.mkv
 https://archive.org/download/allan-quatermain-las-minas-del-rey-salomon/Allan%20Quatermain%20%20Las%20Minas%20Del%20Rey%20Salomon.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/9/w1280/8ao6FyzvNicxgKQ8h6lOUV0AzRf.jpg" group-title="Peliculas Viejas",Alone in the dark 2: El regreso de las sombras (2008) CASTELLANO
 http://archive.org/download/videoplayback_20200903_2207/videoplayback.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/4/w1280/25H2JzYmsBG5869h0bxkShDyov1.jpg" group-title="Peliculas Viejas",Alto voltaje (2006)
-http://vod.tuxchannel.mx/peliculas/720/crank.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/3/w1280/6aue0EtBfftVryNP11acJqOZu2h.jpg" group-title="Peliculas Viejas",Amanecer de los muertos (2004)
 http://vod.tuxchannel.mx/peliculas/720/dawn of the dead.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2002/11/w1280/5IKwcQlKqOlw3bKL4IQsf91LYbh.jpg" group-title="Peliculas Viejas",Amar te duele (2002)
@@ -6969,6 +6967,8 @@ http://vod.tuxchannel.mx/peliculas/720/copycat.mkv
 http://vod.tuxchannel.mx/peliculas/720/a%20knights%20tale.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1995/3/w1280/cDMYybBU4COJfTwcPgnihwY5EiP.jpg" group-title="Peliculas Viejas",Corazón valiente (1995)
 http://vod.tuxchannel.mx/peliculas/720/braveheart.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzNTU1ODkxNl5BMl5BanBnXkFtZTcwMDgyODEzMg@@._V1_.jpg" group-title="Peliculas Viejas",Crank 1: Muerte anunciada (2006)
+http://vod.tuxchannel.mx/peliculas/720/crank.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/10/11/29/472074.jpg" group-title="Peliculas Viejas",Crash: Colision (2004)
 http://vod.tuxchannel.mx/peliculas/720/crash%202004.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJjNWE1MzYtZjlkYy00YmRmLWIyMWUtN2JmNDA2MDg2NzY4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Criaturas rastreras (2006)
