@@ -6850,14 +6850,12 @@ http://vod.tuxchannel.mx/peliculas/720/taken.mkv
 http://vod.tuxchannel.mx/peliculas/720/taken%202.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vzvMXMypMq7ieDofKThsxjHj9hn.jpg" group-title="Peliculas Viejas",Búsqueda implacable 3 (2014)
 http://vod.tuxchannel.mx/peliculas/720/taken%203.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExNzkxOTYyNl5BMl5BanBnXkFtZTcwODA0MjU4Ng@@._V1_.jpg" group-title="Peliculas Viejas",Caballo de guerra (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nF66DU2zPLFb9CxDQNSNX2RgNaq.jpg" group-title="Peliculas Viejas",Caballo de guerra (2011)
 http://vod.tuxchannel.mx/peliculas/720/war%20horse.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1994/8/w1280/5Us9yWtxAzl7WrcjXPZ9NrjaM3T.jpg" group-title="Peliculas Viejas",Cabezas huecas (1994)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrvR31360RNGpslCtljXpVSwVeXn.jpg" group-title="Peliculas Viejas",Cabezas huecas (1994)
 http://vod.tuxchannel.mx/peliculas/720/airheads.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/10/w1280/8MFVGTbYnOqAmwq6tLz8NUE5bZC.jpg" group-title="Peliculas Viejas",Cadena de favores (2000)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/62OIokwaxFwBFWM147ijLJsaVJD.jpg" group-title="Peliculas Viejas",Cadena de favores (2000)
 http://vod.tuxchannel.mx/peliculas/720/pay%20it%20forward.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1994/9/w1280/dc1fX265fZIIY5Hab8I7CdETyJy.jpg" group-title="Peliculas Viejas",Cadena perpetua: Sueños de fuga (1994)
-http://vod.tuxchannel.mx/peliculas/720/the%20shawshank%20redemption.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/9/w1280/5GJEZovjtKisJxNMG6fBTCxNzZi.jpg" group-title="Peliculas Viejas",Cake: Una razón para vivir (2014)
 http://vod.tuxchannel.mx/peliculas/720/cake.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Calvario (2014)
@@ -9017,6 +9015,8 @@ http://vod.tuxchannel.mx/peliculas/720/stretch.mkv
 http://vod.tuxchannel.mx/peliculas/720/striptease.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2002/12/w1280/qHUkWonnPKAWwCJf4hRMUDzS18v.jpg" group-title="Peliculas Viejas",Sueño de amor (2002)
 http://vod.tuxchannel.mx/peliculas/720/maid%20in%20manhattan.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FlyQBXzOQSuE59IsHyhrp0qIiPAz.jpg" group-title="Peliculas Viejas",Sueños de libertad (1994)
+http://vod.tuxchannel.mx/peliculas/720/the%20shawshank%20redemption.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1987/6/w1280/wxjMwT6SZffF6mxVjhQvhkYKixK.jpg" group-title="Peliculas Viejas",Sufre mamón (1987)
 https://archive.org/download/smedrtyg-4567/SMEDRTYG4567.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/4/w1280/j1WUtc5NMBUof8Qa9ZqS6hhZ7tQ.jpg" group-title="Peliculas Viejas",Sunshine: Alerta solar (2007)
