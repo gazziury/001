@@ -6961,6 +6961,8 @@ http://vod.tuxchannel.mx/peliculas/720/conan%20the%20destroyer%201984.mkv
 http://vod.tuxchannel.mx/peliculas/720/life%201999.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1995/6/w1280/hgHB2Hzy0ykHzrEDQsdpHUx83Iz.jpg" group-title="Peliculas Viejas",Congo (1995)
 https://archive.org/download/edtfcser-234/EDTFCSER234.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg" group-title="Peliculas Viejas",Con la frente en alto (2004)
+http://vod.tuxchannel.mx/peliculas/720/walking%20tall.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjIyYzBlYmUtYzg1Yy00MDhjLTlmYjUtMTZlMWI0NmFmZTFkXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_.jpg" group-title="Peliculas Viejas",Conquistando a mi suegro (2005)
 http://vod.tuxchannel.mx/peliculas/720/conquistando%20a%20mi%20suegro.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2005/2/w1280/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg" group-title="Peliculas Viejas",Constantine (2005)
@@ -8631,8 +8633,6 @@ http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20m
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20at%20worlds%20end.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/5/w1280/2oOARbiV871kCC27FyKBmYwOM3G.jpg" group-title="Peliculas Viejas",Piratas del Caribe: Navegando aguas misteriosas (2011)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/4/w1280/jzkVuvVsyoNfIcu4MEFalZCj2fy.jpg" group-title="Peliculas Viejas",Pisando fuerte: Con la frente en alto (2004)
-http://vod.tuxchannel.mx/peliculas/720/walking%20tall.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/s57oup4Cig0DgQMu7p4R2m4ZDUl.jpg" group-title="Peliculas Viejas",Plan de escape 1 (2013)
 http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg" group-title="Peliculas Viejas",Plan de vuelo (2005)
