@@ -6966,8 +6966,6 @@ http://vod.tuxchannel.mx/peliculas/720/walking%20tall.mkv
 http://vod.tuxchannel.mx/peliculas/720/conquistando%20a%20mi%20suegro.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1y1n7ZVlNyol4U26yZZAnhcqqfb.jpg" group-title="Peliculas Viejas",Constantine (2005)
 http://vod.tuxchannel.mx/peliculas/720/constantine.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uMD7wrjdNh3HxRuIbQs0qRZVHY.jpg" group-title="Peliculas Viejas",Contacto sangriento: El gran dragón blanco (1988)
-http://vod.tuxchannel.mx/peliculas/720/bloodsport.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1997/6/w1280/kH27W9aZWA3D122gwK2WnKRIwI1.jpg" group-title="Peliculas Viejas",Contra/Cara (1997)
 http://vod.tuxchannel.mx/peliculas/720/face%20off.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/1/w1280/bmIphBwlYwChptmUH8UYzBO6yBh.jpg" group-title="Peliculas Viejas",Contrabando (2012)
@@ -7272,6 +7270,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20fugitive.mkv
 http://vod.tuxchannel.mx/peliculas/720/return%20of%20the%20dragon.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/10/w1280/hC65iC1wphKzxlhbALFiavzSSFZ.jpg" group-title="Peliculas Viejas",El gato con botas (2011)
 http://vod.tuxchannel.mx/peliculas/720/puss%20in%20boots.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uMD7wrjdNh3HxRuIbQs0qRZVHY.jpg" group-title="Peliculas Viejas",El gran dragón blanco (1988)
+http://vod.tuxchannel.mx/peliculas/720/bloodsport.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1998/3/w1280/EJFkJD9BH400jfzKz3W5xLYHQa.jpg" group-title="Peliculas Viejas",El gran Lebowsky (1998)
 http://vod.tuxchannel.mx/peliculas/720/el%20gran%20lebowski.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/6/w1280/uAq6TJYIsi62xf5v2nGDAQwh0wY.jpg" group-title="Peliculas Viejas",El gran Stan: A prueba de hombres (2007)
