@@ -6794,6 +6794,8 @@ http://vod.tuxchannel.mx/peliculas/720/ghost%20ship.mkv
 http://vod.tuxchannel.mx/peliculas/720/barrabas.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg" group-title="Peliculas Viejas",Bastardos sin gloria (2009)
 http://vod.tuxchannel.mx/peliculas/720/inglourious%20basterds.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/guOIn7uP2tVVz6IcE3byMOwY13x.jpg" group-title="Peliculas Viejas",Batalla Los Angeles (2011)
+http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg" group-title="Peliculas Viejas",Battleship: Batalla naval (2012)
 http://vod.tuxchannel.mx/peliculas/720/battleship.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg" group-title="Peliculas Viejas",Batman regresa (1992)
@@ -7832,8 +7834,6 @@ http://vod.tuxchannel.mx/peliculas/720/blow.mkv
 http://vod.tuxchannel.mx/peliculas/720/interstelar.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcNUoXM8dtg5mRt90GLrAHBP9IGE.jpg" group-title="Peliculas Viejas",Invictus (2009)
 http://vod.tuxchannel.mx/peliculas/720/invictus.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/3/w1280/ioU6K3KSbrPAVJ8J6FqyOmjuqGJ.jpg" group-title="Peliculas Viejas",Invasión a la tierra: Batalla L.A. (2011)
-http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/12/w1280/6BNa7SL9qrs3iaoMtdXIYqF58s3.jpg" group-title="Peliculas Viejas",Ip Man: La leyenda (2008)
 http://vod.tuxchannel.mx/peliculas/720/ip%20man.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2010/4/w1280/ype1J4olDfeQpseCiQob5I74oqg.jpg" group-title="Peliculas Viejas",Ip Man 2 (2010)
