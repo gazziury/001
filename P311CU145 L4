@@ -7618,10 +7618,8 @@ http://vod.tuxchannel.mx/peliculas/720/fuego%20contra%20fuego.mkv
 http://vod.tuxchannel.mx/peliculas/720/gangster%20squad.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lW94s7xxkdOzYcueaqGJwcVVvjt.jpg" group-title="Peliculas Viejas",Fuerza Delta (1986)
 http://vod.tuxchannel.mx/peliculas/720/the%20delta%20force.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1988/7/w1280/fEA1MuEdubDun5OzKPJvCT2INYZ.jpg" group-title="Peliculas Viejas",Fuga a la medianoche (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d14Xxyn2Hkt2KUKcwPhdmmKbRUR.jpg" group-title="Peliculas Viejas",Fuga a la medianoche (1988)
 http://vod.tuxchannel.mx/peliculas/720/midnight%20run%201988.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/2/w1280/wpBxAQCEDlLd1TVfSeurWRgSIQs.jpg" group-title="Peliculas Viejas",Furia ciega: Infierno al volante (2011)
-https://archive.org/download/infierno-al-volante/infierno%20al%20volante.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2010/3/w1280/gn2q6HooPdGfFaOI2U2nbjw3BSZ.jpg" group-title="Peliculas Viejas",Furia de titanes (2010)
 http://vod.tuxchannel.mx/peliculas/720/clash%20of%20the%20titans.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91umeBqr53L._AC_SY679_.jpg" group-title="Peliculas Viejas",Furia salvaje (1991)
@@ -7818,6 +7816,8 @@ http://vod.tuxchannel.mx/peliculas/720/indiana%20jones%20y%20la%20ultima%20cruza
 https://archive.org/download/tt0367882/tt0367882.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2002/5/w1280/9UeN5JUCvJU3SuA4a9CrCVzgTr2.jpg" group-title="Peliculas Viejas",Infidelidad (2002)
 http://vod.tuxchannel.mx/peliculas/720/unfaithful.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g0hQNqLkPZC5wOnNhzUH0KvPda4.jpg" group-title="Peliculas Viejas",Infierno al volante (2011)
+https://archive.org/download/infierno-al-volante/infierno%20al%20volante.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1988/6/w1280/gCLR9iQS3dRo8mYnq2I73EK9KEf.jpg" group-title="Peliculas Viejas",Infierno rojo (1988)
 http://vod.tuxchannel.mx/peliculas/720/red%20heat%201988.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/10/w1280/mupWl1yjc7S8nvce6KpYksZdlTy.jpg" group-title="Peliculas Viejas",Infiltrados (2006)
