@@ -6992,6 +6992,8 @@ http://vod.tuxchannel.mx/peliculas/720/eagle%20eye.mkv
 http://vod.tuxchannel.mx/peliculas/720/copycat.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg" group-title="Peliculas Viejas",Corazón de caballero (2001)
 http://vod.tuxchannel.mx/peliculas/720/a%20knights%20tale.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg" group-title="Peliculas Viejas",Corazones de Hierro (2014)
+http://vod.tuxchannel.mx/peliculas/720/fury.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2For1gBugydmjToAEq7OZY0owwFk.jpg" group-title="Peliculas Viejas",Corazón valiente (1995)
 http://vod.tuxchannel.mx/peliculas/720/braveheart.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtoaY9CoMAy37QNv8HbbUqWS4X1Q.jpg" group-title="Peliculas Viejas",Crank 1: Muerte anunciada (2006)
@@ -7624,8 +7626,6 @@ http://vod.tuxchannel.mx/peliculas/720/midnight%20run%201988.mkv
 http://vod.tuxchannel.mx/peliculas/720/clash%20of%20the%20titans.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nmfM1diysOyrX4JbvwS7uOomyes.jpg" group-title="Peliculas Viejas",Furia salvaje (1991)
 http://vod.tuxchannel.mx/peliculas/720/out%20for%20justice.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg" group-title="Peliculas Viejas",Fury: Corazones de Hierro (2014)
-http://vod.tuxchannel.mx/peliculas/720/fury.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pH5ieqe5s2ZuZeEhloJZk9WeCTL.jpg" group-title="Peliculas Viejas",Gabriel (2007)
 http://vod.tuxchannel.mx/peliculas/720/gabriel%202007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c1pZjoDkHDGjAu3WnlXU7EyT7nt.jpg" group-title="Peliculas Viejas",Ganar o morir (1993)
