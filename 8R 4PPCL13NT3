@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/ae.png" group-title="FILMES&SERIES", A&E
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/ae.png" group-title="FILMES & SERIES", A&E
 http://45.230.96.42:80/andreza87/87/630
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/agrobrasil.png" group-title="PARABOLICA", AGRO BRASIL
@@ -9,7 +9,7 @@ http://45.230.96.42:80/andreza87/87/427
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/agrocanal.png" group-title="PARABOLICA", AGRO CANAL
 http://45.230.96.42:80/andreza87/87/428
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/amc.png" group-title="FILMES&SERIES", AMC
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/amc.png" group-title="FILMES & SERIES", AMC
 http://45.230.96.42:80/andreza87/87/631
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO", ANIMAL PLANET
@@ -18,7 +18,7 @@ http://45.230.96.42:80/andreza87/87/597
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/arte1.png" group-title="ENTRETENIMENTO", ARTE 1
 http://45.230.96.42:80/andreza87/87/598
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/axn.png" group-title="FILMES&SERIES", AXN
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/axn.png" group-title="FILMES & SERIES", AXN
 http://45.230.96.42:80/andreza87/87/632
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/babytv.png" group-title="KIDS", BABY TV
@@ -36,7 +36,7 @@ http://45.230.96.42:80/andreza87/87/381
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/band.png" group-title="PARABOLICA", BAND SAT
 http://45.230.96.42:80/andreza87/87/502
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/bandsports.png" group-title="SPORTES", BAND SPORTS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/bandsports.png" group-title="ESPORTES", BAND SPORTS
 http://45.230.96.42:80/andreza87/87/532
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/bis.png" group-title="ENTRETENIMENTO", BIS
@@ -54,7 +54,7 @@ http://45.230.96.42:80/andreza87/87/433
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/canalsaude.png" group-title="PARABOLICA", CANAL SAUDE
 http://45.230.96.42:80/andreza87/87/452
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sonychannel.png" group-title="FILMES&SERIES", CANAL SONY
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sonychannel.png" group-title="FILMES & SERIES", CANAL SONY
 http://45.230.96.42:80/andreza87/87/633
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tvcancaonovaceara.png" group-title="PARABOLICA", CANCAO NOVA
@@ -69,67 +69,67 @@ http://45.230.96.42:80/andreza87/87/583
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinebrasiltv.png" group-title="PARABOLICA", CINE BRASIL
 http://45.230.96.42:80/andreza87/87/434
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 01
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 01
 http://45.230.96.42:80/andreza87/87/522
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 02
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 02
 http://45.230.96.42:80/andreza87/87/523
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 03
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 03
 http://45.230.96.42:80/andreza87/87/524
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 04
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 04
 http://45.230.96.42:80/andreza87/87/525
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 05
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 05
 http://45.230.96.42:80/andreza87/87/526
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 06
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 06
 http://45.230.96.42:80/andreza87/87/527
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 07
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 07
 http://45.230.96.42:80/andreza87/87/528
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 08
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 08
 http://45.230.96.42:80/andreza87/87/529
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 09
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 09
 http://45.230.96.42:80/andreza87/87/530
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINESKY", CINE SKY 10
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinesky.png" group-title="CINE SKY", CINE SKY 10
 http://45.230.96.42:80/andreza87/87/531
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinemax.png" group-title="FILMES&SERIES", CINEMAX
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinemax.png" group-title="FILMES & SERIES", CINEMAX
 http://45.230.96.42:80/andreza87/87/634
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cnnbrasil.png" group-title="NEWS", CNN BRASIL
 http://45.230.96.42:80/andreza87/87/626
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/combate.png" group-title="SPORTES", COMBATE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/combate.png" group-title="ESPORTES", COMBATE
 http://45.230.96.42:80/andreza87/87/533
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL
 http://45.230.96.42:80/andreza87/87/601
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="SPORTES", CONMEBOL 1
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="ESPORTES", CONMEBOL 1
 http://45.230.96.42:80/andreza87/87/551
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="SPORTES", CONMEBOL 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="ESPORTES", CONMEBOL 2
 http://45.230.96.42:80/andreza87/87/552
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="SPORTES", CONMEBOL 3
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="ESPORTES", CONMEBOL 3
 http://45.230.96.42:80/andreza87/87/553
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="SPORTES", CONMEBOL 4
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/conmebol.png" group-title="ESPORTES", CONMEBOL 4
 http://45.230.96.42:80/andreza87/87/554
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/curta.png" group-title="ENTRETENIMENTO", CURTA!
 http://45.230.96.42:80/andreza87/87/600
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/dazn.png" group-title="SPORTES", DAZN
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/dazn.png" group-title="ESPORTES", DAZN
 http://45.230.96.42:80/andreza87/87/534
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/dazn.png" group-title="SPORTES", DAZN 4
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/dazn.png" group-title="ESPORTES", DAZN 4
 http://45.230.96.42:80/andreza87/87/683
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/discoverychannel.png" group-title="ENTRETENIMENTO", DISCOVERY CHANNEL
@@ -165,19 +165,19 @@ http://45.230.96.42:80/andreza87/87/609
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/educacao.png" group-title="PARABOLICA", EDUCACAO
 http://45.230.96.42:80/andreza87/87/453
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn.png" group-title="SPORTES", ESPN
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn.png" group-title="ESPORTES", ESPN
 http://45.230.96.42:80/andreza87/87/537
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn2.png" group-title="SPORTES", ESPN 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn2.png" group-title="ESPORTES", ESPN 2
 http://45.230.96.42:80/andreza87/87/535
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn3.png" group-title="SPORTES", ESPN 3
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn3.png" group-title="ESPORTES", ESPN 3
 http://45.230.96.42:80/andreza87/87/536
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn4.png" group-title="SPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn4.png" group-title="ESPORTES", ESPN 4
 http://45.230.96.42:80/andreza87/87/539
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espnextra.png" group-title="SPORTES", ESPN EXTRA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espnextra.png" group-title="ESPORTES", ESPN EXTRA
 http://45.230.96.42:80/andreza87/87/538
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/euronews.png" group-title="NEWS", EURO NEWS
@@ -189,55 +189,55 @@ http://45.230.96.42:80/andreza87/87/610
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK
 http://45.230.96.42:80/andreza87/87/611
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/foxsports2.png" group-title="SPORTES", FOX SPORTS 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2
 http://45.230.96.42:80/andreza87/87/540
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/fx.png" group-title="FILMES&SERIES", FX
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/fx.png" group-title="FILMES & SERIES", FX
 http://45.230.96.42:80/andreza87/87/639
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO BRASILIA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO BRASILIA
 http://45.230.96.42:80/andreza87/87/475
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO FLORIANOPOLIS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO FLORIANOPOLIS
 http://45.230.96.42:80/andreza87/87/476
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globominas.png" group-title="GLOBOS&RECORD", GLOBO MINAS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globominas.png" group-title="GLOBOS & RECORD", GLOBO MINAS
 http://45.230.96.42:80/andreza87/87/477
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO NATAL
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO NATAL
 http://45.230.96.42:80/andreza87/87/478
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globonews.png" group-title="NEWS", GLOBO NEWS
 http://45.230.96.42:80/andreza87/87/627
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globonordeste.png" group-title="GLOBOS&RECORD", GLOBO NORDESTE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globonordeste.png" group-title="GLOBOS & RECORD", GLOBO NORDESTE
 http://45.230.96.42:80/andreza87/87/479
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO REDE AMAZONICA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO REDE AMAZONICA
 http://45.230.96.42:80/andreza87/87/482
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globorj.png" group-title="GLOBOS&RECORD", GLOBO RIO
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globorj.png" group-title="GLOBOS & RECORD", GLOBO RIO
 http://45.230.96.42:80/andreza87/87/480
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO RIO GRANDE DO SUL
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO RIO GRANDE DO SUL
 http://45.230.96.42:80/andreza87/87/481
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO RPC CURITIBA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO RPC CURITIBA
 http://45.230.96.42:80/andreza87/87/483
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO SP
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO SP
 http://45.230.96.42:80/andreza87/87/484
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO TV ANHANGUERA GOIANIA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO TV ANHANGUERA GOIANIA
 http://45.230.96.42:80/andreza87/87/485
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO TV BAHIA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO TV BAHIA
 http://45.230.96.42:80/andreza87/87/486
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", GLOBO TV LIBERAL BELEM
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", GLOBO TV LIBERAL BELEM
 http://45.230.96.42:80/andreza87/87/487
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globotvmirante.png" group-title="GLOBOS&RECORD", GLOBO TV MIRANTE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globotvmirante.png" group-title="GLOBOS & RECORD", GLOBO TV MIRANTE
 http://45.230.96.42:80/andreza87/87/488
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/gloob.png" group-title="KIDS", GLOOB
@@ -252,28 +252,28 @@ http://45.230.96.42:80/andreza87/87/612
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/h2.png" group-title="ENTRETENIMENTO", H2
 http://45.230.96.42:80/andreza87/87/615
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbo.png" group-title="FILMES&SERIES", HBO
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbo.png" group-title="FILMES & SERIES", HBO
 http://45.230.96.42:80/andreza87/87/640
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbo2.png" group-title="FILMES&SERIES", HBO 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbo2.png" group-title="FILMES & SERIES", HBO 2
 http://45.230.96.42:80/andreza87/87/641
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbofamily.png" group-title="FILMES&SERIES", HBO FAMILY
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbofamily.png" group-title="FILMES & SERIES", HBO FAMILY
 http://45.230.96.42:80/andreza87/87/642
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbomundi.png" group-title="FILMES&SERIES", HBO MUNDI
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbomundi.png" group-title="FILMES & SERIES", HBO MUNDI
 http://45.230.96.42:80/andreza87/87/643
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hboplus.png" group-title="FILMES&SERIES", HBO PLUS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hboplus.png" group-title="FILMES & SERIES", HBO PLUS
 http://45.230.96.42:80/andreza87/87/644
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbopop.png" group-title="FILMES&SERIES", HBO POP
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbopop.png" group-title="FILMES & SERIES", HBO POP
 http://45.230.96.42:80/andreza87/87/645
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbosignature.png" group-title="FILMES&SERIES", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hbosignature.png" group-title="FILMES & SERIES", HBO SIGNATURE
 http://45.230.96.42:80/andreza87/87/646
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hboextreme.png" group-title="FILMES&SERIES", HBO XTREME
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hboextreme.png" group-title="FILMES & SERIES", HBO XTREME
 http://45.230.96.42:80/andreza87/87/647
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/hgtv.png" group-title="ENTRETENIMENTO", HGTV
@@ -291,16 +291,16 @@ http://45.230.96.42:80/andreza87/87/455
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/icones/jovempannews.png" group-title="NEWS", JOVEM PAN NEWS
 http://45.230.96.42:80/andreza87/87/436
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES&SERIES", LIFETIME
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES & SERIES", LIFETIME
 http://45.230.96.42:80/andreza87/87/648
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/like.png" group-title="FILMES&SERIES", LIKE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/like.png" group-title="FILMES & SERIES", LIKE
 http://45.230.96.42:80/andreza87/87/685
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/lovenature.png" group-title="ENTRETENIMENTO", LOVE NATURE
 http://45.230.96.42:80/andreza87/87/616
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/megapix.png" group-title="FILMES&SERIES", MEGAPIX
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/megapix.png" group-title="FILMES & SERIES", MEGAPIX
 http://45.230.96.42:80/andreza87/87/649
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/mtv.png" group-title="ENTRETENIMENTO", MTV
@@ -327,67 +327,67 @@ http://45.230.96.42:80/andreza87/87/593
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/off.png" group-title="ENTRETENIMENTO", OFF
 http://45.230.96.42:80/andreza87/87/622
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/paramount.png" group-title="FILMES&SERIES", PARAMOUNT
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/paramount.png" group-title="FILMES & SERIES", PARAMOUNT
 http://45.230.96.42:80/andreza87/87/650
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/polishop.png" group-title="PARABOLICA", POLISHOP
 http://45.230.96.42:80/andreza87/87/439
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere2.png" group-title="SPORTES", PREMIERE 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere2.png" group-title="ESPORTES", PREMIERE 2
 http://45.230.96.42:80/andreza87/87/542
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere3.png" group-title="SPORTES", PREMIERE 3
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere3.png" group-title="ESPORTES", PREMIERE 3
 http://45.230.96.42:80/andreza87/87/543
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premeire4.png" group-title="SPORTES", PREMIERE 4
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premeire4.png" group-title="ESPORTES", PREMIERE 4
 http://45.230.96.42:80/andreza87/87/544
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premeire5.png" group-title="SPORTES", PREMIERE 5
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premeire5.png" group-title="ESPORTES", PREMIERE 5
 http://45.230.96.42:80/andreza87/87/545
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere6.png" group-title="SPORTES", PREMIERE 6
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere6.png" group-title="ESPORTES", PREMIERE 6
 http://45.230.96.42:80/andreza87/87/546
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere7.png" group-title="SPORTES", PREMIERE 7
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiere7.png" group-title="ESPORTES", PREMIERE 7
 http://45.230.96.42:80/andreza87/87/547
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiereclubes.png" group-title="SPORTES", PREMIERE CLUBES
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/premiereclubes.png" group-title="ESPORTES", PREMIERE CLUBES
 http://45.230.96.42:80/andreza87/87/541
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/primeboxbrazil.png" group-title="ENTRETENIMENTO", PRIME BOX
 http://45.230.96.42:80/andreza87/87/670
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD BAHIA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD BAHIA
 http://45.230.96.42:80/andreza87/87/490
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD BELEM
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD BELEM
 http://45.230.96.42:80/andreza87/87/491
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD BRASILIA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD BRASILIA
 http://45.230.96.42:80/andreza87/87/492
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="BAHIA", RECORD FEIRA SANTA
 http://45.230.96.42:80/andreza87/87/390
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD GOIAS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD GOIAS
 http://45.230.96.42:80/andreza87/87/493
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD MANAUS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD MANAUS
 http://45.230.96.42:80/andreza87/87/494
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD MINAS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD MINAS
 http://45.230.96.42:80/andreza87/87/495
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/recordnews.png" group-title="NEWS", RECORD NEWS
 http://45.230.96.42:80/andreza87/87/496
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD RIO
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD RIO
 http://45.230.96.42:80/andreza87/87/497
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS&RECORD", RECORD RS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/record.png" group-title="GLOBOS & RECORD", RECORD RS
 http://45.230.96.42:80/andreza87/87/498
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/reordtvsp.png" group-title="GLOBOS&RECORD", RECORD SP
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/reordtvsp.png" group-title="GLOBOS & RECORD", RECORD SP
 http://45.230.96.42:80/andreza87/87/499
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/redecnt.png" group-title="PARABOLICA", REDE CNT
@@ -414,76 +414,76 @@ http://45.230.96.42:80/andreza87/87/363
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sbt.png" group-title="PARABOLICA", SBT
 http://45.230.96.42:80/andreza87/87/384
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/space.png" group-title="FILMES&SERIES", SPACE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/space.png" group-title="FILMES & SERIES", SPACE
 http://45.230.96.42:80/andreza87/87/651
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sportv.png" group-title="SPORTES", SPORTV
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sportv.png" group-title="ESPORTES", SPORTV
 http://45.230.96.42:80/andreza87/87/548
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sportv2.png" group-title="SPORTES", SPORTV 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sportv2.png" group-title="ESPORTES", SPORTV 2
 http://45.230.96.42:80/andreza87/87/549
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sportv3.png" group-title="SPORTES", SPORTV 3
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/sportv3.png" group-title="ESPORTES", SPORTV 3
 http://45.230.96.42:80/andreza87/87/550
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/starchannel.png" group-title="FILMES&SERIES", STAR CHANNEL
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/starchannel.png" group-title="FILMES & SERIES", STAR CHANNEL
 http://45.230.96.42:80/andreza87/87/675
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/starlife.png" group-title="FILMES&SERIES", STAR LIFE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/starlife.png" group-title="FILMES & SERIES", STAR LIFE
 http://45.230.96.42:80/andreza87/87/678
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/studiouniversal.png" group-title="FILMES&SERIES", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/studiouniversal.png" group-title="FILMES & SERIES", STUDIO UNIVERSAL
 http://45.230.96.42:80/andreza87/87/652
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/syfy.png" group-title="FILMES&SERIES", SYFY
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/syfy.png" group-title="FILMES & SERIES", SYFY
 http://45.230.96.42:80/andreza87/87/653
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tbs.png" group-title="FILMES&SERIES", TBS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tbs.png" group-title="FILMES & SERIES", TBS
 http://45.230.96.42:80/andreza87/87/654
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcm.png" group-title="FILMES&SERIES", TCM
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcm.png" group-title="FILMES & SERIES", TCM
 http://45.230.96.42:80/andreza87/87/686
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcaction.png" group-title="FILMES&SERIES", TELECINE ACTION
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcaction.png" group-title="FILMES & SERIES", TELECINE ACTION
 http://45.230.96.42:80/andreza87/87/655
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tccult.png" group-title="FILMES&SERIES", TELECINE CULT
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tccult.png" group-title="FILMES & SERIES", TELECINE CULT
 http://45.230.96.42:80/andreza87/87/656
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcfun.png" group-title="FILMES&SERIES", TELECINE FUN
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcfun.png" group-title="FILMES & SERIES", TELECINE FUN
 http://45.230.96.42:80/andreza87/87/657
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcpipoca.png" group-title="FILMES&SERIES", TELECINE PIPOCA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcpipoca.png" group-title="FILMES & SERIES", TELECINE PIPOCA
 http://45.230.96.42:80/andreza87/87/658
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcpremium.png" group-title="FILMES&SERIES", TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tcpremium.png" group-title="FILMES & SERIES", TELECINE PREMIUM
 http://45.230.96.42:80/andreza87/87/659
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tctouch.png" group-title="FILMES&SERIES", TELECINE TOUCH
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tctouch.png" group-title="FILMES & SERIES", TELECINE TOUCH
 http://45.230.96.42:80/andreza87/87/660
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tlc.png" group-title="FILMES&SERIES", TLC
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tlc.png" group-title="FILMES & SERIES", TLC
 http://45.230.96.42:80/andreza87/87/661
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tnt.png" group-title="FILMES&SERIES", TNT
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tnt.png" group-title="FILMES & SERIES", TNT
 http://45.230.96.42:80/andreza87/87/662
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntseries.png" group-title="FILMES&SERIES", TNT SERIES
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntseries.png" group-title="FILMES & SERIES", TNT SERIES
 http://45.230.96.42:80/andreza87/87/663
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="SPORTES", TNT SPORTS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="ESPORTES", TNT SPORTS
 http://45.230.96.42:80/andreza87/87/559
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="SPORTES", TNT SPORTS 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="ESPORTES", TNT SPORTS 2
 http://45.230.96.42:80/andreza87/87/560
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="SPORTES", TNT SPORTS 3
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="ESPORTES", TNT SPORTS 3
 http://45.230.96.42:80/andreza87/87/561
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="SPORTES", TNT SPORTS 4
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="ESPORTES", TNT SPORTS 4
 http://45.230.96.42:80/andreza87/87/562
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="SPORTES", TNT SPORTS 5
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tntsports.png" group-title="ESPORTES", TNT SPORTS 5
 http://45.230.96.42:80/andreza87/87/680
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tooncast.png" group-title="KIDS", TOONCAST
@@ -498,7 +498,7 @@ http://45.230.96.42:80/andreza87/87/667
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tvarapuaredev.png" group-title="PARAIBA", TV ARAPUAN REDE TV
 http://45.230.96.42:80/andreza87/87/369
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", TV ASA BRANCA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", TV ASA BRANCA
 http://45.230.96.42:80/andreza87/87/471
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tvbrasil.png" group-title="PARABOLICA", TV BRASIL 2
@@ -522,10 +522,10 @@ http://45.230.96.42:80/andreza87/87/395
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/futura.png" group-title="CEARA", TV FUTURA
 http://45.230.96.42:80/andreza87/87/396
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", TV GAZETA ALAGOAS
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", TV GAZETA ALAGOAS
 http://45.230.96.42:80/andreza87/87/472
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS&RECORD", TV GAZETA VITORIA ES
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globo.png" group-title="GLOBOS & RECORD", TV GAZETA VITORIA ES
 http://45.230.96.42:80/andreza87/87/473
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tvguararapes.png" group-title="PERNAMBUCO", TV GUARARAPES
@@ -543,7 +543,7 @@ http://45.230.96.42:80/andreza87/87/373
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tvmiramar.png" group-title="PARAIBA", TV MIRAMAR TV CULTURA
 http://45.230.96.42:80/andreza87/87/374
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globotvmorena.png" group-title="GLOBOS&RECORD", TV MORENA
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globotvmorena.png" group-title="GLOBOS & RECORD", TV MORENA
 http://45.230.96.42:80/andreza87/87/474
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/novanordeste.png" group-title="PERNAMBUCO", TV NOVA NORDESTE
@@ -588,7 +588,7 @@ http://45.230.96.42:80/andreza87/87/353
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/tvuniversitaria.png" group-title="CEARA", TVU CEARA
 http://45.230.96.42:80/andreza87/87/401
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/universalchannel.png" group-title="FILMES&SERIES", UNIVERSAL TV
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/universalchannel.png" group-title="FILMES & SERIES", UNIVERSAL TV
 http://45.230.96.42:80/andreza87/87/664
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/vh1megahits.png" group-title="ENTRETENIMENTO", VH1 MEGA HITS
@@ -597,7 +597,7 @@ http://45.230.96.42:80/andreza87/87/624
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/viva.png" group-title="ENTRETENIMENTO", VIVA
 http://45.230.96.42:80/andreza87/87/625
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/warnerchannel.png" group-title="FILMES&SERIES", WARNER CHANNEL
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/warnerchannel.png" group-title="FILMES & SERIES", WARNER CHANNEL
 http://45.230.96.42:80/andreza87/87/665
 
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/woohoo.png" group-title="ENTRETENIMENTO", WOOHOO
@@ -609,15 +609,15 @@ http://45.230.96.42:80/andreza87/87/596
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/maisglobosat.png" group-title="ENTRETENIMENTO", MAIS GLOBOSAT
 http://45.230.96.42:80/andreza87/87/628
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="SPORTES", COPA DO NORDESTE 4
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="ESPORTES", COPA DO NORDESTE 4
 http://45.230.96.42:80/andreza87/87/558
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="SPORTES", COPA DO NORDESTE 3
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="ESPORTES", COPA DO NORDESTE 3
 http://45.230.96.42:80/andreza87/87/557
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="SPORTES", COPA DO NORDESTE 2
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="ESPORTES", COPA DO NORDESTE 2
 http://45.230.96.42:80/andreza87/87/556
 
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="SPORTES", COPA DO NORDESTE
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/CopaNordeste2017.png" group-title="ESPORTES", COPA DO NORDESTE
 http://45.230.96.42:80/andreza87/87/555
 
