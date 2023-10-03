@@ -42,7 +42,7 @@ http://45.230.96.42:80/andreza87/87/633
 http://45.230.96.42:80/andreza87/87/391
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cartoonnetwork.png" group-title="KIDS", CARTOON NETWORK
 http://45.230.96.42:80/andreza87/87/584
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cartoonito.png" group-title="KIDS", CARTOONITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="KIDS", CARTOONITO
 http://45.230.96.42:80/andreza87/87/583
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/cinebrasiltv.png" group-title="PARABOLICA", CINE BRASIL
 http://45.230.96.42:80/andreza87/87/434
@@ -84,9 +84,9 @@ http://45.230.96.42:80/andreza87/87/553
 http://45.230.96.42:80/andreza87/87/554
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/curta.png" group-title="ENTRETENIMENTO", CURTA!
 http://45.230.96.42:80/andreza87/87/600
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/dazn.png" group-title="ESPORTES", DAZN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/320px-DAZN_Logo_Master.svg.png" group-title="ESPORTES", DAZN
 http://45.230.96.42:80/andreza87/87/534
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/dazn.png" group-title="ESPORTES", DAZN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/320px-DAZN_Logo_Master.svg.png" group-title="ESPORTES", DAZN 4
 http://45.230.96.42:80/andreza87/87/683
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/discoverychannel.png" group-title="ENTRETENIMENTO", DISCOVERY CHANNEL
 http://45.230.96.42:80/andreza87/87/602
@@ -114,9 +114,9 @@ http://45.230.96.42:80/andreza87/87/453
 http://45.230.96.42:80/andreza87/87/537
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn2.png" group-title="ESPORTES", ESPN 2
 http://45.230.96.42:80/andreza87/87/535
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn3.png" group-title="ESPORTES", ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ESPORTES", ESPN 3
 http://45.230.96.42:80/andreza87/87/536
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espn4.png" group-title="ESPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="ESPORTES", ESPN 4
 http://45.230.96.42:80/andreza87/87/539
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/espnextra.png" group-title="ESPORTES", ESPN EXTRA
 http://45.230.96.42:80/andreza87/87/538
@@ -192,7 +192,7 @@ http://45.230.96.42:80/andreza87/87/614
 http://45.230.96.42:80/andreza87/87/365
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/globominas.png" group-title="PARABOLICA", INTERTV GRANDE MINAS
 http://45.230.96.42:80/andreza87/87/455
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/icones/jovempannews.png" group-title="NEWS", JOVEM PAN NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png" group-title="NEWS", JOVEM PAN NEWS
 http://45.230.96.42:80/andreza87/87/436
 #EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES & SERIES", LIFETIME
 http://45.230.96.42:80/andreza87/87/648
