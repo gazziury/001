@@ -9574,6 +9574,11 @@ https://archive.org/download/08_20211125_20211125_1956/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/15/19/40/0697001.png" group-title="Se lo que hicieron el verano pasado",cap. 08
 https://archive.org/download/08_20211125_20211125_1956/08.mp4
 
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F421387%2Fposters%2F64e63946bcebe.jpg" group-title="Senderos peligrosos",cap. 01
+https://archive.org/download/01_20231004/01.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 01
 http://series.tuxchannel.mx/series/shaq/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 02
