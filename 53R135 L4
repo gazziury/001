@@ -8,6 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 incompletas
 
+wilderness (senderos peligrosos)
 http://series.tuxchannel.mx/series/las_pelotaris_1926/s_01_e_07.mkv
 http://series.tuxchannel.mx/series/warrior/s_03_e_10.mkv
 http://series.tuxchannel.mx/series/lioness/s_01_e_07.mkv
@@ -9576,8 +9577,8 @@ https://archive.org/download/08_20211125_20211125_1956/08.mp4
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F421387%2Fposters%2F64e63946bcebe.jpg" group-title="Senderos peligrosos",cap. 01
 https://archive.org/download/01_20231004/01.mp4
-
-
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F421387%2Fposters%2F64e63946bcebe.jpg" group-title="Senderos peligrosos",cap. 02
+https://archive.org/download/02_20231004/02.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 01
 http://series.tuxchannel.mx/series/shaq/s_01_e_01.mkv
