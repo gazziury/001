@@ -10544,26 +10544,47 @@ http://series.tuxchannel.mx/series/the_gifted/s_02_e_15.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/07/24/14/17/329123.jpg" group-title="The Gifted: Los elegidos T2",Cap. 16
 http://series.tuxchannel.mx/series/the_gifted/s_02_e_16.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 01
 https://archive.org/download/02_20211128_20211128_2234/01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 02
 https://archive.org/download/02_20211128_20211128_2234/02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 03
 https://archive.org/download/02_20211128_20211128_2234/03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 04
 https://archive.org/download/02_20211128_20211128_2234/04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 05
 https://archive.org/download/02_20211128_20211128_2234/05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 06
 https://archive.org/download/02_20211128_20211128_2234/06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 07
 https://archive.org/download/02_20211128_20211128_2234/07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 08
 https://archive.org/download/02_20211128_20211128_2234/08.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 09
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 09
 https://archive.org/download/02_20211128_20211128_2234/09.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great",Cap. 10
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/06/12/15/3872637.jpg" group-title="The great T1",Cap. 10
 https://archive.org/download/02_20211128_20211128_2234/10.mp4
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 01
+https://archive.org/download/01_20231004_20231004_1756/01.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 02
+https://archive.org/download/02_20231004_20231004_1813/02.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 03
+https://archive.org/download/03_20231004_20231004_1820/03.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 04
+https://archive.org/download/04_20231004_20231004_1828/04.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 05
+https://archive.org/download/05_20231004_20231004_1837/05.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 06
+https://archive.org/download/06_20231004_20231004_1849/06.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 07
+https://archive.org/download/07_20231004_20231004_1858/07.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 08
+https://archive.org/download/08_20231004_202310/08.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 09
+https://archive.org/download/09_20231004/09.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ftpz9UQ3hUwYufNcKWVW00FCjWyc.jpg" group-title="The great T2",Cap. 10
+https://archive.org/download/10_20231004_20231004/10.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/30/10/19/1732676.jpg" group-title="The I-Land",Cap. 01
 http://series.tuxchannel.mx/series/the_i_land/s_01_e_01.mkv
