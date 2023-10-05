@@ -8,6 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 incompletas
 
+ashoka... son 8
 the continental... son 3
 Gen v... son 8
 wilderness (senderos peligrosos)... son 6
@@ -587,6 +588,21 @@ https://archive.org/download/06_20211021/08.mp4
 https://archive.org/download/06_20211021/09.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/10/20/01/2445496.jpg" group-title="Asesino del olvido",Cap. 10
 https://archive.org/download/06_20211021/10.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 01
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka.S01E01.WEB-DL.1080p.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 02
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka.S01E02.WEB-DL.1080p.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 03
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka.S01E03.WEB-DL.1080p.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 04
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka.S01E04.WEB-DL.1080p.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 05
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka.S01E05.WEB-DL.1080p.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 06
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka.S01E06.WEB-DL.1080p.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laCJxobHoPVaLQTKxc14Y2zV64J.jpg" group-title="Ashoka",Cap. 07
+https://tvinnov.online/SEIRES%202023/Ahsoka/lat/Ahsoka%20%20S01E07%20lat.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Avenue 5",TRAILER
 https://archive.org/download/trailer-4v-3nu-3-5/trailer%204v3nu3%205.mp4
