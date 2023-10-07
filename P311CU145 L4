@@ -7690,6 +7690,8 @@ http://vod.tuxchannel.mx/peliculas/720/philadelphia.mkv
 https://archive.org/download/fd1983gtv/fd1983gtv.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eTdEaRjtVnFbd5KVhxLRfbYW46e.jpg" group-title="Peliculas Viejas",Flash Gordon (1980)
 http://vod.tuxchannel.mx/peliculas/720/flash%20gordon.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyLd0ZKgeqQFfwYLhTnQ2bsOVOho.jpg" group-title="Peliculas Viejas",Flicka (2006)
+http://vod.tuxchannel.mx/peliculas/720/flicka.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k7BHqoTWJPpoSpfCzzUjAduuIbX.jpg" group-title="Peliculas Viejas",Fluke: Memorias de otra vida (1995)
 https://archive.org/download/mi-amigo-fluke-1/Mi%20Amigo%20Fluke~1.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg" group-title="Peliculas Viejas",Footloose: Todos a bailar (1984)
