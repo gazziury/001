@@ -9252,6 +9252,8 @@ http://vod.tuxchannel.mx/peliculas/720/toy%20story%20that%20time%20forgot.mkv
 http://vod.tuxchannel.mx/peliculas/720/trafico.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/11/w1280/dfXB4ZKQRINdrY3xXMyLUJrXQai.jpg" group-title="Peliculas Viejas",Tráfico humano (2014)
 http://vod.tuxchannel.mx/peliculas/720/skin%20trade.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg" group-title="Peliculas Viejas",Transcendence: Identidad virtual (2014)
+http://vod.tuxchannel.mx/peliculas/720/trascender.mkv
 #EXTINF:-1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F000%2F022%2Ftransformers-1.jpg" group-title="Peliculas Viejas",Transformers 1 (2007)
 http://vod.tuxchannel.mx/peliculas/720/transformers.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/50/66/19123430.jpg" group-title="Peliculas Viejas",Transformers 2: La venganza de los caidos (2009)
@@ -9260,8 +9262,6 @@ http://vod.tuxchannel.mx/peliculas/720/transformers%20revenge%20of%20the%20falle
 http://vod.tuxchannel.mx/peliculas/720/transformers%20dark%20of%20the%20moon.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/14/06/12/15/58/334094.jpg" group-title="Peliculas Viejas",Transformers 4: La era de la extinción (2014)
 http://vod.tuxchannel.mx/peliculas/720/transformers%20age%20of%20extinction.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMzMmViNjQtNzA3YS00ZTM1LWExMjctZDVhM2I4OGMyNGU2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" group-title="Peliculas Viejas",Trascendence: Identidad virtual (2014)
-http://vod.tuxchannel.mx/peliculas/720/trascender.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/11/w1280/fO9RxmeCKwLV1nggbKd9uSw99ZR.jpg" group-title="Peliculas Viejas",Tras la línea enemiga (2001)
 http://vod.tuxchannel.mx/peliculas/720/behind%20enemy%20lines.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1985/8/w1280/5cKky9Cu3JZ2KTqOUgjRFH6F6tj.jpg" group-title="Peliculas Viejas",Travesuras de un lobo adolescente (1985)
