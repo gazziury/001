@@ -5906,6 +5906,8 @@ http://vod.tuxchannel.mx/peliculas/720/boo%20a%20madea%20halloween.mkv
 http://vod.tuxchannel.mx/peliculas/720/brimstone.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/3/w1280/k2VSrYwNKqXzsjIy7fWsrhVJlE7.jpg" group-title="2016",Buenos niños (2016)
 http://vod.tuxchannel.mx/peliculas/720/good%20kids.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eyjcLLwxuRXACbglIbwWwaXK9DN.jpg" group-title="2016",Buenos vecinos 2 (2016)
+http://vod.tuxchannel.mx/peliculas/720/neighbors%202%20sorority%20rising.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/6/w1280/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="2016",Buscando a Dory (2016)
 http://vod.tuxchannel.mx/peliculas/720/finding%20dory.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/5/w1280/49GicflDvkHAIthE4DJKcKXBWam.jpg" group-title="2016",Café society (2016)
@@ -6992,8 +6994,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20a%20team.mkv
 http://vod.tuxchannel.mx/peliculas/720/good%20morning%20vietnam.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Peliculas Viejas",Buenos muchachos (1990)
 http://vod.tuxchannel.mx/peliculas/720/uno%20de%20los%20nuestros.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eyjcLLwxuRXACbglIbwWwaXK9DN.jpg" group-title="Peliculas Viejas",Buenos vecinos 2 (2014)
-http://vod.tuxchannel.mx/peliculas/720/neighbors%202%20sorority%20rising.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A6YvcQN0Y1qw07efODqPLAZ06wV.jpg" group-title="Peliculas Viejas",Buffy: La cazavampiros (1992)
 http://vod.tuxchannel.mx/peliculas/720/buffy%20the%20vampire%20slayer%201992.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rBbCwFLyt7Q25yaw2bEOQh7RMG1.jpg" group-title="Peliculas Viejas",Buscando un amigo para el fin del mundo (2012)
