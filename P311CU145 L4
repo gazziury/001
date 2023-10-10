@@ -7254,6 +7254,8 @@ http://vod.tuxchannel.mx/peliculas/720/banlieue%2013%20ultimatum.mkv
 http://vod.tuxchannel.mx/peliculas/720/disturbia.mkv
 #EXTINF:-1 tvg-logo="https://assets.website-files.com/5ec6dfdf3e71f1735a78d4aa/5ec6ebc1f8175aa340bb6982_Django%20Unchained%20(2012).jpeg" group-title="Peliculas Viejas",Django: Sin cadenas (2012)
 http://vod.tuxchannel.mx/peliculas/720/django%20desencadenado.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g8BP6WcJoNEaOhUrjp6EAMLkamX.jpg" group-title="Peliculas Viejas",Doce del patíbulo (1967)
+http://vod.tuxchannel.mx/peliculas/720/the%20dirty%20dozen.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg" group-title="Peliculas Viejas",Doctor Dolittle (1998)
 http://vod.tuxchannel.mx/peliculas/720/dr%20dolittle.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mTy6RoFAOtvFsdELTSN838JuvSD.jpg" group-title="Peliculas Viejas",Doctor Zhivago (1965)
