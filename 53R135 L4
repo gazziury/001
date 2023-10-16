@@ -9671,6 +9671,21 @@ https://archive.org/download/08_20211125_20211125_1956/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/15/19/40/0697001.png" group-title="Se lo que hicieron el verano pasado",cap. 08
 https://archive.org/download/08_20211125_20211125_1956/08.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 01
+http://series.tuxchannel.mx/series/senda_prohibidas_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 02
+http://series.tuxchannel.mx/series/senda_prohibida/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 03
+http://series.tuxchannel.mx/series/senda_prohibida/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 04
+http://series.tuxchannel.mx/series/senda_prohibida/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 05
+http://series.tuxchannel.mx/series/senda_prohibida/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 06
+http://series.tuxchannel.mx/series/senda_prohibida/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUn7V8q6nS76k9d4MsJjOdi94ZD.jpg" group-title="Senda prohibida",cap. 07
+http://series.tuxchannel.mx/series/senda_prohibida/s_01_e_07.mkv
+
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F421387%2Fposters%2F64e63946bcebe.jpg" group-title="Senderos peligrosos",cap. 01
 https://archive.org/download/01_20231004/01.mp4
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F421387%2Fposters%2F64e63946bcebe.jpg" group-title="Senderos peligrosos",cap. 02
