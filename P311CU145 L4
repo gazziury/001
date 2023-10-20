@@ -8340,8 +8340,10 @@ http://vod.tuxchannel.mx/peliculas/720/the%20mummy.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20mummy%20returns.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg" group-title="Peliculas Viejas",La momia 3 (2008)
 http://vod.tuxchannel.mx/peliculas/720/the%20mummy%20tomb%20of%20the%20dragon%20emperor.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1986/8/w1280/lotsO2VRhsmeFKzqncMX9xrYMj6.jpg" group-title="Peliculas Viejas",La mosca (1986)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg" group-title="Peliculas Viejas",La mosca 1 (1986)
 http://vod.tuxchannel.mx/peliculas/720/the%20fly%201986.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gORksEPahEgO409HYJOZlNVyEpe.jpg" group-title="Peliculas Viejas",La mosca 2 (1989)
+http://vod.tuxchannel.mx/peliculas/720/the%20fly%20II.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/10/w1280/mA31BQikiOOUT4mMQaSfzGrrrGW.jpg" group-title="Peliculas Viejas",La mujer de mis pesadillas (2007)
 http://vod.tuxchannel.mx/peliculas/720/la%20mujer%20de%20mis%20pesadillas%202007.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1984/8/w1280/jECT2DusOJUuICl3aycplLV6qxL.jpg" group-title="Peliculas Viejas",La mujer de rojo (1984)
