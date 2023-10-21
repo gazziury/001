@@ -7610,6 +7610,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20wolf%20of%20wall%20street%202013.mk
 http://vod.tuxchannel.mx/peliculas/720/the%20water%20diviner.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnuT1D0fsFu7chFLtcQqwPBaBVg.jpg" group-title="Peliculas Viejas",El maestro del Tai Chi (2013)
 http://vod.tuxchannel.mx/peliculas/720/man%20of%20tai%20chi.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnuCuat75ZEwfvSRq84ihKBO68.jpg" group-title="Peliculas Viejas",El maestro luchador (2012)
+http://vod.tuxchannel.mx/peliculas/720/here%20comes%20the%20boom.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg" group-title="Peliculas Viejas",El maquinista (2004)
 http://vod.tuxchannel.mx/peliculas/720/el%20maquinista.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zRh7K4SV1xQ419m8gzGITak51vc.jpg" group-title="Peliculas Viejas",El mariachi (1992)
@@ -8904,16 +8906,14 @@ http://vod.tuxchannel.mx/peliculas/720/uptown%20girls.mkv
 http://vod.tuxchannel.mx/peliculas/720/small%20soldiers.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Flv5xShBIDPe7m4ufdlV0IAc7Avk.jpg" group-title="Peliculas Viejas",Perdida (2014)
 http://vod.tuxchannel.mx/peliculas/720/gone%20girl.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1998/4/w1280/t9geDjIfFV3BvTPsaAhsrzgIKSM.jpg" group-title="Peliculas Viejas",Perdidos en el espacio (1998)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4miEpZmUOMqV8P0T6oq5HVBiVHw.jpg" group-title="Peliculas Viejas",Perdidos en el espacio (1998)
 http://vod.tuxchannel.mx/peliculas/720/lost%20in%20space%201998.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n8O9WOAL1DVOMEQJpYatNqpNauK.jpg" group-title="Peliculas Viejas",Perros de reserva (1992)
 http://vod.tuxchannel.mx/peliculas/720/reservoir%20dogs.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1984/11/w1280/u5LGy3TK6nMcXfefxucjaBnLjg5.jpg" group-title="Peliculas Viejas",Pesadilla (1984)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg" group-title="Peliculas Viejas",Pesadilla 1 (1984)
 http://archive.org/download/fredy_202103/Pesadilla%20en%20Elm%20Street%201%281984%29.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1985/11/w1280/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg" group-title="Peliculas Viejas",Pesadilla 2: La venganza de Freddy (1985)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg" group-title="Peliculas Viejas",Pesadilla 2 (1985)
 https://archive.org/download/fredy_202103/Pesadilla%20en%20Elm%20Street%202-%20La%20venganza%20de%20Freddy%281985%29.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/10/w1280/qNxilhwnRmkzt7CaOF1vSVzNKEu.jpg" group-title="Peliculas Viejas",Peso pesado: El maestro luchador (2012)
-http://vod.tuxchannel.mx/peliculas/720/here%20comes%20the%20boom.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Petroleo sangriento (2007) DUAL
 http://vod.tuxchannel.mx/peliculas/720/there%20will%20be%20blood.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/2/w1280/zTKNlCPSQPmMGvltwmZ0AaFLHxw.jpg" group-title="Peliculas Viejas",Piedras negras (2003)
