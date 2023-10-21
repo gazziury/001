@@ -9140,12 +9140,6 @@ http://vod.tuxchannel.mx/peliculas/720/rocky%20balboa.mkv
 http://vod.tuxchannel.mx/peliculas/720/snowpiercer.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iTzGgTjaB16vVDfBOp6jBvVbwzr.jpg" group-title="Peliculas Viejas",Rosewater: 118 días (2014)
 http://vod.tuxchannel.mx/peliculas/720/rosewater.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fwe7wOLVFgxhzLzUt0qNe50xdIQZ.jpg" group-title="Peliculas Viejas",Rush hour 1 (1998)
-http://vod.tuxchannel.mx/peliculas/720/rush%20hour.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaBQf2vMiCINeVC9v6BGVYKXurTh.jpg" group-title="Peliculas Viejas",Rush hour 2 (2001)
-http://vod.tuxchannel.mx/peliculas/720/rush%20hour%202.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rZ7IxJlPhNNJ6Rn8z1rzsXuA70P.jpg" group-title="Peliculas Viejas",Rush hour 3 (2007)
-http://vod.tuxchannel.mx/peliculas/720/rush%20hour%203.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/9/w1280/5hpcfL3WH5ArSPUlfD4E1TtaOd0.jpg" group-title="Peliculas Viejas",Rush: Pasión y gloria (2013)
 http://vod.tuxchannel.mx/peliculas/720/rush.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/3/w1280/muDdhFdx4qZvqmO3DjIPaBR3qRW.jpg" group-title="Peliculas Viejas",Salvaje (2006)
@@ -9512,6 +9506,12 @@ http://vod.tuxchannel.mx/peliculas/720/una%20noche%20en%20el%20museo%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/una%20noche%20en%20el%20museo%203.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/noB71pnF8jz2IIP1LeilfnaaO2F.jpg" group-title="Peliculas Viejas",Una noche loca (2013)
 http://vod.tuxchannel.mx/peliculas/720/21%20and%20over.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fwe7wOLVFgxhzLzUt0qNe50xdIQZ.jpg" group-title="Peliculas Viejas",Una pareja explosiva 1 (1998)
+http://vod.tuxchannel.mx/peliculas/720/rush%20hour.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaBQf2vMiCINeVC9v6BGVYKXurTh.jpg" group-title="Peliculas Viejas",Una pareja explosiva 2 (2001)
+http://vod.tuxchannel.mx/peliculas/720/rush%20hour%202.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rZ7IxJlPhNNJ6Rn8z1rzsXuA70P.jpg" group-title="Peliculas Viejas",Una pareja explosiva 3 (2007)
+http://vod.tuxchannel.mx/peliculas/720/rush%20hour%203.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r0WURbmnhgKeBpHcpDULBgRedQM.jpg" group-title="Peliculas Viejas",Una pasión secreta (2008)
 https://archive.org/download/tt0976051/tt0976051.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1993/4/w1280/gnfppUk4ccdVKLvcN8johTWa0tC.jpg" group-title="Peliculas Viejas",Una propuesta indecente (1993)
