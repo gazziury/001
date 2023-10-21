@@ -7228,6 +7228,8 @@ http://vod.tuxchannel.mx/peliculas/720/constantine.mkv
 http://vod.tuxchannel.mx/peliculas/720/face%20off.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdNNjyZQ0zVtmPa74nJE63Kn0xEx.jpg" group-title="Peliculas Viejas",Contrabando (2012)
 http://vod.tuxchannel.mx/peliculas/720/contraband.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8iXpVITXenqPG8gQ0lCFpUMtZIx.jpg" group-title="Peliculas Viejas",Contra reloj (2003)
+http://vod.tuxchannel.mx/peliculas/720/cradle%202%20the%20grave.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9KCOv0hL37IN3tWG3j86eZg3xDH.jpg" group-title="Peliculas Viejas",Control total (2008)
 http://vod.tuxchannel.mx/peliculas/720/eagle%20eye.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fCR2L9wJJkYSZfbb9CtT50okDlG.jpg" group-title="Peliculas Viejas",Copycat: El imitador (1995)
@@ -8926,8 +8928,6 @@ http://vod.tuxchannel.mx/peliculas/720/a%20nightmare%20on%20elm%20street%206.mkv
 http://vod.tuxchannel.mx/peliculas/720/wes%20cravens%20new%20nightmare.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Petroleo sangriento (2007) DUAL
 http://vod.tuxchannel.mx/peliculas/720/there%20will%20be%20blood.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/2/w1280/zTKNlCPSQPmMGvltwmZ0AaFLHxw.jpg" group-title="Peliculas Viejas",Piedras negras (2003)
-http://vod.tuxchannel.mx/peliculas/720/cradle%202%20the%20grave.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtXgKvsnGUDwgszTCZEPdzEYL1w.jpg" group-title="Peliculas Viejas",Piña express: Superfumados (2008)
 http://vod.tuxchannel.mx/peliculas/720/pineapple%20express.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uRUSWTYMYo9fHRkUjcpD0yPvxzV.jpg" group-title="Peliculas Viejas",Pirañas (1978)
