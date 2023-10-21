@@ -5952,8 +5952,6 @@ http://vod.tuxchannel.mx/peliculas/720/alba.mkv
 http://vod.tuxchannel.mx/peliculas/720/al%20final%20del%20tunel.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/11/w1280/iMzra3eSIoSzVAzCY1jOUEAIgZ1.jpg" group-title="2016",Aliados (2016)
 http://vod.tuxchannel.mx/peliculas/720/allied.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" group-title="2016",Amenaza mortal 2: Blanco humano (2016)
-http://vod.tuxchannel.mx/peliculas/720/hard%20target%202.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2MWY1YjQtZjJkNy00MTk3LWI0NGQtZjk1YjMxOWUyYmRjXkEyXkFqcGdeQXVyNTM5ODYxMTY@._V1_.jpg" group-title="2016",Amigos de armas (2016)
 http://vod.tuxchannel.mx/peliculas/720/juego%20de%20armas.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5Mzg4NzU5NF5BMl5BanBnXkFtZTgwMDMzODQxMjI@._V1_.jpg" group-title="2016",Amor carnal (2016)
@@ -5984,6 +5982,8 @@ http://vod.tuxchannel.mx/peliculas/720/batman%20the%20killing%20joke.mkv
 http://vod.tuxchannel.mx/peliculas/720/batman%20bad%20blood.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/04/15/47/480948.jpg" group-title="2016",Batman vs Superman: El origen de la justicia (2016)
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" group-title="2016",Blanco humano 2 (2016)
+http://vod.tuxchannel.mx/peliculas/720/hard%20target%202.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNTE2MTM0NF5BMl5BanBnXkFtZTgwNjE5MTIxMDI@._V1_FMjpg_UX1000_.jpg" group-title="2016",Boo! El halloween de Madea (2016)
 http://vod.tuxchannel.mx/peliculas/720/boo%20a%20madea%20halloween.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/3/w1280/k54KZO3l2DystTUK597pVC02d4U.jpg" group-title="2016",Brimstone: La hija del predicador (2016)
@@ -7070,6 +7070,8 @@ http://vod.tuxchannel.mx/peliculas/720/blade%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/blade%20runner.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8yKdQHaqOo1lkaErmqMuYFespYI.jpg" group-title="Peliculas Viejas",Blancanieves y la leyenda del cazador (2012)
 http://vod.tuxchannel.mx/peliculas/720/snow%20white%20and%20the%20huntsman.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkufvuQYWdl82sYzmhy2naBLyMui.jpg" group-title="Peliculas Viejas",Blanco humano 1 (1993)
+http://vod.tuxchannel.mx/peliculas/720/hard%20target.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5KffN0UcuAKJdUAcOvZ21OrqXc8.jpg" group-title="Peliculas Viejas",Boogeyman 1 (2005)
 http://vod.tuxchannel.mx/peliculas/720/boogeyman%202005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg" group-title="Peliculas Viejas",Bourne: El ultimátum (2007)
@@ -8852,8 +8854,6 @@ http://vod.tuxchannel.mx/peliculas/720/ong%20bak.mkv
 http://vod.tuxchannel.mx/peliculas/720/ong%20bak%202.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sIVrOJVeLqPz9NwNa0e4FpqJCWK.jpg" group-title="Peliculas Viejas",Ong-Bak 3 (2010)
 http://archive.org/download/la-boda-de-mi-ex_202104/Ong%20Bak%203.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1993/8/w1280/r5KpNrp8jPaNTkyENgQ9aPrM20V.jpg" group-title="Peliculas Viejas",Operación caceria: Blanco humano (1993)
-http://vod.tuxchannel.mx/peliculas/720/hard%20target.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1973/8/w300/ssZnHf4cPRJGpQGv9unW8B76nrb.jpg" group-title="Peliculas Viejas",Operación Dragón (1976)
 http://vod.tuxchannel.mx/peliculas/720/enter%20the%20dragon.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg" group-title="Peliculas Viejas",Operación Valkiria (2008)
