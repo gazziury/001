@@ -5250,8 +5250,6 @@ http://vod.tuxchannel.mx/peliculas/720/overlord.mkv
 http://vod.tuxchannel.mx/peliculas/720/paul%20apostle%20of%20christ.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0Njc1OTczMl5BMl5BanBnXkFtZTgwMDM0MzY5NTM@._V1_FMjpg_UX1000_.jpg" group-title="2018",Paciente cero (2018)
 http://vod.tuxchannel.mx/peliculas/720/patient%20zero.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg" group-title="2018",Pacific Rim: Insurreccion (2018)
-http://vod.tuxchannel.mx/peliculas/720/pacific%20rim%20uprising.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUxODM5ODUyM15BMl5BanBnXkFtZTgwNzA3Nzg3NjM@._V1_FMjpg_UX1000_.jpg" group-title="2018",Pájaros de verano (2018)
 http://vod.tuxchannel.mx/peliculas/720/pajaros%20de%20verano%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/2/w1280/qjarBufG0iUqr1IvJUK8AJnpTIR.jpg" group-title="2018",Pantera Negra (2018)
@@ -5336,6 +5334,8 @@ http://vod.tuxchannel.mx/peliculas/720/terminal.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20angel.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/4/w1280/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" group-title="2018",Tiempo de tortura (2018)
 http://vod.tuxchannel.mx/peliculas/720/tempus%20tormentum%202018.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg" group-title="2018",Titanes del Pacífico: Insurrección (2018)
+http://vod.tuxchannel.mx/peliculas/720/pacific%20rim%20uprising.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/ef7sUooM7E5sl4Wk3f6QlQtGyOY.jpg" group-title="2018",Tomb Raider (2018)
 http://vod.tuxchannel.mx/peliculas/720/tomb%20raider%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/5/w1280/k0KgtjfeXBZNaVnrixa6453AYQ6.jpg" group-title="2018",Tully (2018)
@@ -8868,8 +8868,6 @@ http://vod.tuxchannel.mx/peliculas/720/orgullo%20y%20prejuicio.mkv
 http://vod.tuxchannel.mx/peliculas/720/outlander.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/3/w1280/piHFgW1yotlHrewwdlQJG7gRRLu.jpg" group-title="Peliculas Viejas",Oz: Un mundo de fantasía (2013)
 http://vod.tuxchannel.mx/peliculas/720/oz%20the%20great%20and%20powerful.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/7/w1280/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg" group-title="Peliculas Viejas",Pacific rim (2013)
-http://vod.tuxchannel.mx/peliculas/720/pacific%20rim.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjI1MTM1OTEwMV5BMl5BanBnXkFtZTcwODYzNzUzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Viejas",Pacto infernal (2006)
 http://vod.tuxchannel.mx/peliculas/720/pacto%20infernal.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1990/5/w1280/ipuPD6u4OovmzAycuBPadtnrgbA.jpg" group-title="Peliculas Viejas",Pájaros de fuego (1990)
@@ -9412,6 +9410,8 @@ http://vod.tuxchannel.mx/peliculas/720/glory.mkv
 https://archive.org/download/policia-del-tiempo/policia%20del%20tiempo.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/11/w1280/tbXvsBTsi7NmjCVnzgrEZSsPSj3.jpg" group-title="Peliculas Viejas",Timeline: Rescate en el tiempo (2003)
 http://vod.tuxchannel.mx/peliculas/720/timeline%202003.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg" group-title="Peliculas Viejas",Titanes del Pacífico (2013)
+http://vod.tuxchannel.mx/peliculas/720/pacific%20rim.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1997/11/w1280/rVBIfNJZcTITcVbvgmtyPOF8CzD.jpg" group-title="Peliculas Viejas",Titanic (1997)
 http://vod.tuxchannel.mx/peliculas/720/titanic.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/5/w1280/vD0EfyAo5pz4kVqa8KHCfB9dZzC.jpg" group-title="Peliculas Viejas",Todopoderoso: Como Dios (2003)
