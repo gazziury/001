@@ -6493,8 +6493,6 @@ http://vod.tuxchannel.mx/peliculas/720/el%20ultimo%20lobo.mkv
 http://vod.tuxchannel.mx/peliculas/720/en%20el%20corazon%20del%20mar.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pbcXpZgem8kgr90RwIUNAbC2ite.jpg" group-title="2015",En la mente del asesino (2015)
 http://vod.tuxchannel.mx/peliculas/720/solace.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg" group-title="2015",En la mira: Caza al asesino (2015)
-http://vod.tuxchannel.mx/peliculas/720/the%20gunman.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU3N2RiZTctYTdlMS00Zjg3LTgzYjctOGQ2NTMyNDgwMzUyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="2015",Entrenada para asesinar (2015)
 http://vod.tuxchannel.mx/peliculas/720/barely%20lethal.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/3/w1280/9NGQs6IB5DyD3lssfLX0B6YZ7yf.jpg" group-title="2015",Espias desde el cielo (2015)
@@ -6709,6 +6707,8 @@ https://archive.org/download/51_20230630/55.mp4
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg" group-title="2015",Terremoto: La falla de San Andrés (2015)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg" group-title="2015",The Gunman: El objetivo (2015)
+http://vod.tuxchannel.mx/peliculas/720/the%20gunman.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzI2MzcxOV5BMl5BanBnXkFtZTgwNTE2Mjk4NTE@._V1_FMjpg_UX1000_.jpg" group-title="2015",Tierra de carteles (2015)
 http://vod.tuxchannel.mx/peliculas/720/cartel%20land.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/5/w1280/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg" group-title="2015",Tomorrowland: El mundo del mañana (2015)
