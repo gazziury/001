@@ -6423,8 +6423,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20spongebob%20movie%20sponge%20out%20
 http://vod.tuxchannel.mx/peliculas/720/bone%20tomahawk.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSYxJKMSpHCLz2zqrRJb9RhxGz6.jpg" group-title="2015",Brooklyn: Un nuevo hogar (2015)
 http://vod.tuxchannel.mx/peliculas/720/brooklyn.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeKdz5i9gbzJthAxUZBBj5SVbzKR.jpg" group-title="2015",Bus 657: El escape del siglo (2015)
-http://vod.tuxchannel.mx/peliculas/720/heist.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wAIu7q72mINXVplVnU6pMbZmQQ.jpg" group-title="2015",Cacería mortal 3 (2015)
 http://vod.tuxchannel.mx/peliculas/720/12%20rounds%203%20lockdown.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcJeled7EyPdur6TnCA5GYg0UVna.jpg" group-title="2015",Carol (2015)
@@ -6463,11 +6461,13 @@ http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20uncle.mkv
 http://vod.tuxchannel.mx/peliculas/720/el%20cadaver%20de%20anna%20fritz.mkv
 #EXTINF:-1 tvg-logo="https://metadata-static.plex.tv/6/gracenote/67ba8015174c7cc35e8333e1b00d2a4e.jpg" group-title="2015",El clan (2015)
 http://vod.tuxchannel.mx/peliculas/720/el%20clan.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/11/w1280/pdd20KgHJec4BM4sfHS8oefaDUI.jpg" group-title="2015",El codigo enigma (2015)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="2015",El código enigma (2015)
 http://vod.tuxchannel.mx/peliculas/720/el%20codigo%20enigma.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/jBzPlhGrrSgQozGMzyoDPXUWdMt.jpg" group-title="2015",El destino de Jupiter (2015)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxzQ25m9vrdyvpLX74T3B3KB40Ou.jpg" group-title="2015",El destino de Júpiter (2015)
 http://vod.tuxchannel.mx/peliculas/720/jupiter%20ascending.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyOTQwODc4NV5BMl5BanBnXkFtZTgwMDgwMzkxNDE@._V1_FMjpg_UX1000_.jpg" group-title="2015",El gran secuestro de Mr. Heineken (2015)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeKdz5i9gbzJthAxUZBBj5SVbzKR.jpg" group-title="2015",El escape del siglo (2015)
+http://vod.tuxchannel.mx/peliculas/720/heist.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6JAb9jQa4sONkutfqfR3I7LFpGd.jpg" group-title="2015",El gran secuestro de Mr. Heineken (2015)
 http://vod.tuxchannel.mx/peliculas/720/kidnapping%20mr%20heineken.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/sUnBAIZwvtLgAucRe9PixhYEvec.jpg" group-title="2015",El hombre que conocía el infinito (2015)
 http://vod.tuxchannel.mx/peliculas/720/el%20hombre%20que%20conocia%20el%20Infinito.mkv
