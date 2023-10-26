@@ -6012,22 +6012,20 @@ http://vod.tuxchannel.mx/peliculas/720/finding%20dory.mkv
 http://vod.tuxchannel.mx/peliculas/720/cafe%20society.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg" group-title="2016",Canta! (2016)
 http://vod.tuxchannel.mx/peliculas/720/sing.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg" group-title="2016",Capitan America: Guerra civil (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uymMGErUAUXElLJE4jTUrDMT7wr.jpg" group-title="2016",Capitán América: Guerra civil (2016)
 http://vod.tuxchannel.mx/peliculas/720/captain%20america%20civil%20war.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/kZHOnykzKPuEVldrzZKqvsNG7sL.jpg" group-title="2016",Capitan fantástico (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2sFME73GaD8UsUxPUKe60cPdLif.jpg" group-title="2016",Capitán fantástico (2016)
 http://vod.tuxchannel.mx/peliculas/720/captain%20fantastic.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="2016",Cazafantasmas (2016)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FAdN59IFDRGlNDoZVfLENujwd5yf.jpg" group-title="2016",Cazafantasmas (2016)
 http://vod.tuxchannel.mx/peliculas/720/ghostbusters%202016.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1MDQ2MDg5Ml5BMl5BanBnXkFtZTgwMjc2NjM5ODE@._V1_FMjpg_UX1000_.jpg" group-title="2016",Cazando salvajes (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/QKVexLBGxjLYfgV2WBH90VzAHt.jpg" group-title="2016",Cazando salvajes (2016)
 http://vod.tuxchannel.mx/peliculas/720/hunt%20for%20the%20wilderpeople.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/3/w1280/v2j3jrNrnzvMiEkCsgaXFbyj2hV.jpg" group-title="2016",Cien años de perdón (2016)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FelEaCDGOymaTePaM7oL41WaT0aC.jpg" group-title="2016",Cien años de perdón (2016)
 http://vod.tuxchannel.mx/peliculas/720/cien%20anos%20de%20perdon.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/9/w1280/eEyLLrcUAvmAn6OoZwEvzCUG6Z6.jpg" group-title="2016",Cigüeñas (2016)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FylXKcKrEHSQEYLntBvYxGBI7Ld3.jpg" group-title="2016",Cigüeñas (2016)
 http://vod.tuxchannel.mx/peliculas/720/storks.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/4/w1280/pklJUOhmGZ43yXY1LpA2mxzVPpc.jpg" group-title="2016",Colosal: Ella es un monstruo (2016)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4VOyofBd1pexblxtDZYtYIk7NI4.jpg" group-title="2016",Colosal: Ella es un monstruo (2016)
 http://vod.tuxchannel.mx/peliculas/720/colossal.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/rGihwoxhAjPrnrjpTPowuIOU3jy.jpg" group-title="2016",Comancheria: Sin nada que perder (2016)
-http://vod.tuxchannel.mx/peliculas/720/hell%20or%20high%20water.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/5/w1280/uWuoiLRAwFLof9GeEmHjqEVzDT3.jpg" group-title="2016",Comando Kill (2016)
 http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/c721WxCCzeLJS99BOMBYAzicnJF.jpg" group-title="2016",Conexión mortal (2016)
@@ -6320,6 +6318,8 @@ http://vod.tuxchannel.mx/peliculas/720/bleed%20for%20this.mkv
 http://vod.tuxchannel.mx/peliculas/720/ave%20cesar.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/12/w1280/jZxSqam9PImEIDXtD3HIKPwmd9K.jpg" group-title="2016",Silencio (2016)
 http://vod.tuxchannel.mx/peliculas/720/silence.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FljRRxqy2aXIkIBXLmOVifcOR021.jpg" group-title="2016",Sin nada que perder (2016)
+http://vod.tuxchannel.mx/peliculas/720/hell%20or%20high%20water.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/10/w1280/lA7mNjRUZ9FLDKwqdmifU8UmAuZ.jpg" group-title="2016",Sobreviviendo en el desierto (2016)
 http://vod.tuxchannel.mx/peliculas/720/mine.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/1/w1280/s2jKCdTjSQb14llalk8i55iFZ5g.jpg" group-title="2016",Solicitud de amistad (2016)
