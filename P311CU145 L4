@@ -8672,6 +8672,8 @@ http://vod.tuxchannel.mx/peliculas/720/lucy%202014.mkv
 http://vod.tuxchannel.mx/peliculas/720/blended.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg" group-title="Peliculas Viejas",Lutero (2003)
 https://archive.org/download/lut-3r-0-drama-2003-xavier-ivan-gallo-productions/lut3r0%20%28Drama%202003%20%29%28Xavier%20Ivan%20Gallo%20Productions%29.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fomw7K0L6qArF87zv7qDjjVysyev.jpg" group-title="Peliculas Viejas",Luz de día (1996)
+http://vod.tuxchannel.mx/peliculas/720/daylight.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="Peliculas Viejas",Machete (2010)
 http://vod.tuxchannel.mx/peliculas/720/machete.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nbnRAibyPSt0ProTJI3hH13KHaL.jpg" group-title="Peliculas Viejas",Machete Kills (2013)
@@ -8924,8 +8926,6 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://vod.tuxchannel.mx/peliculas/720/gangs%20of%20new%20york.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtgnKTUsKJ6kM0oqiLmPNePgQ8Sw.jpg" group-title="Peliculas Viejas",Pandorum: Terror en el espacio (2009)
 http://vod.tuxchannel.mx/peliculas/720/pandorum.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fomw7K0L6qArF87zv7qDjjVysyev.jpg" group-title="Peliculas Viejas",Pánico en el túnel (1996)
-http://vod.tuxchannel.mx/peliculas/720/daylight.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FshHrSmXS5140o6sQzgzXxn3KqSm.jpg" group-title="Peliculas Viejas",Papá por siempre (1993)
 http://vod.tuxchannel.mx/peliculas/720/mrs%20doubtfire%201993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e34o2b0NzcUgqKHSq36BrgOsEOD.jpg" group-title="Peliculas Viejas",Papás a la fuerza (2009)
