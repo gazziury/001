@@ -6214,6 +6214,8 @@ http://vod.tuxchannel.mx/peliculas/720/incarnate.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20purge%20election%20year.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg" group-title="2016",Lavanda: El misterio de Jane (2016)
 http://vod.tuxchannel.mx/peliculas/720/lavender.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g3Hms6AE174doeGR1gz5zX5sVsv.jpg" group-title="2016",La vida secreta de tus mascotas (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20secret%20life%20of%20pets.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fJWrGdHbiKZj132Ksq5JKa60bsM.jpg" group-title="2016",Level up: Juego sin límites (2016)
 http://vod.tuxchannel.mx/peliculas/720/level%20up.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkorY0GInEJThWEm23MRmErQ3GqT.jpg" group-title="2016",Londres bajo fuego (2016)
@@ -6238,8 +6240,6 @@ http://vod.tuxchannel.mx/peliculas/720/hands%20of%20stone.mkv
 http://vod.tuxchannel.mx/peliculas/720/margarita.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cO5debLXk54GhgXd92GVD0Hpinv.jpg" group-title="2016",Mascota humana (2016)
 http://vod.tuxchannel.mx/peliculas/720/pet.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g3Hms6AE174doeGR1gz5zX5sVsv.jpg" group-title="2016",Mascotas (2016)
-http://vod.tuxchannel.mx/peliculas/720/the%20secret%20life%20of%20pets.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fxwtxt5wYmAvmo83ILu5tM6qAWsF.jpg" group-title="2016",Max Steel (2016)
 http://vod.tuxchannel.mx/peliculas/720/max%20steel.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyRWIvyWNgsuPSHEVIMbS9aDY280.jpg" group-title="2016",McLaren (2016)
