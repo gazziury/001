@@ -5631,12 +5631,10 @@ http://vod.tuxchannel.mx/peliculas/720/fe%20de%20etarras.mkv
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JIfZkVLYps2N1xG0aFTSMVAqCD.jpg" group-title="2017",Geotormenta (2017)
 http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/xFs3D8sRUgobpwwE46rt2pZHEgi.jpg" group-title="2017",Godzilla: Planeta de monstruos (2017)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg" group-title="2017",Godzilla: Planeta de monstruos (2017)
 https://archive.org/download/gopla-72p/Godzilla1.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg" group-title="2017",Gracias por tu servicio: Deber cumplido (2017)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fz8OKWw6DAZAOyz8F421euawr3Hs.jpg" group-title="2017",Gracias por tu servicio (2017)
 http://vod.tuxchannel.mx/peliculas/720/thank%20you%20for%20your%20service.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRjYTgwMWItNjRmNC00ZGI5LWI5OGEtMjRkNzg2MDM3MjIzXkEyXkFqcGdeQXVyNTYwMDQwMTU@._V1_FMjpg_UX1000_.jpg" group-title="2017",Grey lady (2017)
-http://vod.tuxchannel.mx/peliculas/720/grey%20lady.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="2017",Guardianes de la galaxia vol. 2 (2017)
 http://vod.tuxchannel.mx/peliculas/720/guardians%20of%20the%20galaxy%20vol%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/iBumIwQwfEsogXXUYIadiCeBK07.jpg" group-title="2017",Guerra de papas 2 (2017)
@@ -5691,6 +5689,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20dinner.mkv
 http://vod.tuxchannel.mx/peliculas/720/la%20cordillera.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/2/w1280/k4XZ47wFZF1aUv7bjLM4Pae2TYm.jpg" group-title="2017",La cura siniestra (2017)
 http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/S3BRZj3FJkYSvxco7pvPCUsQYK.jpg" group-title="2017",La dama gris (2017)
+http://vod.tuxchannel.mx/peliculas/720/grey%20lady.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/9/w1280/kfst6DxzGXbdibQPawxQSSuDh09.jpg" group-title="2017",Lady Bird (2017)
 http://vod.tuxchannel.mx/peliculas/720/lady%20bird.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/8/w1280/6oRcVB1iFwfFkbL6qSgZYTxxpI7.jpg" group-title="2017",La estafa de los Logan (2017)
