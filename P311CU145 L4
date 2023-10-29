@@ -5621,18 +5621,16 @@ http://vod.tuxchannel.mx/peliculas/720/the%20big%20sick.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20layover.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6G59UxqW2iDgvwnOcRGDJptNnk6.jpg" group-title="2017",Es por tu bien (2017)
 http://vod.tuxchannel.mx/peliculas/720/es%20por%20tu%20bien.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0NDdjNWEtMDVkMC00ODdiLTgyMmYtOWM0ZDRjOTU4MjJlXkEyXkFqcGdeQXVyNjM2MDMxMDk@._V1_FMjpg_UX1000_.jpg" group-title="2017",Esto recién comienza (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg" group-title="2017",Esto recién comienza (2017)
 http://vod.tuxchannel.mx/peliculas/720/just%20getting%20started.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/wowB0C4S5KX5SNbhGMkbZZEOqCR.jpg" group-title="2017",Extraordinario (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ouYgAatYH4JzIThj6FI3UYf31RI.jpg" group-title="2017",Extraordinario (2017)
 http://vod.tuxchannel.mx/peliculas/720/wonder.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/12/w1280/gcr6W7BNNh6XiJjeFdjV3NyeAcs.jpg" group-title="2017",Fe de etarras (2017)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8dW8YREIh67g360NzWHPdOE4c41.jpg" group-title="2017",Fe de etarras (2017)
 http://vod.tuxchannel.mx/peliculas/720/fe%20de%20etarras.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/xLu1qmpTCW0qAYCZ3MylNyQ52Lv.jpg" group-title="2017",Feliz dia de tu muerte (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg" group-title="2017",Feliz día de tu muerte (2017)
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/6R4IyFqcQv8T4BmBdTyEb1ptXr3.jpg" group-title="2017",Geotormenta (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JIfZkVLYps2N1xG0aFTSMVAqCD.jpg" group-title="2017",Geotormenta (2017)
 http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/6/w1280/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg" group-title="2017",Gru: Mi villano favorito 3 (2017)
-http://vod.tuxchannel.mx/peliculas/720/despicable%20me%203.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/xFs3D8sRUgobpwwE46rt2pZHEgi.jpg" group-title="2017",Godzilla: Planeta de monstruos (2017)
 https://archive.org/download/gopla-72p/Godzilla1.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg" group-title="2017",Gracias por tu servicio: Deber cumplido (2017)
@@ -5785,6 +5783,8 @@ http://vod.tuxchannel.mx/peliculas/720/unforgettable.mkv
 http://vod.tuxchannel.mx/peliculas/720/my%20cousin%20rachel.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM2YjQyMTQtOWE2MS00YTdlLTg2N2EtYTZmNTBkOGQxYzIzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="2017",Mi última palabra (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20last%20word.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg" group-title="2017",Mi villano favorito 3 (2017)
+http://vod.tuxchannel.mx/peliculas/720/despicable%20me%203.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/11/w1280/tf21kSKepMOlnorszWaiFwksKU4.jpg" group-title="2017",Mudbound: El color de la guerra (2017)
 http://vod.tuxchannel.mx/peliculas/720/mudbound.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg2Nzg3OGMtMTZlOS00MzQ1LTkyMjEtMDZjODBiYmQxMzIwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg" group-title="2017",Muerto de nuevo en Tombstone (2017)
