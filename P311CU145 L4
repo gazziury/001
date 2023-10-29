@@ -5575,6 +5575,8 @@ http://vod.tuxchannel.mx/peliculas/720/larceny.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20institute.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcFsrA0Is5xode2INrPj1VJcQ18n.jpg" group-title="2017",El jinete (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20rider.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iEpxKeX7SE3aLm9dTRIuk7o2kDA.jpg" group-title="2017",El juego del ahorcado (2017)
+http://vod.tuxchannel.mx/peliculas/720/hangman.mkv
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/c6dcd70a0f8156c5943f9b480ade2653/images/gracenote/assets/p14135511_b_v8_ad.jpg" group-title="2017",El jugador de ajedrez (2017)
 http://vod.tuxchannel.mx/peliculas/720/el%20jugador%20de%20ajedrez.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3YvCj6NW0HN0YHFX4w2gmnT4eQP.jpg" group-title="2017",El libro de Henry (2017)
@@ -5597,14 +5599,12 @@ http://vod.tuxchannel.mx/peliculas/720/the%20killing%20of%20a%20sacred%20deer.mk
 http://vod.tuxchannel.mx/peliculas/720/the%20saint.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ozhEmqMpJMPg6Rz9lJ0AFhZaGMI.jpg" group-title="2017",El templo (2017)
 http://vod.tuxchannel.mx/peliculas/720/armed%20response.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJmYzEwMGItMmIyOS00OGUxLTg5ZTUtZDFiZjQ1NzhiYjQ1XkEyXkFqcGdeQXVyNzExNDUzOTY@._V1_.jpg" group-title="2017",El teniente otomano (2017)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fc5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg" group-title="2017",El teniente otomano (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20ottoman%20lieutenant.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/7/w1280/qBRrLSYjwLYitwD2SSHxAxYSp7J.jpg" group-title="2017",El ultimo disparo: En defensa propia (2017)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fzoia9YSg82UNYbtum9QYjKSqdLw.jpg" group-title="2017",El último disparo (2017)
 http://vod.tuxchannel.mx/peliculas/720/first%20kill.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5ODU2NzExMF5BMl5BanBnXkFtZTgwOTI2ODkwMTI@._V1_FMjpg_UX1000_.jpg" group-title="2017",El ultimo virrey de India (2017)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqKd2pxSsJBPxotVEtpb8qeQblVs.jpg" group-title="2017",El último virrey de India (2017)
 http://vod.tuxchannel.mx/peliculas/720/viceroys%20house.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/12/w1280/wMRVbKqCvUvTB7LVFMhZqawoyb8.jpg" group-title="2017",El verdugo (2017)
-http://vod.tuxchannel.mx/peliculas/720/hangman.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/7/w1280/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg" group-title="2017",Emoji: La película (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20emoji%20movie.mkv
 #EXTINF:-1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_4474_imagen__.jpg" group-title="2017",En donde estan los ladrones (2017)
