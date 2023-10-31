@@ -7011,8 +7011,6 @@ http://vod.tuxchannel.mx/peliculas/720/automata.mkv
 http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fi2xgU0y0p77WTrB0oIkbpdaWq8R.jpg" group-title="Peliculas Viejas",Aviones 1 (2013)
 http://vod.tuxchannel.mx/peliculas/720/disneys%20planes.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/45O4UJlf4W1VMVV76SISFN6JGZw.jpg" group-title="Peliculas Viejas",Aviones 2: Equipo de rescate (2014)
-https://archive.org/download/aviones-disneys-planes-2/Aviones%20-%20Disney%27s%20Planes%202.mp4
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjuRFEbyx5JlNuYrZM50vcZmtN78.jpg" group-title="Peliculas Viejas",Avión presidencial (1997)
 http://vod.tuxchannel.mx/peliculas/720/air%20force%20one.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h5oXcjRu0EOiAxSxYuGq58897tu.jpg" group-title="Peliculas Viejas",Azul extremo (2005)
@@ -7209,10 +7207,6 @@ http://vod.tuxchannel.mx/peliculas/720/click.mkv
 http://vod.tuxchannel.mx/peliculas/720/cobra.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pduPduL1ub5kok3lPYT15ryC9L6.jpg" group-title="Peliculas Viejas",Cocodrilo Dundee 1 (1986)
 https://archive.org/download/killet-2353/KILLET2353.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yoA2hgb0PoArTAqjsJhFyzwVH0C.jpg" group-title="Peliculas Viejas",Cocodrilo Dundee 2 (1988)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hwt6iJjPuXRDKJON5s9G9pdfPbu.jpg" group-title="Peliculas Viejas",Cocodrilo Dundee 3 (2001)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eK2cdRZ5KsR1m6yyrQWbtxPE8zh.jpg" group-title="Peliculas Viejas",Cocoon 1 (1985)
 http://vod.tuxchannel.mx/peliculas/720/cocoon.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBsXdBl8qCXoQsWX6vfsVjWOMGk.jpg" group-title="Peliculas Viejas",Cocoon 2: El regreso (1988)
