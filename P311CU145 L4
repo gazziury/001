@@ -6119,6 +6119,8 @@ http://vod.tuxchannel.mx/peliculas/720/birkebeinerne.mkv
 http://vod.tuxchannel.mx/peliculas/720/in%20a%20valley%20of%20violence.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9xMMUsqz7MxQUPToJqhfYAebQBo.jpg" group-title="2016",El viaje de Max (2016)
 http://vod.tuxchannel.mx/peliculas/720/maximum%20ride.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6MF3cdAasnF17SG9bmeamQ066iJ.jpg" group-title="2016",En nombre del amor (2016)
+http://vod.tuxchannel.mx/peliculas/720/en%20nombre%20del%20amor.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFw9RXKZDvevAGocgBK0zteto4U.jpg" group-title="2016",Escuadrón suicida (2016)
 http://vod.tuxchannel.mx/peliculas/720/suicide%20squad.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r2luFFC9ZkJFmS11E8d07RsHm3r.jpg" group-title="2016",Espía por error (2016)
@@ -6187,8 +6189,6 @@ http://vod.tuxchannel.mx/peliculas/720/kung%20fu%20panda%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/blair%20witch.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdgDVkGFltTm1MCoFtlq91r7jwi9.jpg" group-title="2016",La ciudad perdida de Z (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20lost%20city%20of%20z.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6MF3cdAasnF17SG9bmeamQ066iJ.jpg" group-title="2016",La decisión (2016)
-http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/En%20Nombre%20del%20Amor.mp4
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtFzUkdhPOForVrEfvxydXfPLrZR.jpg" group-title="2016",La era del hielo: Choque de mundos (2016)
 http://vod.tuxchannel.mx/peliculas/720/ice%20age%20collision%20course.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fp70dq1YxabemdZDm5K6Q8G10wSn.jpg" group-title="2016",La gran muralla (2016)
