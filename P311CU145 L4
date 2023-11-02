@@ -2860,6 +2860,8 @@ https://archive.org/download/01_20211017_20211017_1900/01.mp4
 https://archive.org/download/01_20220112_20220112_1559/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/fMUF0egg4EHdx1UeZBoLzsWjvn7.jpg" group-title="2021",Hasta el final (2021)
 https://archive.org/download/01_20220410_20220410_2111/01.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/9azVNvLVswNn1dj43YbJ5sZiykd.jpg" group-title="2021",Hasta la muerte (2021)
+http://vod.tuxchannel.mx/peliculas/720/till%20death%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/o4qCDRElLi7zwREDmkfe5AOetF4.jpg" group-title="2021",Hay alguien en tu casa (2021)
 http://vod.tuxchannel.mx/peliculas/720/theres%20someone%20inside%20your%20house%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/rnZUG1B9c9GFSkRrDiKBz779Mna.jpg" group-title="2021",Heredero (2021)
@@ -3450,8 +3452,6 @@ http://vod.tuxchannel.mx/peliculas/720/old%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/potters%20ground%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="2021",Tigre blanco (2021)
 http://vod.tuxchannel.mx/peliculas/720/the%20white%20tiger%202021.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/9azVNvLVswNn1dj43YbJ5sZiykd.jpg" group-title="2021",Till death: Hasta la muerte (2021)
-https://archive.org/download/01_20220821_20220821_1718/01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDlmZDU5MmUtNWFmMy00OTQ1LTk1YTctOTI3ZmU1YzZiYmZmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="2021",Todo sobre los Ricardos (2021)
 http://vod.tuxchannel.mx/peliculas/720/being%20the%20ricardos%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/2/w1280/VpyHJgtihILK3QYa3erNuaWxzQ.jpg" group-title="2021",Tom y Jerry (2021)
