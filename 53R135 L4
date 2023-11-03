@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 ######################################################################################################################################
 ######################################################################################################################################
@@ -1557,9 +1557,12 @@ https://archive.org/download/07_20231102_20231102_1920/07.mp4
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 08
 https://archive.org/download/08_20231102_20231102_1937/08.mp4
 
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg" group-title="Chucky T3",Cap. 01
+https://archive.org/download/01_20231102_20231102_2021/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg" group-title="Chucky T3",Cap. 02
+https://archive.org/download/02_20231102_20231102_2026/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg" group-title="Chucky T3",Cap. 03
+https://archive.org/download/03_20231102_20231102_2045/03.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 01
 http://series.tuxchannel.mx/series/chueco/s_01_e_01.mkv
