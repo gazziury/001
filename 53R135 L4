@@ -5594,12 +5594,14 @@ http://series.tuxchannel.mx/series/gangs_of_london/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1",Cap. 09
 http://series.tuxchannel.mx/series/gangs_of_london/s_01_e_09.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Gen V",Cap. 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Generación V",Cap. 01
 https://archive.org/download/01_20231002_20231002_2124/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Gen V",Cap. 02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Generación V",Cap. 02
 https://archive.org/download/02_20231002_20231002_2130/02.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Gen V",Cap. 03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Generación V",Cap. 03
 https://archive.org/download/03_20231002_202310/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg" group-title="Generación V",Cap. 04
+https://archive.org/download/generacion-v-04/Generaci%C3%B3n%20V%2004.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Ginny y Georgia",TRAILER
 https://archive.org/download/trailer-g-1-nny-y-g-30-rg-14/trailer%20G1NNY%20Y%20G30RG14.mp4
