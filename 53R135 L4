@@ -1521,24 +1521,45 @@ http://series.tuxchannel.mx/series/chicago_med/s_05_e_19.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/06/09/44/4000011.jpg" group-title="Chicago Med T5 (SUB)",Cap. 20
 http://series.tuxchannel.mx/series/chicago_med/s_05_e_20.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Chucky",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Chucky T1",TRAILER
 https://archive.org/download/trailer-chucky/trailer%20Chucky.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 01
-https://archive.org/download/capitulo-08_202112/capitulo%2001.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 02
-https://archive.org/download/capitulo-08_202112/capitulo%2002.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 03
-https://archive.org/download/capitulo-08_202112/capitulo%2003.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 04
-https://archive.org/download/capitulo-08_202112/capitulo%2004.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 05
-https://archive.org/download/capitulo-08_202112/capitulo%2005.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 06
-https://archive.org/download/capitulo-08_202112/capitulo%2006.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 07
-https://archive.org/download/capitulo-08_202112/capitulo%2007.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 08
-https://archive.org/download/capitulo-08_202112/capitulo%2008.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 01
+https://archive.org/download/01_20231102_20231102_1606/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 02
+https://archive.org/download/02_20231102_20231102/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 03
+https://archive.org/download/03_20231102_202311/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 04
+https://archive.org/download/04_20231102_20231102/04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 05
+https://archive.org/download/05_20231102_20231102/05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 06
+https://archive.org/download/06_20231102_20231102_1650/06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 07
+https://archive.org/download/07_20231102_20231102/07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 08
+https://archive.org/download/08_20231102_20231102/08.mp4
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 01
+https://archive.org/download/01_20231102_20231102_1838/01.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 02
+https://archive.org/download/02_20231102_20231102_1845/02.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 03
+https://archive.org/download/03_20231102_20231102/03.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 04
+https://archive.org/download/04_20231102_20231102_1858/04.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 05
+https://archive.org/download/05_20231102_20231102_1907/05.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 06
+https://archive.org/download/06_20231102_20231102_1914/06.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 07
+https://archive.org/download/07_20231102_20231102_1920/07.mp4
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 08
+https://archive.org/download/08_20231102_20231102_1937/08.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 01
 http://series.tuxchannel.mx/series/chueco/s_01_e_01.mkv
