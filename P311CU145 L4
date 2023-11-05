@@ -7,69 +7,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="Peliculas 60 FPS",65: Al borde de la extinción (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wkrRKMFRwCpjp1U27914oRbcqH.jpg" group-title="Peliculas 60 FPS",Adicción perfecta (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="Peliculas 60 FPS",Avatar: El camino del agua (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mcOD6BogT9jE3Gj2htXg4QLAM8x.jpg" group-title="Peliculas 60 FPS",Camino a la perdición (60 FPS)
-http://vod.tuxchannel.mx/peliculas/720/road%20to%20perdition%202002.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" group-title="Peliculas 60 FPS",Creed III (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg" group-title="Peliculas 60 FPS",Destino final 1 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg" group-title="Peliculas 60 FPS",Destino final 2 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg" group-title="Peliculas 60 FPS",Destino final 3 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg" group-title="Peliculas 60 FPS",Destino final 4 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5uRF7zATPr0hIMfDcMEfnhMGw6a.jpg" group-title="Peliculas 60 FPS",Destino final 5 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uVamttI4Bnu7XQQsPX0vpOTolE3.jpg" group-title="Peliculas 60 FPS",El estrangulador de Boston (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ3ZTViYTEtZDUwZS00NjQyLWJmODctN2JhOGVmNTQ5N2ZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="Peliculas 60 FPS",Gran Turismo (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bVpTTg0NvaS905U2oXVr0awgCbM.jpg" group-title="Peliculas 60 FPS",Guardianes de la galaxia vol.3 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg" group-title="Peliculas 60 FPS",Hook (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg" group-title="Peliculas 60 FPS",Inteligencia artificial (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="Peliculas 60 FPS",John Wick 1 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huR3i1oxVkipuAJVF2UVVxV9alC.jpg" group-title="Peliculas 60 FPS",John Wick 2 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ejODG5DtqCVJm85XVt2BOxMrHxF.jpg" group-title="Peliculas 60 FPS",John Wick 3 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg" group-title="Peliculas 60 FPS",La exorcista (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtvX2JltXjmpHLQ7BBijyVc9STv4.jpg" group-title="Peliculas 60 FPS",Luther: Cae la noche (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z42kyMizgDKetejusZgucSQsQ4l.jpg" group-title="Peliculas 60 FPS",Need for speed (60 FPS)
-http://vod.tuxchannel.mx/peliculas/720/need%20for%20speed.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas 60 FPS",Rápidos y furiosos 10 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eLf4jclPijOqfEp6bDAmezRFxk5.jpg" group-title="Peliculas 60 FPS",Romeo y Julieta (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lRQiJXETkCnVVurHmglNvMXrZOx.jpg" group-title="Peliculas 60 FPS",Scary movie 1 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg" group-title="Peliculas 60 FPS",Scary movie 2 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gLTVGCtUfD80sMDkbxAiWNso7Ne.jpg" group-title="Peliculas 60 FPS",Scary movie 3 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sEqFdw1wLtY94RKCSPolsHWzn6r.jpg" group-title="Peliculas 60 FPS",Scary movie 4 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r2Jwo4Eoax0oOnsU5qcXv0ea0Q8.jpg" group-title="Peliculas 60 FPS",Scary movie 5 (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtCcODG2u3vzhakA2PfVG4h5tUO9.jpg" group-title="Peliculas 60 FPS",Sugar en aprietos (60 FPS)
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FA3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg" group-title="Peliculas 60 FPS",Shazam: La furia de los dioses (60 FPS)
-no.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2022/12/super_mario_bros_the_movie_ver3_xxlg.jpg" group-title="Peliculas 60 FPS",Super Mario Bros (60 FPS)
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/672kUEMtTHcaVYSVY4eiHEliHFa.jpg" group-title="Peliculas 4K",007 Spectre (4K)
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg" group-title="Peliculas 4K",Alien Covenant (4K)
@@ -92,6 +29,8 @@ http://vod.tuxchannel.mx/peliculas4k/battleship.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" group-title="Peliculas 4K",Buscando a Dory (4K)
 http://vod.tuxchannel.mx/peliculas4k/finding%20dory.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mcOD6BogT9jE3Gj2htXg4QLAM8x.jpg" group-title="Peliculas 4K",Camino a la perdición (4K)
+http://vod.tuxchannel.mx/peliculas/720/road%20to%20perdition%202002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uymMGErUAUXElLJE4jTUrDMT7wr.jpg" group-title="Peliculas 4K",Capitan America: Guerra civil (4K)
 http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg" group-title="Peliculas 4K",Carrie (4K)
