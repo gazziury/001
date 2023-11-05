@@ -6,7 +6,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://cartelerasdecine.info/wp-content/uploads/2017/11/Estrenos-Noviembre-Carteleras-de-Cine.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/672kUEMtTHcaVYSVY4eiHEliHFa.jpg" group-title="Peliculas 4K",007 Spectre (4K)
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg" group-title="Peliculas 4K",Alien Covenant (4K)
@@ -142,8 +141,6 @@ https://archive.org/download/57.53c-0rd-5.-sub-hd-1080p.-entrepeliculasyseries.n
 http://vod.tuxchannel.mx/peliculas/720/65%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eYGyR8xF8emNs9AJAJSyLXu56kR.jpg" group-title="2023",97 minutos (2023) XBET
 https://archive.org/download/ver-pelicula-97-minu...-cliver/Ver_pel%C3%ADcula_97_Minu...Cliver.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E3ODllNmMtMzdkMS00OTI2LWE4YjYtZWZhN2YyZjhjYmM2XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg" group-title="2023",Acusado (2023)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg" group-title="2023",Adentro (2023)
 http://vod.tuxchannel.mx/peliculas/720/inside%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wkrRKMFRwCpjp1U27914oRbcqH.jpg" group-title="2023",Adicción perfecta (2023)
@@ -308,8 +305,6 @@ http://vod.tuxchannel.mx/peliculas/720/dampyr%202023.mkv
 https://archive.org/download/bank.of.-dave.-2023.720p/New%20folder%20%283%29/Bank.of.Dave.2023.720p.mp4
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3XmCuwIwriQMMaHmkfh7T756Htd.jpg" group-title="2023",De Caperucita a loba (2023)
 http://vod.tuxchannel.mx/peliculas/720/de%20caperucita%20a%20loba%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cL36UT4NzgkK8oA9DJR7Qu5KlLX.jpg" group-title="2023",Deltopia (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6ecSjKSjgIULyHfrfyyg9vgAI33.jpg" group-title="2023",Demonio negro (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20black%20demon%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg" group-title="2023",Desconectada (2023)
@@ -320,8 +315,6 @@ http://vod.tuxchannel.mx/peliculas/720/detective%20knight%20independence%202023.
 http://vod.tuxchannel.mx/peliculas/720/black%20warrant%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxMzk4Y2QtY2I2ZC00ZmY0LWIzNjctNGIwZjJiZjBjZTJlXkEyXkFqcGdeQXVyNTY1MDY1NjY@._V1_FMjpg_UX1000_.jpg" group-title="2023",Desconexión: El organizador de bodas (2023)
 http://vod.tuxchannel.mx/peliculas/720/disconnect%20the%20wedding%20planner%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jDerGXOxXvEYWqbDBPWeMrS6IOu.jpg" group-title="2023",Desmadre incluido (2023)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vKGrBwHcs9sexnQQdvmVq1p86Ti.jpg" group-title="2023",Devoradora de almas (2023)
 http://vod.tuxchannel.mx/peliculas/720/feed%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fwws9Z90DdZ7D0n3gdzFSZ6cntJi.jpg" group-title="2023",Día de la madre (2023)
@@ -376,8 +369,6 @@ https://archive.org/download/p-e_1/E.mp4
 http://vod.tuxchannel.mx/peliculas/720/boston%20strangler%202023.mkv
 #EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/8/8/3/6/4/1/883641-the-elevator-0-230-0-345-crop.jpg" group-title="2023",Elevador al infierno (2023)
 https://archive.org/download/the-elevator-2023/THE%20ELEVATOR%20%282023%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3VGfYYIyYyJcsjRajBT0FwEMv9J.jpg" group-title="2023",Elevator game (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lxRLC3WOFM2INoyEa3bFGIUApvn.jpg" group-title="2023",El exorcista: Creyentes (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20exorcist%20believer%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lxRLC3WOFM2INoyEa3bFGIUApvn.jpg" group-title="2023",El exorcista: Creyentes (2023) FHD
@@ -428,12 +419,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20monkey%20king%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/consecration%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxEAXVe0BzW4K9Ky6eTo4CJwzJ8P.jpg" group-title="2023",El Sr Carrito y los caballeros templarios (2023)
 http://vod.tuxchannel.mx/peliculas/720/pan%20samochodzik%20i%20templariusze%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pPv4KYbcG16xmr2Q0rlV2Brqh6g.jpg" group-title="2023",El tonto (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg" group-title="2023",El tutor (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20tutor%202023.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fr4yCgWjAbh13X5EFiXPpbnnBYhP.jpg" group-title="2023",El último objetivo (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg" group-title="2023",El último vagón (2023)
 http://vod.tuxchannel.mx/peliculas/720/el%20ultimo%20vagon%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg" group-title="2023",El vuelo de los ladrones (2023)
@@ -514,8 +501,6 @@ http://vod.tuxchannel.mx/peliculas/720/hasta%20la%20madre%20del%20dia%20de%20las
 http://vod.tuxchannel.mx/peliculas/720/theres%20something%20wrong%20with%20the%20children%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg" group-title="2023",Hazme el favor (2023)
 https://archive.org/download/01_20230810_20230810/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4ueFteb6V38fnSWTN4jIbLOlMlM.jpg" group-title="2023",Heist 88 (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/10/hermana-muerte-3205178.jpg" group-title="2023",Hermana muerte (2023)
 http://vod.tuxchannel.mx/peliculas/720/hermana%20muerte%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fn1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg" group-title="2023",Hijos de perra (2023)
@@ -728,12 +713,6 @@ http://vod.tuxchannel.mx/peliculas/720/metalocalypse%20army%20of%20the%20doomsta
 http://vod.tuxchannel.mx/peliculas/720/me%20vuelves%20loca%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tCTqW2YLxx6gqrPFTlMswvDunuQ.jpg" group-title="2023",Mezclado por Erry (2023)
 http://vod.tuxchannel.mx/peliculas/720/mixed%20by%20erry%202023.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w300/wXvMzAc6qyDQSFbGdWThfuHLN39.jpg" group-title="2023",Mi crimen (2023) SUB
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FirEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="2023",Mi gran boda griega 3 (2023) SUB
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZjNDQxYjctMmI0OS00MzZlLTg2MjEtMDAwNDY5OWRkYWQwXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg" group-title="2023",Mil y uno (2023)
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w1280/5MiVG39r82aYUAtvs3bTycmbewJ.jpg" group-title="2023",Mi maestra se comió a mi amigo (2023)
 http://vod.tuxchannel.mx/peliculas/720/mi%20maestra%20se%20comio%20a%20mi%20amigo%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="2023",Mini espías: Armagedón (2023)
@@ -754,8 +733,6 @@ http://vod.tuxchannel.mx/peliculas/720/murder%20mystery%202%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/momias%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/92lNFTRc0rRI5dJpPQWuEZIaXgj.jpg" group-title="2023",Monster High 2 (2023)
 https://archive.org/download/01_20231029_20231029_1940/01.mp4
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F15hCr00Edj27KYhJ6COUzhCh0wZ.jpg" group-title="2023",Moon students (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg" group-title="2023",Mortal Kombat Legends: Angeles y demonios (2023)
 http://vod.tuxchannel.mx/peliculas/720/mortal%20kombat%20legends%20cage%20match%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kHLm4E0jSGnDRqo2ZFgEQQeQK6M.jpg" group-title="2023",Muerte infinita (2023)
@@ -766,8 +743,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20ritual%20killer%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/faraway%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dKP2cphhHAsw0ftInIbipWfgB1l.jpg" group-title="2023",My house (2023)
 http://vod.tuxchannel.mx/peliculas/720/my%20house%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/VpqbGLrYGkLCYbAo3cbCIRdJEh.jpg" group-title="2023",Nacido para volar (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg" group-title="2023",Nada que ver (2023)
 http://vod.tuxchannel.mx/peliculas/720/nada%20que%20ver%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg" group-title="2023",Nadie podrá salvarte (2023)
@@ -816,8 +791,6 @@ https://archive.org/download/01_20231029_20231029_1912/01.mp4
 http://vod.tuxchannel.mx/peliculas/720/paradise%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aTvePCU7exLepwg5hWySjwxojQK.jpg" group-title="2023",Paw patrol: La superpelícula (2023)
 http://vod.tuxchannel.mx/peliculas/720/paw%20patrol%20the%20mighty%20movie%202023.mkv
-#EXTINF:-1 tvg-logo="https://imgsrc.cineserie.com/2023/09/2820218.jpg" group-title="2023",Perdida (2023) SUB
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="2023",Perro perdido (2023)
 http://vod.tuxchannel.mx/peliculas/720/dog%20gone%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9NXAlFEE7WDssbXSMgdacsUD58Y.jpg" group-title="2023",Peter Pan y Wendy (2023)
@@ -968,8 +941,6 @@ http://vod.tuxchannel.mx/peliculas/720/teenage%20mutant%20ninja%20turtles%20muta
 http://vod.tuxchannel.mx/peliculas/720/transformers%20rise%20of%20the%20beasts%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg" group-title="2023",Transfusión (2023)
 http://vod.tuxchannel.mx/peliculas/720/transfusion%202023.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/gRWWO0dqCRG6K8ZtRNVf8xrb1Ng.jpg" group-title="2023",Tren nocturno (2023) XBET SUB
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhOr25xH6tONJdW9NmzZDtz3j8N.jpg" group-title="2023",Tu casa o la mía (2023)
 http://vod.tuxchannel.mx/peliculas/720/your%20place%20or%20mine%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg" group-title="2023",Una buena persona (2023)
