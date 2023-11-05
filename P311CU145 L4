@@ -11,22 +11,12 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg" group-title="Peliculas 4K",Alien Covenant (4K)
 http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5JcuLWpKf85q5oy1NbzyFAGkhqx.jpg" group-title="Peliculas 4K",Ant-man y la Avispa: Quantumania (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVTSNeqEymd0iZKByf68A5nLIGM.jpg" group-title="Peliculas 4K",Apocalypto (4K)
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnhiShTvoga8fyGX8468hLj6pCtW.jpg" group-title="Peliculas 4K",Assassins Creed (4K)
 http://vod.tuxchannel.mx/peliculas4k/assassins%20creed.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" group-title="Peliculas 4K",Avatar (4K)
 http://vod.tuxchannel.mx/peliculas4k/avatar.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="Peliculas 4K",Avatar: El camino del agua (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg" group-title="Peliculas 4K",Batalla naval (4K)
 http://vod.tuxchannel.mx/peliculas4k/battleship.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvNfL4DYnonltukBrrgMmw94zMYL.jpg" group-title="Peliculas 4K",Blue Beetle (4K)
-
-#EXTINF:-1 tvg-logo="https://s2.ppllstatics.com/diariosur/www/multimedia/2023/06/02/pelicula-fotograma-3384-grande--366x256.jpg" group-title="Peliculas 4K",Boogeyman: Tu miedo es real (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" group-title="Peliculas 4K",Buscando a Dory (4K)
 http://vod.tuxchannel.mx/peliculas4k/finding%20dory.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mcOD6BogT9jE3Gj2htXg4QLAM8x.jpg" group-title="Peliculas 4K",Camino a la perdición (4K)
@@ -35,20 +25,12 @@ http://vod.tuxchannel.mx/peliculas/720/road%20to%20perdition%202002.mkv
 http://vod.tuxchannel.mx/peliculas4k/captain%20america%20civil%20war.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg" group-title="Peliculas 4K",Carrie (4K)
 http://vod.tuxchannel.mx/peliculas4k/carrie.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg" group-title="Peliculas 4K",Crater (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/daRXI0cJ8SGqlU7Lsmz1Ez3J3cH.jpg" group-title="Peliculas 4K",Depredador (4K)
 http://vod.tuxchannel.mx/peliculas4k/predator.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg" group-title="Peliculas 4K",Doctor Extraño (4K)
 http://vod.tuxchannel.mx/peliculas4k/doctor%20strange.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fnrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg" group-title="Peliculas 4K",Drácula: Mar de sangre (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tYXOOkDxJ7jSvUX5j1Hbks1GjBZ.jpg" group-title="Peliculas 4K",El código Da Vinci (4K)
 http://vod.tuxchannel.mx/peliculas4k/the%20da%20vinci%20code.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg" group-title="Peliculas 4K",Elementos (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg" group-title="Peliculas 4K",El exorcista del Papa (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="Peliculas 4K",El renacido (4K)
 http://vod.tuxchannel.mx/peliculas4k/the%20revenant.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg" group-title="Peliculas 4K",Elysium (4K)
@@ -59,38 +41,22 @@ http://vod.tuxchannel.mx/peliculas4k/suicide%20squad.mkv
 http://vod.tuxchannel.mx/peliculas4k/spectral.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg" group-title="Peliculas 4K",Fragmentado (4K)
 http://vod.tuxchannel.mx/peliculas4k/split.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FliLN69YgoovHVgmlHJ876PKi5Yi.jpg" group-title="Peliculas 4K",Ghosteado (4K)
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fr7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="Peliculas 4K",Guardianes de la galaxia 1 (4K)
 http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kxtZpFfR0RMModlRHTFIuEPEH2O.jpg" group-title="Peliculas 4K",Guardianes de la galaxia 2 (4K)
 http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy%20vol%202.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bVpTTg0NvaS905U2oXVr0awgCbM.jpg" group-title="Peliculas 4K",Guardianes de la galaxia 3 (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zpAhD2QUyCz5bifjZUGVTabplMo.jpg" group-title="Peliculas 4K",Hasta el último hombre (4K)
 http://vod.tuxchannel.mx/peliculas4k/hacksaw%20ridge.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y4zAHCRmS1wof5bUmEM9CZOYQ04.jpg" group-title="Peliculas 4K",Indiana Jones y el dial del destino (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg" group-title="Peliculas 4K",Inferno (4K)
 http://vod.tuxchannel.mx/peliculas4k/inferno.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="Peliculas 4K",Invicto 4 (4K)
 http://vod.tuxchannel.mx/peliculas4k/boyka%20undisputed%20iv.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2023/01/29/63d60baf13d85.jpeg" group-title="Peliculas 4K",John Wick 4 (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="Peliculas 4K",Jungle Cruise (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg" group-title="Peliculas 4K",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg" group-title="Peliculas 4K",La guerra del mañana (4K)
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg" group-title="Peliculas 4K",La isla siniestra (4K)
 http://vod.tuxchannel.mx/peliculas4k/shutter%20island.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg" group-title="Peliculas 4K",La leyenda de Tarzan (4K)
 http://vod.tuxchannel.mx/peliculas4k/the%20legend%20of%20tarzan.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d07phJqCx6z5wILDYqkyraorDPi.jpg" group-title="Peliculas 4K",La noche del demonio 5: La puerta roja (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg" group-title="Peliculas 4K",La Sirenita (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iLgRu4hhSr6V1uManX6ukDriiSc.jpg" group-title="Peliculas 4K",La vida de Pi (4K)
 http://vod.tuxchannel.mx/peliculas4k/life%20of%20pi.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg" group-title="Peliculas 4K",Los ilusionistas 1 (4K)
@@ -105,12 +71,6 @@ http://vod.tuxchannel.mx/peliculas4k/matrix.mkv
 http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20reloaded.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qEWiBXJGXK28jGBAm8oFKKTB0WD.jpg" group-title="Peliculas 4K",Matrix: Revoluciones (4K)
 http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20revolutions.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="Peliculas 4K",Matrix: Resurrección (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="Peliculas 4K",Megalodón 2: El gran abismo (4K)
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VfYHH1CPDDoi94pxhX4Bst0wY.jpg" group-title="Peliculas 4K",Mira (4K) SUB
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vNJFiwtsl7Twww7C0uM4qPnygNw.jpg" group-title="Peliculas 4K",Moana (4K)
 http://vod.tuxchannel.mx/peliculas4k/moana.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg" group-title="Peliculas 4K",Nacido para matar (4K)
@@ -125,8 +85,6 @@ http://vod.tuxchannel.mx/peliculas4k/oblivion.mkv
 http://vod.tuxchannel.mx/peliculas4k/passengers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xPazCcKp62IshnLVf9BLAjf9vgC.jpg" group-title="Peliculas 4K",Poltergeist (4K)
 http://vod.tuxchannel.mx/peliculas4k/poltergeist.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" group-title="Peliculas 4K",Posesión infernal: El despertar (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg" group-title="Peliculas 4K",Power Rangers (4K)
 http://vod.tuxchannel.mx/peliculas4k/power%20rangers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="Peliculas 4K",Rápidos y furiosos 1 (4K)
@@ -137,8 +95,6 @@ http://vod.tuxchannel.mx/peliculas4k/2%20fast%202%20furious.mkv
 http://vod.tuxchannel.mx/peliculas4k/fast%20and%20furious%207.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pSWBErKLoigDZlxLw6iSzobs9Dd.jpg" group-title="Peliculas 4K",Rápidos y furiosos 8 (4K)
 http://vod.tuxchannel.mx/peliculas4k/the%20fate%20of%20the%20furious.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas 4K",Rápidos y furiosos 10 (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1UKNef590A0ZaMnxsscIcWuK1Em.jpg" group-title="Peliculas 4K",Resident evil 1 (4K)
 http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/way9dOm4dM2sm9UMcu2PEXMTX0q.jpg" group-title="Peliculas 4K",Resident evil 2 (4K)
@@ -153,10 +109,6 @@ http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20retribution.mkv
 http://vod.tuxchannel.mx/peliculas4k/resident%20evil%20the%20final%20chapter.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg" group-title="Peliculas 4K",Soy leyenda (4K)
 http://vod.tuxchannel.mx/peliculas4k/i%20am%20legend.mkv
-#EXTINF:-1 tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2022/12/super_mario_bros_the_movie_ver3_xxlg.jpg" group-title="Peliculas 4K",Super Mario Bros (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4vjKJRcO1LO36JZYMbbjbx421YN.jpg" group-title="Peliculas 4K",The Flash (4K)
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg" group-title="Peliculas 4K",Thor (4K)
 http://vod.tuxchannel.mx/peliculas4k/thor.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg" group-title="Peliculas 4K",Thor: El mundo oscuro (4K)
@@ -171,21 +123,12 @@ http://vod.tuxchannel.mx/peliculas4k/transformers%20revenge%20of%20the%20fallen.
 http://vod.tuxchannel.mx/peliculas4k/transformers%20dark%20of%20the%20moon.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg" group-title="Peliculas 4K",Transformers 4 (4K)
 http://vod.tuxchannel.mx/peliculas4k/transformers%20age%20of%20extinction.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fs5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="Peliculas 4K",Transformers 5 (4K)
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="Peliculas 4K",Transformers 6 (4K)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6wUN67cWo6mLlhsrSVxZY0pmlSq.jpg" group-title="Peliculas 4K",Un lugar en silencio: Parte 2 (4K)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5JzVWJvjOe9Y9YOrg8iOsLJDNne.jpg" group-title="Peliculas 4K",Vengadores: La era de Ultrón (4K)
 http://vod.tuxchannel.mx/peliculas4k/avengers%20age%20of%20ultron.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg" group-title="Peliculas 4K",Volver al futuro (4K)
 http://vod.tuxchannel.mx/peliculas4k/back%20to%20the%20future.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nZIIOs06YigBnvmlJ2hxZeA8eTO.jpg" group-title="Peliculas 4K",Warcraft (4K)
 http://vod.tuxchannel.mx/peliculas4k/warcraft.mkv
-
-
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg" group-title="2023",10 días de un buen hombre (2023)
 http://vod.tuxchannel.mx/peliculas/720/iyi%20adamin%2010%20gunu%202023.mkv
