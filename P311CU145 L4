@@ -1650,10 +1650,10 @@ http://vod.tuxchannel.mx/peliculas/720/the%20princess%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/la%20princesa%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/pcAW8F97cb7lQL2ShSQ8fTeqPM1.jpg" group-title="2022",Las alegrías y las penas del joven Yuguo (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20joys%20and%20sorrows%20of%20young%20yuguo%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/rnUc9Yy2pWWfdhrPgkkVZWLci0r.jpg" group-title="2022",Las amistades peligrosas (2022)
-https://archive.org/download/01_20220714_20220714_1634/01.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/8/w1280/xIMqbFYkZx0pfgOLMXDdgsY6dA4.jpg" group-title="2022",Las aventuras de Pil (2022)
-https://archive.org/download/las_aventuras_de_pil1/las_aventuras_de_pil%5B1%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg" group-title="2022",Las amistades peligrosas (2022)
+http://vod.tuxchannel.mx/peliculas/720/dangerous%20liaisons%202022.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FabPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="2022",Las aventuras de Pil (2022)
+http://vod.tuxchannel.mx/peliculas/720/pil%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/oxDp1OJyiTPUYm4ykqJrlkkMABy.jpg" group-title="2022",Las caras de la verdad (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20other%20me%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/uerET4OKQSOEBBEc3gwAlaiSAiC.jpg" group-title="2022",Las nadadoras (2022)
@@ -1666,14 +1666,14 @@ http://vod.tuxchannel.mx/peliculas/720/the%20people%20we%20hate%20at%20the%20wed
 http://vod.tuxchannel.mx/peliculas/720/las%20vocales%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/1GNzSPbOZkuKYIA7mHbFHe1W3CH.jpg" group-title="2022",La toma del poder (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20takeover%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/cfHTSUxJjnmjkyEvW7ot2OikGAD.jpg" group-title="2022",La última noche (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bfUO1SBTfgcK77em3lOuRFY2uLc.jpg" group-title="2022",La última noche (2022)
 https://archive.org/download/01_20221021_20221021_1512/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/aH0SVs9R2DDuRYLJ8F9OwVM9vJv.jpg" group-title="2022",La última víctima (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20last%20mark%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/59TWAJRYb5Qtu3mOzQ5JjhmOv39.jpg" group-title="2022",Laura Pausini: Un placer conocerte (2022)
-https://archive.org/download/un-pl-4c-3r-c-0n-0c-3rt-3/Un%20Pl4c3r%20C0n0c3rt3.mp4
+
 #EXTINF:-1 tvg-logo="https://unobtainium13.files.wordpress.com/2021/11/2021-pv.jpg" group-title="2022",La venganza del profesor (2022)
-https://archive.org/download/4.pr-0f-3ss-0rs.v-3ng-4nc-3/4.pr0f3ss0rs.v3ng4nc3.mp4
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/kAUpW3UN3Af9L4H70iYtoeH4mfU.jpg" group-title="2022",La vida en el silencio (2022)
 http://vod.tuxchannel.mx/peliculas/720/la%20vida%20en%20el%20silencio%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQzNDE3N2UtYjU3Ny00N2JjLTkyY2YtYTZmZWI5M2FkNTU0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg" group-title="2022",La vida soñada de Georgie Stone (2022)
