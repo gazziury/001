@@ -2132,8 +2132,6 @@ http://vod.tuxchannel.mx/peliculas/720/torn%202022.mkv
 https://archive.org/download/01_20220427_20220427_2105/01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyNDJhNmMtMzBlYy00Njg3LWJlMDYtYjQ1OTI2MzQ3NjBiXkEyXkFqcGdeQXVyMTI2ODkxNDQ@._V1_FMjpg_UX1000_.jpg" group-title="2022",TQM (2022)
 http://vod.tuxchannel.mx/peliculas/720/tqm%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/svoUDTNzUtozyQXyrQ3UDSGRjU6.jpg" group-title="2022",Traición en el aire: Una cita con el pasado (2022)
-https://archive.org/download/01_20220410_20220410_1847/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/xMFF6OryNYWdnp2L8RUAVeVnMzG.jpg" group-title="2022",Tratamiento real (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20royal%20treatment%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/nG51pBf6PaBkdwuoyeDxMSOfa6p.jpg" group-title="2022",Trece vidas (2022)
@@ -2154,6 +2152,8 @@ http://vod.tuxchannel.mx/peliculas/720/day%20shift%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/umma%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/8NBlso3DuV3frqOzLZ4UYPMTqYu.jpg" group-title="2022",Una cita casi perfecta (2022)
 http://vod.tuxchannel.mx/peliculas/720/meet%20cute%202022.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/svoUDTNzUtozyQXyrQ3UDSGRjU6.jpg" group-title="2022",Una cita con el pasado (2022)
+https://archive.org/download/01_20220410_20220410_1847/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/y0Gw3DeqKLvuSqa78GJh1Q15OgH.jpg" group-title="2022",Una navidad en Hollywood (2022)
 http://vod.tuxchannel.mx/peliculas/720/a%20hollywood%20christmas%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/zuQlQcTkNc8o6Vm6u0yREmOUZv9.jpg" group-title="2022",Una navidad llena de gracia (2022)
